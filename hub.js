@@ -44,7 +44,8 @@
     {"href": "books/misbehaving/", "title": "錯誤的行為", "author": "Richard H. Thaler", "track": "行為 · 心理", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c2", "mark": "錯"},
     {"href": "books/fooled-by-randomness/", "title": "隨機漫步的傻瓜", "author": "Nassim Nicholas Taleb", "track": "行為 · 心理", "duration": "約 41 分鐘", "chapters": "9 章", "coverClass": "c3", "mark": "隨"},
     {"href": "books/black-swan/", "title": "黑天鵝", "author": "Nassim Nicholas Taleb", "track": "行為 · 心理", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c4", "mark": "黑"},
-    {"href": "books/pumpkin-plan/", "title": "南瓜計畫", "author": "Mike Michalowicz", "track": "創業現金流", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c1", "mark": "南"}
+    {"href": "books/pumpkin-plan/", "title": "南瓜計畫", "author": "Mike Michalowicz", "track": "創業現金流", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c1", "mark": "南"},
+    {"href": "books/clockwork/", "title": "時鐘機制", "author": "Mike Michalowicz", "track": "創業現金流", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c2", "mark": "時"}
   ];
 
   const grid = document.getElementById("book-grid");
