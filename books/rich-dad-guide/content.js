@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "財務自由定義",
       "subtitle": "數字後面是選擇權",
       "audio": "audio/ch00.mp3",
-      "audioDur": "4:12",
+      "audioDur": "4:13",
       "briefing": {
         "paragraphs": [
           "財務自由之路強調：自由係現金流覆蓋生活，而唔只係身家紙面數字。重點係月月仲有錢淨入，唔使被迫出賣時間。",
@@ -165,7 +165,7 @@ window.DUSHU_BOOK = {
       "title": "財務智商再升級",
       "subtitle": "識數、識勢、識己",
       "audio": "audio/ch01.mp3",
-      "audioDur": "4:15",
+      "audioDur": "4:16",
       "briefing": {
         "paragraphs": [
           "繼續強化財務報表直覺：收入、開銷、資產、負債。每月看一次，像看體檢。",
@@ -475,7 +475,7 @@ window.DUSHU_BOOK = {
       "title": "投資盒子",
       "subtitle": "先盒子，後標的",
       "audio": "audio/ch03.mp3",
-      "audioDur": "4:10",
+      "audioDur": "4:11",
       "briefing": {
         "paragraphs": [
           "把錢分盒：生活、備用、成長投資、投機娛樂、學習。盒與盒規則不同。",
@@ -785,7 +785,7 @@ window.DUSHU_BOOK = {
       "title": "人脈同交易",
       "subtitle": "價值交換不是攀附",
       "audio": "audio/ch05.mp3",
-      "audioDur": "4:05",
+      "audioDur": "4:06",
       "briefing": {
         "paragraphs": [
           "人脈係價值交換網絡。先成爲有用的人，再談機會。",
@@ -1250,7 +1250,7 @@ window.DUSHU_BOOK = {
       "title": "九十日自由衝刺",
       "subtitle": "把書變成日程",
       "audio": "audio/ch08.mp3",
-      "audioDur": "4:11",
+      "audioDur": "4:12",
       "briefing": {
         "paragraphs": [
           "未來九十日：體檢、分盒、事業閉環最弱格、投資政策、恐懼實驗、月看板。",
