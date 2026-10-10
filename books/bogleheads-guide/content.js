@@ -1242,7 +1242,7 @@ window.DUSHU_BOOK = {
       "title": "落地組合",
       "subtitle": "一頁紙寫低就去做",
       "audio": "audio/ch08.mp3",
-      "audioDur": "2:10",
+      "audioDur": "4:21",
       "briefing": {
         "paragraphs": [
           "《博格頭投資指南》（原題 The 博格heads' Guide to Investing）呢章「落地組合」——一頁紙寫低就去做。作者Taylor Larimore 等想帶出嘅核心，可以一句講：買進持有低成本基金心法。但一句唔夠用…",
