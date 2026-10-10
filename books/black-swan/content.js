@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "起點同定義",
       "subtitle": "先講清楚呢本書想解決咩",
       "audio": "audio/ch00.mp3",
-      "audioDur": "4:20",
+      "audioDur": "3:37",
       "briefing": {
         "paragraphs": [
           "《黑天鵝》（原題 The Black Swan）呢章「起點同定義」——先講清楚呢本書想解決咩。作者Nassim Nicholas Taleb想帶出嘅核心，可以一句講：極端事件與敘事謬誤。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全…",
@@ -626,7 +626,7 @@ window.DUSHU_BOOK = {
       "title": "心理同紀律",
       "subtitle": "市場同自己都會搗亂",
       "audio": "audio/ch04.mp3",
-      "audioDur": "2:26",
+      "audioDur": "4:17",
       "briefing": {
         "paragraphs": [
           "《黑天鵝》（原題 The Black Swan）呢章「心理同紀律」——市場同自己都會搗亂。作者Nassim Nicholas Taleb想帶出嘅核心，可以一句講：極端事件與敘事謬誤。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，…",
@@ -934,7 +934,7 @@ window.DUSHU_BOOK = {
       "title": "組合同倉位",
       "subtitle": "點樣拿倉",
       "audio": "audio/ch06.mp3",
-      "audioDur": "1:08",
+      "audioDur": "3:23",
       "briefing": {
         "paragraphs": [
           "《黑天鵝》（原題 The Black Swan）呢章「組合同倉位」——點樣拿倉。作者Nassim Nicholas Taleb想帶出嘅核心，可以一句講：極端事件與敘事謬誤。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可…",
@@ -1242,7 +1242,7 @@ window.DUSHU_BOOK = {
       "title": "九十日落地",
       "subtitle": "听完要變成習慣",
       "audio": "audio/ch08.mp3",
-      "audioDur": "2:00",
+      "audioDur": "4:19",
       "briefing": {
         "paragraphs": [
           "《黑天鵝》（原題 The Black Swan）呢章「九十日落地」——聽完要變成習慣。作者Nassim Nicholas Taleb想帶出嘅核心，可以一句講：極端事件與敘事謬誤。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要…",
