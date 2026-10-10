@@ -20,7 +20,10 @@
     {"href": "books/profit-first/", "title": "獲利優先", "author": "Mike Michalowicz", "track": "創業現金流", "duration": "約 41 分鐘", "chapters": "9 章", "coverClass": "c2", "mark": "利"},
     {"href": "books/lean-startup/", "title": "精實創業", "author": "Eric Ries", "track": "創業現金流", "duration": "約 41 分鐘", "chapters": "9 章", "coverClass": "c3", "mark": "精"},
     {"href": "books/small-biz-cashflow/", "title": "小型企業現金流實務導讀", "author": "實務概念導讀", "track": "創業現金流", "duration": "約 41 分鐘", "chapters": "9 章", "coverClass": "c4", "mark": "現"},
-    {"href": "books/stock-market-genius/", "title": "你能成為股市天才", "author": "Joel Greenblatt", "track": "價值投資", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c1", "mark": "你"}
+    {"href": "books/stock-market-genius/", "title": "你能成為股市天才", "author": "Joel Greenblatt", "track": "價值投資", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c1", "mark": "你"},
+    {"href": "books/greenwald-value-investing/", "title": "價值投資", "author": "Bruce Greenwald", "track": "價值投資", "duration": "約 38 分鐘", "chapters": "9 章", "coverClass": "c2", "mark": "價"},
+    {"href": "books/one-up-wall-street/", "title": "彼得·林奇的成功投資", "author": "Peter Lynch", "track": "價值投資", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c3", "mark": "彼"},
+    {"href": "books/beating-the-street/", "title": "征服股海", "author": "Peter Lynch", "track": "價值投資", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c4", "mark": "征"}
   ];
 
   const grid = document.getElementById("book-grid");
