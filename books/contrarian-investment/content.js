@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "起點同定義",
       "subtitle": "先講清楚呢本書想解決咩",
       "audio": "audio/ch00.mp3",
-      "audioDur": "約4分",
+      "audioDur": "4:22",
       "briefing": {
         "paragraphs": [
           "《逆向投資策略》（原題 Contrarian Investment Strategies）呢章「起點同定義」——先講清楚呢本書想解決咩。作者David Dreman想帶出嘅核心，可以一句講：心理偏誤與低本益逆向。但一句唔夠用，要拆成你…",
@@ -164,7 +164,7 @@ window.DUSHU_BOOK = {
       "title": "核心框架",
       "subtitle": "作者最重要嗰套方法",
       "audio": "audio/ch01.mp3",
-      "audioDur": "約4分",
+      "audioDur": "4:20",
       "briefing": {
         "paragraphs": [
           "《逆向投資策略》（原題 Contrarian Investment Strategies）呢章「核心框架」——作者最重要嗰套方法。作者David Dreman想帶出嘅核心，可以一句講：心理偏誤與低本益逆向。但一句唔夠用，要拆成你做得到…",
@@ -318,7 +318,7 @@ window.DUSHU_BOOK = {
       "title": "選股／選資",
       "subtitle": "點樣搵標的",
       "audio": "audio/ch02.mp3",
-      "audioDur": "約4分",
+      "audioDur": "4:19",
       "briefing": {
         "paragraphs": [
           "《逆向投資策略》（原題 Contrarian Investment Strategies）呢章「選股／選資」——點樣搵標的。作者David Dreman想帶出嘅核心，可以一句講：心理偏誤與低本益逆向。但一句唔夠用，要拆成你做得到嘅規則…",
@@ -472,7 +472,7 @@ window.DUSHU_BOOK = {
       "title": "估值同安全邊際",
       "subtitle": "付幾多先合理",
       "audio": "audio/ch03.mp3",
-      "audioDur": "約4分",
+      "audioDur": "4:18",
       "briefing": {
         "paragraphs": [
           "《逆向投資策略》（原題 Contrarian Investment Strategies）呢章「估值同安全邊際」——付幾多先合理。作者David Dreman想帶出嘅核心，可以一句講：心理偏誤與低本益逆向。但一句唔夠用，要拆成你做得到…",
@@ -626,7 +626,7 @@ window.DUSHU_BOOK = {
       "title": "心理同紀律",
       "subtitle": "市場同自己都會搗亂",
       "audio": "audio/ch04.mp3",
-      "audioDur": "約4分",
+      "audioDur": "4:19",
       "briefing": {
         "paragraphs": [
           "《逆向投資策略》（原題 Contrarian Investment Strategies）呢章「心理同紀律」——市場同自己都會搗亂。作者David Dreman想帶出嘅核心，可以一句講：心理偏誤與低本益逆向。但一句唔夠用，要拆成你做得…",
@@ -780,7 +780,7 @@ window.DUSHU_BOOK = {
       "title": "風險同錯誤",
       "subtitle": "估錯仍然活到",
       "audio": "audio/ch05.mp3",
-      "audioDur": "約4分",
+      "audioDur": "4:21",
       "briefing": {
         "paragraphs": [
           "《逆向投資策略》（原題 Contrarian Investment Strategies）呢章「風險同錯誤」——估錯仍然活到。作者David Dreman想帶出嘅核心，可以一句講：心理偏誤與低本益逆向。但一句唔夠用，要拆成你做得到嘅規…",
@@ -934,7 +934,7 @@ window.DUSHU_BOOK = {
       "title": "組合同倉位",
       "subtitle": "點樣拿倉",
       "audio": "audio/ch06.mp3",
-      "audioDur": "約4分",
+      "audioDur": "4:21",
       "briefing": {
         "paragraphs": [
           "《逆向投資策略》（原題 Contrarian Investment Strategies）呢章「組合同倉位」——點樣拿倉。作者David Dreman想帶出嘅核心，可以一句講：心理偏誤與低本益逆向。但一句唔夠用，要拆成你做得到嘅規則。…",
@@ -1088,7 +1088,7 @@ window.DUSHU_BOOK = {
       "title": "常見陷阱",
       "subtitle": "好多人喺度跌親",
       "audio": "audio/ch07.mp3",
-      "audioDur": "約4分",
+      "audioDur": "4:19",
       "briefing": {
         "paragraphs": [
           "《逆向投資策略》（原題 Contrarian Investment Strategies）呢章「常見陷阱」——好多人喺度跌親。作者David Dreman想帶出嘅核心，可以一句講：心理偏誤與低本益逆向。但一句唔夠用，要拆成你做得到嘅規…",
@@ -1242,7 +1242,7 @@ window.DUSHU_BOOK = {
       "title": "九十日落地",
       "subtitle": "听完要變成習慣",
       "audio": "audio/ch08.mp3",
-      "audioDur": "約4分",
+      "audioDur": "4:21",
       "briefing": {
         "paragraphs": [
           "《逆向投資策略》（原題 Contrarian Investment Strategies）呢章「九十日落地」——聽完要變成習慣。作者David Dreman想帶出嘅核心，可以一句講：心理偏誤與低本益逆向。但一句唔夠用，要拆成你做得到嘅…",
