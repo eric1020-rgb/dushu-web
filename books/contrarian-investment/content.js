@@ -934,7 +934,7 @@ window.DUSHU_BOOK = {
       "title": "組合同倉位",
       "subtitle": "點樣拿倉",
       "audio": "audio/ch06.mp3",
-      "audioDur": "4:21",
+      "audioDur": "2:42",
       "briefing": {
         "paragraphs": [
           "《逆向投資策略》（原題 Contrarian Investment Strategies）呢章「組合同倉位」——點樣拿倉。作者David Dreman想帶出嘅核心，可以一句講：心理偏誤與低本益逆向。但一句唔夠用，要拆成你做得到嘅規則。…",
