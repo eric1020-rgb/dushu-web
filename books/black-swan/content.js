@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "起點同定義",
       "subtitle": "先講清楚呢本書想解決咩",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:37",
+      "audioDur": "4:20",
       "briefing": {
         "paragraphs": [
           "《黑天鵝》（原題 The Black Swan）呢章「起點同定義」——先講清楚呢本書想解決咩。作者Nassim Nicholas Taleb想帶出嘅核心，可以一句講：極端事件與敘事謬誤。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全…",
@@ -934,7 +934,7 @@ window.DUSHU_BOOK = {
       "title": "組合同倉位",
       "subtitle": "點樣拿倉",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:23",
+      "audioDur": "4:19",
       "briefing": {
         "paragraphs": [
           "《黑天鵝》（原題 The Black Swan）呢章「組合同倉位」——點樣拿倉。作者Nassim Nicholas Taleb想帶出嘅核心，可以一句講：極端事件與敘事謬誤。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可…",
@@ -1088,7 +1088,7 @@ window.DUSHU_BOOK = {
       "title": "常見陷阱",
       "subtitle": "好多人喺度跌親",
       "audio": "audio/ch07.mp3",
-      "audioDur": "4:17",
+      "audioDur": "4:05",
       "briefing": {
         "paragraphs": [
           "《黑天鵝》（原題 The Black Swan）呢章「常見陷阱」——好多人喺度跌親。作者Nassim Nicholas Taleb想帶出嘅核心，可以一句講：極端事件與敘事謬誤。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶…",
