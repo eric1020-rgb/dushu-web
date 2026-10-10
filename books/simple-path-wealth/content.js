@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "點解指數優先",
       "subtitle": "成本同勝率嘅現實",
       "audio": "audio/ch00.mp3",
-      "audioDur": "2:46",
+      "audioDur": "4:21",
       "briefing": {
         "paragraphs": [
           "《財富的簡單法則》（原題 The Simple Path to Wealth）呢章「點解指數優先」——成本同勝率嘅現實。作者JL Collins想帶出嘅核心，可以一句講：極簡指數化與財務獨立。但一句唔夠用，要拆成你做得到嘅規則。你唔使…",
@@ -164,7 +164,7 @@ window.DUSHU_BOOK = {
       "title": "資產配置",
       "subtitle": "先配後揀",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:14",
+      "audioDur": "4:18",
       "briefing": {
         "paragraphs": [
           "《財富的簡單法則》（原題 The Simple Path to Wealth）呢章「資產配置」——先配後揀。作者JL Collins想帶出嘅核心，可以一句講：極簡指數化與財務獨立。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但…",
@@ -318,7 +318,7 @@ window.DUSHU_BOOK = {
       "title": "風險同回報",
       "subtitle": "波動唔等於永久損失",
       "audio": "audio/ch02.mp3",
-      "audioDur": "2:55",
+      "audioDur": "4:19",
       "briefing": {
         "paragraphs": [
           "《財富的簡單法則》（原題 The Simple Path to Wealth）呢章「風險同回報」——波動唔等於永久損失。作者JL Collins想帶出嘅核心，可以一句講：極簡指數化與財務獨立。但一句唔夠用，要拆成你做得到嘅規則。你唔使…",

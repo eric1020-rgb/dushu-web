@@ -33,8 +33,9 @@
     {"href": "books/bogle-mutual-funds/", "title": "共同基金必勝法則", "author": "John C. Bogle", "track": "被動指數", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c3", "mark": "共"},
     {"href": "books/bogleheads-guide/", "title": "博格頭投資指南", "author": "Taylor Larimore 等", "track": "被動指數", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c4", "mark": "博"},
     {"href": "books/ivy-portfolio/", "title": "常春藤投資組合", "author": "Meb Faber", "track": "被動指數", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c1", "mark": "常"},
-    {"href": "books/simple-path-wealth/", "title": "財富的簡單法則", "author": "JL Collins", "track": "被動指數", "duration": "約 35 分鐘", "chapters": "9 章", "coverClass": "c2", "mark": "財"},
-    {"href": "books/bernstein-asset-allocation/", "title": "資產配置投資策略", "author": "William J. Bernstein", "track": "被動指數", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c3", "mark": "資"}
+    {"href": "books/simple-path-wealth/", "title": "財富的簡單法則", "author": "JL Collins", "track": "被動指數", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c2", "mark": "財"},
+    {"href": "books/bernstein-asset-allocation/", "title": "資產配置投資策略", "author": "William J. Bernstein", "track": "被動指數", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c3", "mark": "資"},
+    {"href": "books/your-money-your-brain/", "title": "你的錢，你的腦", "author": "Jason Zweig", "track": "理財投資", "duration": "約 1 分鐘", "chapters": "9 章", "coverClass": "c1", "mark": "你"}
   ];
 
   const grid = document.getElementById("book-grid");
