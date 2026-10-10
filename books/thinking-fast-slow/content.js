@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "起點同定義",
       "subtitle": "先講清楚呢本書想解決咩",
       "audio": "audio/ch00.mp3",
-      "audioDur": "4:21",
+      "audioDur": "4:00",
       "briefing": {
         "paragraphs": [
           "《快思慢想》（原題 Thinking, Fast and Slow）呢章「起點同定義」——先講清楚呢本書想解決咩。作者Daniel Kahneman想帶出嘅核心，可以一句講：系統一二與認知偏誤。但一句唔夠用，要拆成你做得到嘅規則。你唔…",
@@ -626,7 +626,7 @@ window.DUSHU_BOOK = {
       "title": "心理同紀律",
       "subtitle": "市場同自己都會搗亂",
       "audio": "audio/ch04.mp3",
-      "audioDur": "4:01",
+      "audioDur": "4:18",
       "briefing": {
         "paragraphs": [
           "《快思慢想》（原題 Thinking, Fast and Slow）呢章「心理同紀律」——市場同自己都會搗亂。作者Daniel Kahneman想帶出嘅核心，可以一句講：系統一二與認知偏誤。但一句唔夠用，要拆成你做得到嘅規則。你唔使背…",
