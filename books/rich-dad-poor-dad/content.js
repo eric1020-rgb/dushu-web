@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "前言／兩個爸爸",
       "subtitle": "兩套金錢信念的起點",
       "audio": "audio/ch00.mp3",
-      "audioDur": "6:29",
+      "audioDur": "5:35",
       "briefing": {
         "paragraphs": [
           "故事用兩個父親形象開場。窮爸爸代表高學歷、重視穩定工作與安全感的路徑：努力讀書、考取好成績、找到可靠職位，相信「有穩定收入就有安全感」。這條路並非愚蠢，它確實幫助許多家庭向上流動。",
@@ -194,7 +194,7 @@ window.DUSHU_BOOK = {
       "title": "富人不為錢工作",
       "subtitle": "恐懼與慾望的循環",
       "audio": "audio/ch01.mp3",
-      "audioDur": "6:47",
+      "audioDur": "5:49",
       "briefing": {
         "paragraphs": [
           "許多人以為財務問題只是不夠努力或工資太低。本章轉向動機：若只為薪水與恐懼而工作，金錢常變成壓力來源，而不是人生工具。",
@@ -378,7 +378,7 @@ window.DUSHU_BOOK = {
       "title": "為何要教導財務素養",
       "subtitle": "資產、負債與現金流",
       "audio": "audio/ch02.mp3",
-      "audioDur": "6:10",
+      "audioDur": "5:18",
       "briefing": {
         "paragraphs": [
           "學校少系統教資產、負債與現金流。結果許多高收入者仍財務緊繃：賺得多、花得更多，資產欄未長大。",
@@ -562,7 +562,7 @@ window.DUSHU_BOOK = {
       "title": "顧好自己的事業",
       "subtitle": "職位之外的資產欄",
       "audio": "audio/ch03.mp3",
-      "audioDur": "7:46",
+      "audioDur": "6:23",
       "briefing": {
         "paragraphs": [
           "「事業」不一定等於白天職位。職位賣時間換薪水；事業是你擁有、能產生現金流的資產組合。你可以打工養家，同時建立事業欄。",
@@ -754,7 +754,7 @@ window.DUSHU_BOOK = {
       "title": "公司與稅賦的力量",
       "subtitle": "結構、規則與合規知識",
       "audio": "audio/ch04.mp3",
-      "audioDur": "6:09",
+      "audioDur": "5:06",
       "briefing": {
         "paragraphs": [
           "稅制與公司結構會改變財富累積的遊戲規則。重點不是逃稅，而是理解：法律與會計知識本身就是財務素養的一部分。",
@@ -937,7 +937,7 @@ window.DUSHU_BOOK = {
       "title": "富人創造金錢",
       "subtitle": "財務智商與機會嗅覺",
       "audio": "audio/ch05.mp3",
-      "audioDur": "6:30",
+      "audioDur": "5:32",
       "briefing": {
         "paragraphs": [
           "金錢不只是紙鈔，更是協議、信心與市場系統。理解定價、交易與機會如何被看見，等於學習創造現金流，而不只等待加薪。",
@@ -1145,7 +1145,7 @@ window.DUSHU_BOOK = {
       "title": "為了學習而工作",
       "subtitle": "把職場當教室",
       "audio": "audio/ch06.mp3",
-      "audioDur": "5:38",
+      "audioDur": "4:52",
       "briefing": {
         "paragraphs": [
           "許多人為錢選工作；另一條路是為技能與人脈選工作。短期薪水可能較低，但若能教你銷售、溝通、領導、數字或產業知識，長期選擇權會變大。",
@@ -1328,7 +1328,7 @@ window.DUSHU_BOOK = {
       "title": "克服障礙",
       "subtitle": "恐懼、遲疑與習慣",
       "audio": "audio/ch07.mp3",
-      "audioDur": "5:21",
+      "audioDur": "4:40",
       "briefing": {
         "paragraphs": [
           "即使懂道理，行動仍常被心理障礙卡住：恐懼虧損、遲疑不決、懶惰（常包裝成太忙）、壞習慣、過度自負。",
@@ -1528,7 +1528,7 @@ window.DUSHU_BOOK = {
       "title": "開始行動",
       "subtitle": "實務起步清單",
       "audio": "audio/ch08.mp3",
-      "audioDur": "5:42",
+      "audioDur": "4:55",
       "briefing": {
         "paragraphs": [
           "理論走到這裡需要落地：釐清現況、先支付資產欄、自我教育、小額實戰、社群問責。行動要快，但不魯莽。",

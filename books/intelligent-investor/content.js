@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "投資者定投機者",
       "subtitle": "先分清你喺玩緊咩",
       "audio": "audio/ch00.mp3",
-      "audioDur": "5:06",
+      "audioDur": "4:17",
       "briefing": {
         "paragraphs": [
           "智慧型路線最緊要嘅第一步，唔係教你即刻揀邊隻股票。而係問清楚：你係投資者，定係投機者？兩邊都可以喺市場玩，但心態、規則、同蝕錢代價，真係差好遠。",
@@ -144,7 +144,7 @@ window.DUSHU_BOOK = {
       "title": "防禦型同積極型",
       "subtitle": "兩種玩法，唔好硬撐",
       "audio": "audio/ch01.mp3",
-      "audioDur": "4:21",
+      "audioDur": "3:41",
       "briefing": {
         "paragraphs": [
           "智能投資唔要求人人做全職研究員。常見分法係：防禦型投資者，同積極型投資者。分別主要係時間、精力、同知識投入，而唔係邊個比較勇。",
@@ -278,7 +278,7 @@ window.DUSHU_BOOK = {
       "title": "先生市場",
       "subtitle": "情緒波動中守價",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:57",
+      "audioDur": "3:22",
       "briefing": {
         "paragraphs": [
           "先生市場係一個好用嘅比喻。想像每日有個人走嚟，報價話要買你手上股份，或者賣股份畀你。佢情緒好唔穩。有時樂觀到報到好高，有時悲觀到報到好賤。",
@@ -412,7 +412,7 @@ window.DUSHU_BOOK = {
       "title": "安全邊際",
       "subtitle": "預留你會估錯",
       "audio": "audio/ch03.mp3",
-      "audioDur": "4:13",
+      "audioDur": "3:36",
       "briefing": {
         "paragraphs": [
           "安全邊際，講白啲就係：唔好俾盡。你估一樣嘢值十蚊，唔好用九毫九去買，仲覺得自己好精明。你要留空間俾自己估錯、俾運氣差、俾世界突然轉彎。",
@@ -546,7 +546,7 @@ window.DUSHU_BOOK = {
       "title": "股票同債券配置",
       "subtitle": "分桶同再平衡",
       "audio": "audio/ch04.mp3",
-      "audioDur": "4:00",
+      "audioDur": "3:18",
       "briefing": {
         "paragraphs": [
           "配置講嘅係：你嘅錢點樣分去唔同類型資產，而唔係一日到黑糾結邊隻名最響。對好多防禦型投資者嚟講，股票負責長期增長，債券或者類債券資產負責穩定同彈藥。比例唔係神話數字，而係匹配你嘅風險同目標。",
@@ -680,7 +680,7 @@ window.DUSHU_BOOK = {
       "title": "防禦型組合實務",
       "subtitle": "悶但贏得嘅系統",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:37",
+      "audioDur": "3:04",
       "briefing": {
         "paragraphs": [
           "防禦型組合，講求可執行多過漂亮。典型元素包括：廣泛分散嘅股票曝險、一部分較穩嘅固定收益或者類現金、清楚嘅再平衡規則、同埋低成本。你可以用基金或者指數型工具完成大部分，而唔使自己砌三十隻股票裝專業。",
@@ -814,7 +814,7 @@ window.DUSHU_BOOK = {
       "title": "積極型注意",
       "subtitle": "有優勢先出擊",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:52",
+      "audioDur": "3:18",
       "briefing": {
         "paragraphs": [
           "積極型投資者想跑贏，就要付出真工夫。冇工夫嘅積極，只係高換手嘅投機。你要問：我嘅優勢喺邊？資訊？分析？ temper 性情？產業經驗？講唔出優勢，就唔好假設自己有。",
@@ -948,7 +948,7 @@ window.DUSHU_BOOK = {
       "title": "通脹同心理",
       "subtitle": "可控項放前面",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:48",
+      "audioDur": "3:13",
       "briefing": {
         "paragraphs": [
           "通脹會令錢嘅購買力變細。你以為放住現金好穩，長遠可能穩輸。但為咗怕通脹而亂追高風險資產，又可能用波動換另一種痛。智慧型做法係理解通脹，而唔係被標題嚇到亂晒。",
@@ -1082,7 +1082,7 @@ window.DUSHU_BOOK = {
       "title": "智能投資習慣",
       "subtitle": "三十日開始行",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:22",
+      "audioDur": "2:56",
       "briefing": {
         "paragraphs": [
           "開始你嘅智能投資習慣。理論夠多，收成要靠清單。",

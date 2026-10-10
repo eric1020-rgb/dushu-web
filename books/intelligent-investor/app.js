@@ -427,7 +427,7 @@
   function renderAudio(ch) {
     el.audioTitle.textContent = ch.title;
     el.audioSub.textContent =
-      "粵語成熟智慧女聲帶讀 · " + ch.audioDur + " · zh-HK-HiuGaaiNeural";
+      "粵語柔和舒適女聲帶讀 · " + ch.audioDur + " · zh-HK-HiuMaanNeural";
     el.audioArt.textContent = ch.num;
     const a = el.audioEl;
     const nextSrc = ch.audio;

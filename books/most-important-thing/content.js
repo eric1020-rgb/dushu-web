@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "第二層思考",
       "subtitle": "預期同價錢",
       "audio": "audio/ch00.mp3",
-      "audioDur": "4:59",
+      "audioDur": "4:11",
       "briefing": {
         "paragraphs": [
           "投資最重要嘅事，往往唔係一個秘訣公式。而係一堆原則：點樣想、點樣看風險、點樣喺週期裡自處。呢章先講「第二層思考」。",
@@ -145,7 +145,7 @@ window.DUSHU_BOOK = {
       "title": "理解風險",
       "subtitle": "唔只係波動",
       "audio": "audio/ch01.mp3",
-      "audioDur": "4:37",
+      "audioDur": "3:52",
       "briefing": {
         "paragraphs": [
           "風險係投資最容易講錯嘅字。好多人把風險等同短期波動：跌就叫高風險，唔動就叫低風險。但更實際嘅風險係：永遠失去資本、或者長期回報唔夠你嘅目標、或者喺最需要錢時被迫賤賣。",
@@ -280,7 +280,7 @@ window.DUSHU_BOOK = {
       "title": "週期意識",
       "subtitle": "知道自己喺邊",
       "audio": "audio/ch02.mp3",
-      "audioDur": "4:24",
+      "audioDur": "3:41",
       "briefing": {
         "paragraphs": [
           "週期意識：幾乎所有事物都有上有落——經濟、企業盈利、信貸鬆緊、投資人情緒。危險係以為而家呢段會永遠繼續。好景時人會線性外推；淡景時人會以為永遠黑暗。",
@@ -415,7 +415,7 @@ window.DUSHU_BOOK = {
       "title": "極端同反向",
       "subtitle": "氣氛走到好遠時",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:59",
+      "audioDur": "3:22",
       "briefing": {
         "paragraphs": [
           "市場極端出現時，價格同情緒會走得很遠。相反意見唔係為反對而反對，而係問：群眾而家嘅共識有冇已經反映喺價？如果有，跟共識可能冇獎賞，只有風險。",
@@ -550,7 +550,7 @@ window.DUSHU_BOOK = {
       "title": "耐心同機會",
       "subtitle": "等待亦係操作",
       "audio": "audio/ch04.mp3",
-      "audioDur": "3:52",
+      "audioDur": "3:19",
       "briefing": {
         "paragraphs": [
           "耐心係投資稀缺資源。機會唔係每日都有「明顯抵買」。好多日子係等待、供款、守規則。人卻偏好行動感，於是製造交易。",
@@ -685,7 +685,7 @@ window.DUSHU_BOOK = {
       "title": "避開陷阱",
       "subtitle": "活得長先有下一輪",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:49",
+      "audioDur": "3:20",
       "briefing": {
         "paragraphs": [
           "避開陷阱，有時比抓住機會更重要。常見陷阱：過高價錢買好故事、隱藏槓桿、流動性錯覺、複雜產品、權威偏誤、同「呢次唔同」嘅敘事。",
@@ -820,7 +820,7 @@ window.DUSHU_BOOK = {
       "title": "知道自己唔知",
       "subtitle": "能力圈",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:35",
+      "audioDur": "3:02",
       "briefing": {
         "paragraphs": [
           "知道自己唔知咩，係專業投資者嘅標記。業餘最容易全方位自信：宏观、行業、時機、個股樣樣敢判。結果係樣樣淺、風險疊加。",
@@ -955,7 +955,7 @@ window.DUSHU_BOOK = {
       "title": "組合思維",
       "subtitle": "相關性同上限",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:42",
+      "audioDur": "3:11",
       "briefing": {
         "paragraphs": [
           "組合思維：單個主意再好，都要放喺組合層面睇。相關性、集中度、下行時會唔會一齊爆，先係組合風險。",
@@ -1090,7 +1090,7 @@ window.DUSHU_BOOK = {
       "title": "投資政策一頁",
       "subtitle": "落地執行",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:35",
+      "audioDur": "2:58",
       "briefing": {
         "paragraphs": [
           "把以上收成一頁投資政策。內容可以包括：目標同期限、風險上限、防禦／積極比例、單一倉同主題上限、槓桿政策、買入要有第二層同邊際、極端時執行清單、每月覆盤問題。",

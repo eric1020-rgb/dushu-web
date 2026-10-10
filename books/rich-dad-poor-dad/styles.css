@@ -391,11 +391,3 @@ body {
 .mark-done-bar {
   margin-top: 20px; padding-top: 16px; border-top: 1px solid var(--border);
 }
-
-a.header-back { text-decoration: none; }
-.library-chip {
-  display: inline-flex; align-items: center; gap: 4px;
-  font-size: 12px; color: var(--text-muted);
-  margin-top: 8px; text-decoration: none;
-}
-.library-chip:hover { color: var(--accent); }
