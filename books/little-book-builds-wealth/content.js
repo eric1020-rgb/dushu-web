@@ -1242,7 +1242,7 @@ window.DUSHU_BOOK = {
       "title": "九十日落地",
       "subtitle": "听完要變成習慣",
       "audio": "audio/ch08.mp3",
-      "audioDur": "1:59",
+      "audioDur": "4:18",
       "briefing": {
         "paragraphs": [
           "《護城河》（原題 The Little Book That Builds Wealth）呢章「九十日落地」——聽完要變成習慣。作者Pat Dorsey想帶出嘅核心，可以一句講：辨識經濟護城河。但一句唔夠用，要拆成你做得到嘅規則。你唔使…",
