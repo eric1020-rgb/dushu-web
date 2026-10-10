@@ -472,7 +472,7 @@ window.DUSHU_BOOK = {
       "title": "估值同安全邊際",
       "subtitle": "付幾多先合理",
       "audio": "audio/ch03.mp3",
-      "audioDur": "4:16",
+      "audioDur": "4:17",
       "briefing": {
         "paragraphs": [
           "《你的錢，你的腦》（原題 Your Money and Your Brain）呢章「估值同安全邊際」——付幾多先合理。作者Jason Zweig想帶出嘅核心，可以一句講：神經科學看投資衝動。但一句唔夠用，要拆成你做得到嘅規則。你唔使背…",
@@ -1088,7 +1088,7 @@ window.DUSHU_BOOK = {
       "title": "常見陷阱",
       "subtitle": "好多人喺度跌親",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:00",
+      "audioDur": "4:18",
       "briefing": {
         "paragraphs": [
           "《你的錢，你的腦》（原題 Your Money and Your Brain）呢章「常見陷阱」——好多人喺度跌親。作者Jason Zweig想帶出嘅核心，可以一句講：神經科學看投資衝動。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全…",
@@ -1242,7 +1242,7 @@ window.DUSHU_BOOK = {
       "title": "九十日落地",
       "subtitle": "听完要變成習慣",
       "audio": "audio/ch08.mp3",
-      "audioDur": "2:28",
+      "audioDur": "4:19",
       "briefing": {
         "paragraphs": [
           "《你的錢，你的腦》（原題 Your Money and Your Brain）呢章「九十日落地」——聽完要變成習慣。作者Jason Zweig想帶出嘅核心，可以一句講：神經科學看投資衝動。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬…",
