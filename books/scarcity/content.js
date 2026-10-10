@@ -1242,7 +1242,7 @@ window.DUSHU_BOOK = {
       "title": "九十日落地",
       "subtitle": "听完要變成習慣",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:42",
+      "audioDur": "4:20",
       "briefing": {
         "paragraphs": [
           "《稀缺》（原題 Scarcity）呢章「九十日落地」——聽完要變成習慣。作者Sendhil Mullainathan / Eldar Shafir想帶出嘅核心，可以一句講：稀缺心態如何綁架判斷。但一句唔夠用，要拆成你做得到嘅規則。你唔…",

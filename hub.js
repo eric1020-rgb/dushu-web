@@ -38,7 +38,8 @@
     {"href": "books/your-money-your-brain/", "title": "你的錢，你的腦", "author": "Jason Zweig", "track": "行為 · 心理", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c4", "mark": "你"},
     {"href": "books/antifragile/", "title": "反脆弱", "author": "Nassim Nicholas Taleb", "track": "行為 · 心理", "duration": "約 41 分鐘", "chapters": "9 章", "coverClass": "c1", "mark": "反"},
     {"href": "books/thinking-fast-slow/", "title": "快思慢想", "author": "Daniel Kahneman", "track": "行為 · 心理", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c2", "mark": "快"},
-    {"href": "books/scarcity/", "title": "稀缺", "author": "Sendhil Mullainathan / Eldar Shafir", "track": "行為 · 心理", "duration": "約 38 分鐘", "chapters": "9 章", "coverClass": "c3", "mark": "稀"}
+    {"href": "books/scarcity/", "title": "稀缺", "author": "Sendhil Mullainathan / Eldar Shafir", "track": "行為 · 心理", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c3", "mark": "稀"},
+    {"href": "books/behavior-gap/", "title": "行為差距", "author": "Carl Richards", "track": "行為 · 心理", "duration": "約 38 分鐘", "chapters": "9 章", "coverClass": "c4", "mark": "行"}
   ];
 
   const grid = document.getElementById("book-grid");
