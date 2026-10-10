@@ -36,7 +36,8 @@
     {"href": "books/simple-path-wealth/", "title": "財富的簡單法則", "author": "JL Collins", "track": "被動指數", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c2", "mark": "財"},
     {"href": "books/bernstein-asset-allocation/", "title": "資產配置投資策略", "author": "William J. Bernstein", "track": "被動指數", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c3", "mark": "資"},
     {"href": "books/your-money-your-brain/", "title": "你的錢，你的腦", "author": "Jason Zweig", "track": "行為 · 心理", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c4", "mark": "你"},
-    {"href": "books/antifragile/", "title": "反脆弱", "author": "Nassim Nicholas Taleb", "track": "行為 · 心理", "duration": "約 38 分鐘", "chapters": "9 章", "coverClass": "c1", "mark": "反"}
+    {"href": "books/antifragile/", "title": "反脆弱", "author": "Nassim Nicholas Taleb", "track": "行為 · 心理", "duration": "約 41 分鐘", "chapters": "9 章", "coverClass": "c1", "mark": "反"},
+    {"href": "books/thinking-fast-slow/", "title": "快思慢想", "author": "Daniel Kahneman", "track": "行為 · 心理", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c2", "mark": "快"}
   ];
 
   const grid = document.getElementById("book-grid");
