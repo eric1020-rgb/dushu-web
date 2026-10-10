@@ -1242,7 +1242,7 @@ window.DUSHU_BOOK = {
       "title": "九十日落地",
       "subtitle": "听完要變成習慣",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:43",
+      "audioDur": "4:19",
       "briefing": {
         "paragraphs": [
           "《行為差距》（原題 The Behavior Gap）呢章「九十日落地」——聽完要變成習慣。作者Carl Richards想帶出嘅核心，可以一句講：計劃與行動之間的缺口。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重…",
