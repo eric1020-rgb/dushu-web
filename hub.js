@@ -56,7 +56,8 @@
     {"href": "books/ascent-of-money/", "title": "貨幣崛起", "author": "Niall Ferguson", "track": "宏觀 · 周期", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c2", "mark": "貨"},
     {"href": "books/capital-ideas/", "title": "資本觀念", "author": "Peter L. Bernstein", "track": "宏觀 · 周期", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c3", "mark": "資"},
     {"href": "books/this-time-is-different/", "title": "這次不一樣", "author": "Carmen M. Reinhart / Kenneth S. Rogoff", "track": "宏觀 · 周期", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c4", "mark": "這"},
-    {"href": "books/narrative-and-numbers/", "title": "估值的故事與數字", "author": "Aswath Damodaran", "track": "財報 · 估值", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c1", "mark": "估"}
+    {"href": "books/narrative-and-numbers/", "title": "估值的故事與數字", "author": "Aswath Damodaran", "track": "財報 · 估值", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c1", "mark": "估"},
+    {"href": "books/buffettology-statements/", "title": "巴菲特教你讀財報", "author": "Mary Buffett / David Clark", "track": "財報 · 估值", "duration": "約 37 分鐘", "chapters": "9 章", "coverClass": "c2", "mark": "巴"}
   ];
 
   const grid = document.getElementById("book-grid");
