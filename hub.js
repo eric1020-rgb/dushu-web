@@ -75,7 +75,8 @@
     {"href": "books/millionaire-real-estate-investor/", "title": "百萬富翁房地產投資人", "author": "Gary Keller", "track": "房地產", "duration": "約 32 分鐘", "chapters": "9 章", "coverClass": "c1", "mark": "百"},
     {"href": "books/hk-property-investing/", "title": "香港物業投資思維", "author": "港人理財常見主題", "track": "房地產", "duration": "約 40 分鐘", "chapters": "9 章", "coverClass": "c2", "mark": "香"},
     {"href": "books/trading-for-living/", "title": "以交易為生", "author": "Alexander Elder", "track": "交易 · 技術", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c3", "mark": "以"},
-    {"href": "books/market-wizards/", "title": "市場奇才", "author": "Jack D. Schwager", "track": "交易 · 技術", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c4", "mark": "市"}
+    {"href": "books/market-wizards/", "title": "市場奇才", "author": "Jack D. Schwager", "track": "交易 · 技術", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c4", "mark": "市"},
+    {"href": "books/way-of-turtle/", "title": "海龜投資法則", "author": "Curtis Faith", "track": "交易 · 技術", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c1", "mark": "海"}
   ];
 
   const grid = document.getElementById("book-grid");
