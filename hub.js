@@ -96,7 +96,8 @@
     {"href": "books/increase-financial-iq/", "title": "富爸爸提高你的財商", "author": "Robert T. Kiyosaki", "track": "港台常見理財書", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c2", "mark": "富"},
     {"href": "books/secrets-millionaire-mind/", "title": "有錢人想的和你不一樣", "author": "T. Harv Eker", "track": "港台常見理財書", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c3", "mark": "有"},
     {"href": "books/die-with-zero/", "title": "歸零而死", "author": "Bill Perkins", "track": "港台常見理財書", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c4", "mark": "歸"},
-    {"href": "books/greenhorn-fund-bible/", "title": "綠角的基金勝經", "author": "綠角", "track": "港台常見理財書", "duration": "約 41 分鐘", "chapters": "9 章", "coverClass": "c1", "mark": "綠"}
+    {"href": "books/greenhorn-fund-bible/", "title": "綠角的基金勝經", "author": "綠角", "track": "港台常見理財書", "duration": "約 41 分鐘", "chapters": "9 章", "coverClass": "c1", "mark": "綠"},
+    {"href": "books/gupiaolaoniu-dividend/", "title": "股海老牛的存股課", "author": "股海老牛", "track": "港台常見理財書", "duration": "約 41 分鐘", "chapters": "9 章", "coverClass": "c2", "mark": "股"}
   ];
 
   const grid = document.getElementById("book-grid");
