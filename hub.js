@@ -84,7 +84,8 @@
     {"href": "books/japanese-candlestick/", "title": "陰線陽線", "author": "Steve Nison", "track": "交易 · 技術", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c2", "mark": "陰"},
     {"href": "books/everything-store/", "title": "一切商店", "author": "Brad Stone", "track": "創業家傳記", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c3", "mark": "一"},
     {"href": "books/creativity-inc/", "title": "創意公司", "author": "Ed Catmull", "track": "創業家傳記", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c4", "mark": "創"},
-    {"href": "books/hard-thing-about-hard-things/", "title": "創業維艱", "author": "Ben Horowitz", "track": "創業家傳記", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c1", "mark": "創"}
+    {"href": "books/hard-thing-about-hard-things/", "title": "創業維艱", "author": "Ben Horowitz", "track": "創業家傳記", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c1", "mark": "創"},
+    {"href": "books/built-to-last/", "title": "基業長青", "author": "Jim Collins / Jerry Porras", "track": "創業家傳記", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c2", "mark": "基"}
   ];
 
   const grid = document.getElementById("book-grid");
