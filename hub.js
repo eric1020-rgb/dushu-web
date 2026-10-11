@@ -88,7 +88,8 @@
     {"href": "books/built-to-last/", "title": "基業長青", "author": "Jim Collins / Jerry Porras", "track": "創業家傳記", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c2", "mark": "基"},
     {"href": "books/good-to-great/", "title": "從優秀到卓越", "author": "Jim Collins", "track": "創業家傳記", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c3", "mark": "從"},
     {"href": "books/snowball-buffett/", "title": "滾雪球", "author": "Alice Schroeder", "track": "創業家傳記", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c4", "mark": "滾"},
-    {"href": "books/invent-and-wander/", "title": "發明與遊蕩", "author": "Jeff Bezos", "track": "創業家傳記", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c1", "mark": "發"}
+    {"href": "books/invent-and-wander/", "title": "發明與遊蕩", "author": "Jeff Bezos", "track": "創業家傳記", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c1", "mark": "發"},
+    {"href": "books/steve-jobs/", "title": "賈伯斯傳", "author": "Walter Isaacson", "track": "創業家傳記", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c2", "mark": "賈"}
   ];
 
   const grid = document.getElementById("book-grid");
