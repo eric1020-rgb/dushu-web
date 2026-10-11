@@ -1,7 +1,7 @@
 (function () {
   const books = [
     {"href": "books/rich-dad-poor-dad/", "title": "窮爸爸富爸爸", "author": "Robert T. Kiyosaki", "track": "現金流 · 心態", "duration": "約 48 分鐘", "chapters": "9 章", "coverClass": "c1", "mark": "富"},
-    {"href": "books/intelligent-investor/", "title": "智慧型股票投資人", "author": "Benjamin Graham", "track": "價值投資", "duration": "約 31 分鐘", "chapters": "9 章", "coverClass": "c2", "mark": "智"},
+    {"href": "books/intelligent-investor/", "title": "智慧型股票投資人", "author": "Benjamin Graham", "track": "價值投資", "duration": "約 29 分鐘", "chapters": "9 章", "coverClass": "c2", "mark": "智"},
     {"href": "books/most-important-thing/", "title": "投資最重要的事", "author": "Howard Marks", "track": "風險 · 周期", "duration": "約 31 分鐘", "chapters": "9 章", "coverClass": "c3", "mark": "要"},
     {"href": "books/cashflow-quadrant/", "title": "富爸爸有錢有理", "author": "Robert T. Kiyosaki", "track": "現金流象限", "duration": "約 33 分鐘", "chapters": "9 章", "coverClass": "c4", "mark": "象"},
     {"href": "books/psychology-of-money/", "title": "金錢心理學", "author": "Morgan Housel", "track": "被動指數 · 行為", "duration": "約 37 分鐘", "chapters": "9 章", "coverClass": "c1", "mark": "心"},
@@ -18,7 +18,7 @@
     {"href": "books/investment-laws/", "title": "投資金律", "author": "William Bernstein", "track": "被動指數", "duration": "約 40 分鐘", "chapters": "9 章", "coverClass": "c4", "mark": "律"},
     {"href": "books/asset-allocation/", "title": "資產配置的藝術精華", "author": "David Darst 等", "track": "被動指數", "duration": "約 40 分鐘", "chapters": "9 章", "coverClass": "c1", "mark": "配"},
     {"href": "books/profit-first/", "title": "獲利優先", "author": "Mike Michalowicz", "track": "創業現金流", "duration": "約 41 分鐘", "chapters": "9 章", "coverClass": "c2", "mark": "利"},
-    {"href": "books/lean-startup/", "title": "精實創業", "author": "Eric Ries", "track": "創業現金流", "duration": "約 41 分鐘", "chapters": "9 章", "coverClass": "c3", "mark": "精"},
+    {"href": "books/lean-startup/", "title": "精實創業", "author": "Eric Ries", "track": "創業現金流", "duration": "約 40 分鐘", "chapters": "9 章", "coverClass": "c3", "mark": "精"},
     {"href": "books/small-biz-cashflow/", "title": "小型企業現金流實務導讀", "author": "實務概念導讀", "track": "創業現金流", "duration": "約 41 分鐘", "chapters": "9 章", "coverClass": "c4", "mark": "現"},
     {"href": "books/stock-market-genius/", "title": "你能成為股市天才", "author": "Joel Greenblatt", "track": "價值投資", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c1", "mark": "你"},
     {"href": "books/greenwald-value-investing/", "title": "價值投資", "author": "Bruce Greenwald", "track": "價值投資", "duration": "約 38 分鐘", "chapters": "9 章", "coverClass": "c2", "mark": "價"},

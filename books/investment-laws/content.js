@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "理論支柱",
       "subtitle": "懂回報從哪來",
       "audio": "audio/ch00.mp3",
-      "audioDur": "4:28",
+      "audioDur": "4:25",
       "briefing": {
         "paragraphs": [
           "投資金律把理論、歷史、心理、商業四支柱拼起。先懂風險與回報關係，先唔會被產品話術帶跑。",
@@ -165,7 +165,7 @@ window.DUSHU_BOOK = {
       "title": "歷史支柱",
       "subtitle": "數據比傳聞硬",
       "audio": "audio/ch01.mp3",
-      "audioDur": "4:22",
+      "audioDur": "4:19",
       "briefing": {
         "paragraphs": [
           "歷史回報、回撤、通脹年代，給你合理期望。期望太高就會過度冒險。",
@@ -320,7 +320,7 @@ window.DUSHU_BOOK = {
       "title": "心理支柱",
       "subtitle": "腦係最大對手",
       "audio": "audio/ch02.mp3",
-      "audioDur": "4:36",
+      "audioDur": "4:33",
       "briefing": {
         "paragraphs": [
           "過度交易、追熱、恐慌賣出——心理成本往往大於費用。",
@@ -475,7 +475,7 @@ window.DUSHU_BOOK = {
       "title": "商業支柱",
       "subtitle": "金融業誘因",
       "audio": "audio/ch03.mp3",
-      "audioDur": "4:35",
+      "audioDur": "4:32",
       "briefing": {
         "paragraphs": [
           "產品設計、佣金、營銷故事，常與你利益不完全一致。",
@@ -630,7 +630,7 @@ window.DUSHU_BOOK = {
       "title": "資產配置核心",
       "subtitle": "決定大半結果",
       "audio": "audio/ch04.mp3",
-      "audioDur": "4:32",
+      "audioDur": "4:29",
       "briefing": {
         "paragraphs": [
           "股債比例、信用、期限、國際，對長期結果影響常大於選基細節。",
@@ -785,7 +785,7 @@ window.DUSHU_BOOK = {
       "title": "產品選擇",
       "subtitle": "夠用就好",
       "audio": "audio/ch05.mp3",
-      "audioDur": "4:32",
+      "audioDur": "4:28",
       "briefing": {
         "paragraphs": [
           "廣泛指數、低費債券、必要時目標日期——夠用。",
@@ -940,7 +940,7 @@ window.DUSHU_BOOK = {
       "title": "退休同提領",
       "subtitle": "現金流設計",
       "audio": "audio/ch06.mp3",
-      "audioDur": "4:32",
+      "audioDur": "4:28",
       "briefing": {
         "paragraphs": [
           "提領順序、稅戶、債券梯形或現金桶，減少序列風險。",
@@ -1095,7 +1095,7 @@ window.DUSHU_BOOK = {
       "title": "執行清單",
       "subtitle": "每年儀式",
       "audio": "audio/ch07.mp3",
-      "audioDur": "4:33",
+      "audioDur": "4:30",
       "briefing": {
         "paragraphs": [
           "年度：檢查配置、費用、稅、目標進度、再平衡。",
@@ -1250,7 +1250,7 @@ window.DUSHU_BOOK = {
       "title": "金律九十日",
       "subtitle": "四支柱打卡",
       "audio": "audio/ch08.mp3",
-      "audioDur": "4:33",
+      "audioDur": "4:30",
       "briefing": {
         "paragraphs": [
           "九十日每支柱做一件：讀理論摘要、看一段歷史回撤、立行爲規則、清理一個高費產品。",
