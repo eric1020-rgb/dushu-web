@@ -81,7 +81,8 @@
     {"href": "books/trend-following/", "title": "趨勢跟隨", "author": "Michael W. Covel", "track": "交易 · 技術", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c3", "mark": "趨"},
     {"href": "books/quantitative-trading/", "title": "量化交易", "author": "Ernest P. Chan", "track": "交易 · 技術", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c4", "mark": "量"},
     {"href": "books/technical-analysis-markets/", "title": "金融市場技術分析", "author": "John J. Murphy", "track": "交易 · 技術", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c1", "mark": "金"},
-    {"href": "books/japanese-candlestick/", "title": "陰線陽線", "author": "Steve Nison", "track": "交易 · 技術", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c2", "mark": "陰"}
+    {"href": "books/japanese-candlestick/", "title": "陰線陽線", "author": "Steve Nison", "track": "交易 · 技術", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c2", "mark": "陰"},
+    {"href": "books/everything-store/", "title": "一切商店", "author": "Brad Stone", "track": "創業家傳記", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c3", "mark": "一"}
   ];
 
   const grid = document.getElementById("book-grid");
