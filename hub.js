@@ -52,7 +52,8 @@
     {"href": "books/big-short/", "title": "大空頭", "author": "Michael Lewis", "track": "宏觀 · 周期", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c2", "mark": "大"},
     {"href": "books/devil-take-hindmost/", "title": "泡沫的故事", "author": "Edward Chancellor", "track": "宏觀 · 周期", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c3", "mark": "泡"},
     {"href": "books/how-economic-machine-works/", "title": "經濟機器如何運作", "author": "Ray Dalio", "track": "宏觀 · 周期", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c4", "mark": "經"},
-    {"href": "books/alchemists-fed/", "title": "聯準會", "author": "Neil Irwin", "track": "宏觀 · 周期", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c1", "mark": "聯"}
+    {"href": "books/alchemists-fed/", "title": "聯準會", "author": "Neil Irwin", "track": "宏觀 · 周期", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c1", "mark": "聯"},
+    {"href": "books/ascent-of-money/", "title": "貨幣崛起", "author": "Niall Ferguson", "track": "宏觀 · 周期", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c2", "mark": "貨"}
   ];
 
   const grid = document.getElementById("book-grid");
