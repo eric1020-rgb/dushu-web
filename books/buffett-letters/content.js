@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "業主心態",
       "subtitle": "把股東當合夥人",
       "audio": "audio/ch00.mp3",
-      "audioDur": "4:30",
+      "audioDur": "4:26",
       "briefing": {
         "paragraphs": [
           "股東信傳統強調：對待股東如合夥人，報喜亦報憂，用清楚語言講生意。",
@@ -165,7 +165,7 @@ window.DUSHU_BOOK = {
       "title": "護城河",
       "subtitle": "可持續優勢",
       "audio": "audio/ch01.mp3",
-      "audioDur": "4:31",
+      "audioDur": "4:27",
       "briefing": {
         "paragraphs": [
           "護城河係令企業長期賺取高於平均回報嘅屏障：品牌、轉換成本、網絡效應、成本優勢、特許。",
@@ -320,7 +320,7 @@ window.DUSHU_BOOK = {
       "title": "先生市場再用",
       "subtitle": "利用而唔被利用",
       "audio": "audio/ch02.mp3",
-      "audioDur": "4:26",
+      "audioDur": "4:23",
       "briefing": {
         "paragraphs": [
           "延續格雷厄姆：市場服務你。恐懼時可能給好價，狂熱時要忍耐。",
@@ -475,7 +475,7 @@ window.DUSHU_BOOK = {
       "title": "資本配置",
       "subtitle": "一美元要變多過一美元",
       "audio": "audio/ch03.mp3",
-      "audioDur": "4:22",
+      "audioDur": "4:19",
       "briefing": {
         "paragraphs": [
           "保留盈利再投資，必須創造更多價值。否則應考慮回報股東。",
@@ -630,7 +630,7 @@ window.DUSHU_BOOK = {
       "title": "保險公司浮存金",
       "subtitle": "別人的錢也能聰明用",
       "audio": "audio/ch04.mp3",
-      "audioDur": "4:29",
+      "audioDur": "4:25",
       "briefing": {
         "paragraphs": [
           "浮存金概念：先收保費後賠付，期間資金可用於投資。關鍵係承保紀律。",
@@ -785,7 +785,7 @@ window.DUSHU_BOOK = {
       "title": "錯誤公開",
       "subtitle": "認錯係競爭力",
       "audio": "audio/ch05.mp3",
-      "audioDur": "4:22",
+      "audioDur": "4:18",
       "briefing": {
         "paragraphs": [
           "公開討論錯誤，令組織同個人更快學習，亦建立信譽。",
@@ -940,7 +940,7 @@ window.DUSHU_BOOK = {
       "title": "通脹同摩擦",
       "subtitle": "真正購買力",
       "audio": "audio/ch06.mp3",
-      "audioDur": "4:24",
+      "audioDur": "4:21",
       "briefing": {
         "paragraphs": [
           "賬面回報要扣通脹、稅、費用。關注購買力。",
@@ -1095,7 +1095,7 @@ window.DUSHU_BOOK = {
       "title": "簡單同能力圈",
       "subtitle": "唔懂唔做",
       "audio": "audio/ch07.mp3",
-      "audioDur": "4:25",
+      "audioDur": "4:22",
       "briefing": {
         "paragraphs": [
           "能力圈唔係細就羞恥，而係邊界清晰就安全。圈可慢慢擴，但要真正學會。",
@@ -1250,7 +1250,7 @@ window.DUSHU_BOOK = {
       "title": "長期複利生活",
       "subtitle": "把信裡原則日常化",
       "audio": "audio/ch08.mp3",
-      "audioDur": "4:26",
+      "audioDur": "4:23",
       "briefing": {
         "paragraphs": [
           "把股東信原則變成：研究習慣、等待現金、錯誤信、能力圈清單、護城河檢查。",

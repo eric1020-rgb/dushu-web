@@ -427,7 +427,7 @@
   function renderAudio(ch) {
     el.audioTitle.textContent = ch.title;
     el.audioSub.textContent =
-      "粵語柔和舒適女聲帶讀 · " + ch.audioDur + " · zh-HK-HiuMaanNeural";
+      "粵語穩重男聲帶讀 · " + ch.audioDur + " · zh-HK-WanLungNeural";
     el.audioArt.textContent = ch.num;
     const a = el.audioEl;
     const nextSrc = ch.audio;
