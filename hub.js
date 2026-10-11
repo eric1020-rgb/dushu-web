@@ -67,7 +67,8 @@
     {"href": "books/finlab-stock-picking/", "title": "財報狗教你挖好股", "author": "財報狗", "track": "財報 · 估值", "duration": "約 41 分鐘", "chapters": "9 章", "coverClass": "c1", "mark": "財"},
     {"href": "books/financial-shenanigans/", "title": "財報魔術", "author": "Howard Schilit", "track": "財報 · 估值", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c2", "mark": "財"},
     {"href": "books/brrrr-method/", "title": "BRRRR 投資法", "author": "David Greene", "track": "房地產", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c3", "mark": "B"},
-    {"href": "books/reits-investors-guide/", "title": "REITs 投資指南", "author": "Stephanie Krewson-Kelly / Brad Thomas", "track": "房地產", "duration": "約 37 分鐘", "chapters": "9 章", "coverClass": "c4", "mark": "R"}
+    {"href": "books/reits-investors-guide/", "title": "REITs 投資指南", "author": "Stephanie Krewson-Kelly / Brad Thomas", "track": "房地產", "duration": "約 37 分鐘", "chapters": "9 章", "coverClass": "c4", "mark": "R"},
+    {"href": "books/book-on-rental-property/", "title": "出租物業投資聖經", "author": "Brandon Turner", "track": "房地產", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c1", "mark": "出"}
   ];
 
   const grid = document.getElementById("book-grid");
