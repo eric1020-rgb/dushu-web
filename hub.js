@@ -60,7 +60,8 @@
     {"href": "books/buffettology-statements/", "title": "巴菲特教你讀財報", "author": "Mary Buffett / David Clark", "track": "財報 · 估值", "duration": "約 37 分鐘", "chapters": "9 章", "coverClass": "c2", "mark": "巴"},
     {"href": "books/damodaran-valuation/", "title": "投資估價", "author": "Aswath Damodaran", "track": "財報 · 估值", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c3", "mark": "投"},
     {"href": "books/accounting-game/", "title": "會計遊戲", "author": "Darrell Mullis / Judith Orloff", "track": "財報 · 估值", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c4", "mark": "會"},
-    {"href": "books/quality-of-earnings/", "title": "盈餘品質", "author": "Thornton L. O'Glove", "track": "財報 · 估值", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c1", "mark": "盈"}
+    {"href": "books/quality-of-earnings/", "title": "盈餘品質", "author": "Thornton L. O'Glove", "track": "財報 · 估值", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c1", "mark": "盈"},
+    {"href": "books/free-cash-flow-investing/", "title": "自由現金流投資法", "author": "Aswath Damodaran", "track": "財報 · 估值", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c2", "mark": "自"}
   ];
 
   const grid = document.getElementById("book-grid");
