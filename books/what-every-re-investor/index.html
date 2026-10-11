@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="zh-Hant-HK">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<meta name="theme-color" content="#0f1419" />
+<title>讀書 · 《現金流與不動產數字》全書帶讀</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;600;700&family=Cormorant+Garamond:wght@500;600&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<div class="app">
+
+  <!-- HOME -->
+  <div id="view-home" class="view active">
+    <header class="header">
+      <div class="header-meta">
+        <div class="header-title">讀書</div>
+        <div class="header-sub">LeapAhead 風格 · 對話式帶讀</div>
+      </div>
+      <div class="progress-ring" title="全書進度">
+        <svg width="40" height="40" viewBox="0 0 40 40">
+          <circle class="track" cx="20" cy="20" r="16" />
+          <circle class="fill" id="home-ring-fill" cx="20" cy="20" r="16" stroke-dasharray="100" stroke-dashoffset="100" />
+        </svg>
+        <span id="home-ring-label">0%</span>
+      </div>
+    </header>
+    <main class="main">
+      <div class="home-hero">
+        <div class="home-badge">全書原型</div>
+        <h1 id="book-title">現金流與不動產數字</h1>
+        <p class="author" id="book-author">Frank Gallinelli</p>
+        <div class="home-stats">
+          <div class="home-stat"><strong id="stat-chapters">9</strong>章節</div>
+          <div class="home-stat"><strong id="home-done">0 / 9</strong>已完成</div>
+          <div class="home-stat"><strong id="home-pct">0%</strong>進度</div>
+        </div>
+        
+      </div>
+      <p class="section-label">章節目錄</p>
+      <div class="chapter-list" id="chapter-list"></div>
+    </main>
+  </div>
+
+  <!-- CHAPTER -->
+  <div id="view-chapter" class="view">
+    <header class="header">
+      <button type="button" class="header-back" id="btn-back" aria-label="返回">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M15 18l-6-6 6-6"/></svg>
+      </button>
+      <div class="header-meta">
+        <div class="header-title" id="ch-header-title">章節</div>
+        <div class="header-sub" id="ch-header-sub"></div>
+      </div>
+      <div class="progress-ring">
+        <svg width="40" height="40" viewBox="0 0 40 40">
+          <circle class="track" cx="20" cy="20" r="16" />
+          <circle class="fill" id="ch-ring-fill" cx="20" cy="20" r="16" stroke-dasharray="100" stroke-dashoffset="100" />
+        </svg>
+        <span id="ch-ring-label">0%</span>
+      </div>
+    </header>
+    <main class="main with-tabs">
+      <div id="panel-brief" class="panel active"></div>
+
+      <div id="panel-dialogue" class="panel">
+        <div class="chat-wrap">
+          <div class="chat-messages" id="chat-messages"></div>
+          <div class="chips" id="chips"></div>
+          <div class="composer">
+            <input id="chat-input" type="text" placeholder="輸入問題或感想…" autocomplete="off" />
+            <button type="button" class="composer-send" id="chat-send" aria-label="傳送">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M2 21l21-9L2 3v7l15 2-15 2v7z"/></svg>
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <div id="panel-mind" class="panel">
+        <p class="mmap-hint">點擊節點查看解說</p>
+        <div class="mmap-wrap">
+          <svg id="mindmap" viewBox="0 0 400 520" xmlns="http://www.w3.org/2000/svg"></svg>
+        </div>
+        <div class="mmap-detail" id="mind-detail">
+          <h4>心智圖</h4>
+          <p>選擇節點查看本章概念。</p>
+        </div>
+      </div>
+
+      <div id="panel-audio" class="panel">
+        <div class="player-card">
+          <div class="player-art" id="audio-art">0</div>
+          <div class="player-title" id="audio-title">章節</div>
+          <div class="player-sub" id="audio-sub">粵語口語帶讀</div>
+          <div class="player-progress">
+            <input type="range" class="player-bar" id="audio-seek" min="0" max="1000" value="0" />
+          </div>
+          <div class="player-times">
+            <span id="audio-time-cur">0:00</span>
+            <span id="audio-time-dur">0:00</span>
+          </div>
+          <div class="player-controls">
+            <button type="button" class="player-ctrl" id="audio-back" title="-10秒">-10</button>
+            <button type="button" class="player-play" id="audio-play" aria-label="播放">
+              <svg width="28" height="28" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
+            </button>
+            <button type="button" class="player-ctrl" id="audio-fwd" title="+10秒">+10</button>
+          </div>
+          <div class="player-rates">
+            <button type="button" class="rate-btn" data-rate="0.75">0.75x</button>
+            <button type="button" class="rate-btn active" data-rate="1">1x</button>
+            <button type="button" class="rate-btn" data-rate="1.25">1.25x</button>
+            <button type="button" class="rate-btn" data-rate="1.5">1.5x</button>
+          </div>
+        </div>
+        <audio id="audio-el" preload="metadata"></audio>
+        <p class="audio-note">預設播放柔和舒適粵語女聲口語帶讀（zh-HK-HiuMaanNeural）。</p>
+      </div>
+    </main>
+
+    <nav class="tabbar hidden" id="tabbar">
+      <button type="button" class="tab active" data-tab="brief">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 016.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 014 19.5v-15A2.5 2.5 0 016.5 2z"/></svg>
+        書摘
+      </button>
+      <button type="button" class="tab" data-tab="dialogue">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15a2 2 0 01-2 2H7l-4 4V5a2 2 0 012-2h14a2 2 0 012 2z"/></svg>
+        對話
+      </button>
+      <button type="button" class="tab" data-tab="mind">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="3"/><path d="M12 2v4M12 18v4M2 12h4M18 12h4M4.9 4.9l2.8 2.8M16.3 16.3l2.8 2.8M4.9 19.1l2.8-2.8M16.3 7.7l2.8-2.8"/></svg>
+        心智圖
+      </button>
+      <button type="button" class="tab" data-tab="audio">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18V5l12-2v13"/><circle cx="6" cy="18" r="3"/><circle cx="18" cy="16" r="3"/></svg>
+        音訊
+      </button>
+    </nav>
+  </div>
+</div>
+<script src="content.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
