@@ -2,9 +2,9 @@
 
 作者：Michael Lewis
 
-語音：zh-HK-HiuMaanNeural · 地道香港口語 · 無開場白
+語音：zh-HK-WanLungNeural · 地道香港口語 · 無開場白
 
-總長：**38:41**
+總長：**37:53**
 
 ## 章節
 
