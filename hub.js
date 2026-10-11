@@ -99,7 +99,8 @@
     {"href": "books/greenhorn-fund-bible/", "title": "綠角的基金勝經", "author": "綠角", "track": "港台常見理財書", "duration": "約 41 分鐘", "chapters": "9 章", "coverClass": "c1", "mark": "綠"},
     {"href": "books/gupiaolaoniu-dividend/", "title": "股海老牛的存股課", "author": "股海老牛", "track": "港台常見理財書", "duration": "約 41 分鐘", "chapters": "9 章", "coverClass": "c2", "mark": "股"},
     {"href": "books/i-will-teach-you-rich/", "title": "自動致富", "author": "Ramit Sethi", "track": "港台常見理財書", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c3", "mark": "自"},
-    {"href": "books/compound-effect/", "title": "複利效應", "author": "Darren Hardy", "track": "港台常見理財書", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c4", "mark": "複"}
+    {"href": "books/compound-effect/", "title": "複利效應", "author": "Darren Hardy", "track": "港台常見理財書", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c4", "mark": "複"},
+    {"href": "books/your-money-or-your-life/", "title": "金錢或人生", "author": "Vicki Robin / Joe Dominguez", "track": "港台常見理財書", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c1", "mark": "金"}
   ];
 
   const grid = document.getElementById("book-grid");
