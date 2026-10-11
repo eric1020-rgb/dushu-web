@@ -92,7 +92,8 @@
     {"href": "books/steve-jobs/", "title": "賈伯斯傳", "author": "Walter Isaacson", "track": "創業家傳記", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c2", "mark": "賈"},
     {"href": "books/shoe-dog/", "title": "鞋狗", "author": "Phil Knight", "track": "創業家傳記", "duration": "約 38 分鐘", "chapters": "9 章", "coverClass": "c3", "mark": "鞋"},
     {"href": "books/elon-musk/", "title": "馬斯克傳", "author": "Walter Isaacson", "track": "創業家傳記", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c4", "mark": "馬"},
-    {"href": "books/etf-playbook/", "title": "ETF 實戰手冊", "author": "台港作者常見", "track": "港台常見理財書", "duration": "約 40 分鐘", "chapters": "9 章", "coverClass": "c1", "mark": "E"}
+    {"href": "books/etf-playbook/", "title": "ETF 實戰手冊", "author": "台港作者常見", "track": "港台常見理財書", "duration": "約 40 分鐘", "chapters": "9 章", "coverClass": "c1", "mark": "E"},
+    {"href": "books/increase-financial-iq/", "title": "富爸爸提高你的財商", "author": "Robert T. Kiyosaki", "track": "港台常見理財書", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c2", "mark": "富"}
   ];
 
   const grid = document.getElementById("book-grid");
