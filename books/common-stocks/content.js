@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "成長股思維",
       "subtitle": "利潤可以不普通",
       "audio": "audio/ch00.mp3",
-      "audioDur": "4:29",
+      "audioDur": "4:25",
       "briefing": {
         "paragraphs": [
           "呢條線講：優質企業長期成長，可以令普通股變成不普通回報。重點唔係便宜清算，而係盈利能力同再投資。",
@@ -165,7 +165,7 @@ window.DUSHU_BOOK = {
       "title": "研究企業",
       "subtitle": "當老闆咁睇",
       "audio": "audio/ch01.mp3",
-      "audioDur": "4:37",
+      "audioDur": "4:33",
       "briefing": {
         "paragraphs": [
           "買股票係買企業部分所有權。你要好似準老闆咁問：客戶點解留低？員工點解賣力？對手點解追唔上？",
@@ -320,7 +320,7 @@ window.DUSHU_BOOK = {
       "title": "長期持有",
       "subtitle": "時間做朋友",
       "audio": "audio/ch02.mp3",
-      "audioDur": "4:31",
+      "audioDur": "4:27",
       "briefing": {
         "paragraphs": [
           "若企業持續創造價值，時間傾向站喺你這邊。頻密買賣會打斷複利同增加犯錯。",
@@ -475,7 +475,7 @@ window.DUSHU_BOOK = {
       "title": "管理層",
       "subtitle": "資本配置係技藝",
       "audio": "audio/ch03.mp3",
-      "audioDur": "4:29",
+      "audioDur": "4:26",
       "briefing": {
         "paragraphs": [
           "盈利之後點用錢：再投資、研發、收購、回購、派息——呢啲決定長期回報。",
@@ -630,7 +630,7 @@ window.DUSHU_BOOK = {
       "title": "風險",
       "subtitle": "永久損失先係真風險",
       "audio": "audio/ch04.mp3",
-      "audioDur": "4:25",
+      "audioDur": "4:21",
       "briefing": {
         "paragraphs": [
           "價格波動令人不安，但真正風險係企業價值永久下降或者你被迫偏低嘅價離場。",
@@ -785,7 +785,7 @@ window.DUSHU_BOOK = {
       "title": "市場情緒",
       "subtitle": "唔好被氣氛定價",
       "audio": "audio/ch05.mp3",
-      "audioDur": "4:26",
+      "audioDur": "4:22",
       "briefing": {
         "paragraphs": [
           "成長股最易喺樂觀期被追貴，悲觀期被拋售。你要有自己嘅價值錨。",
@@ -940,7 +940,7 @@ window.DUSHU_BOOK = {
       "title": "組合建構",
       "subtitle": "核心衛星",
       "audio": "audio/ch06.mp3",
-      "audioDur": "4:24",
+      "audioDur": "4:21",
       "briefing": {
         "paragraphs": [
           "用少數真懂嘅高信念做衛星，用廣泛優質或者指數做核心，平衡無知同自信。",
@@ -1095,7 +1095,7 @@ window.DUSHU_BOOK = {
       "title": "錯誤同學習",
       "subtitle": "檢討會",
       "audio": "audio/ch07.mp3",
-      "audioDur": "4:37",
+      "audioDur": "4:33",
       "briefing": {
         "paragraphs": [
           "每筆失敗要分類：分析錯、情緒錯、運氣差。分類先改進。",
@@ -1250,7 +1250,7 @@ window.DUSHU_BOOK = {
       "title": "九十日實踐",
       "subtitle": "研究節奏",
       "audio": "audio/ch08.mp3",
-      "audioDur": "4:22",
+      "audioDur": "4:19",
       "briefing": {
         "paragraphs": [
           "九十日建立節奏：每週研究時段、每月組合檢討、每季錯誤簿。",
