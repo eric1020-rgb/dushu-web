@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "倒轉公式",
       "subtitle": "先撥利潤",
       "audio": "audio/ch00.mp3",
-      "audioDur": "4:24",
+      "audioDur": "4:21",
       "briefing": {
         "paragraphs": [
           "傳統係收入減開支等於利潤；獲利優先倒轉：收入進來先撥利潤，餘下先當開支上限。",
@@ -165,7 +165,7 @@ window.DUSHU_BOOK = {
       "title": "多帳戶系統",
       "subtitle": "錢要分房",
       "audio": "audio/ch01.mp3",
-      "audioDur": "4:36",
+      "audioDur": "4:32",
       "briefing": {
         "paragraphs": [
           "收入、利潤、主理人薪酬、稅、營運——分帳戶，令大腦見到邊界。",
@@ -320,7 +320,7 @@ window.DUSHU_BOOK = {
       "title": "目標百分比",
       "subtitle": "逐步健康",
       "audio": "audio/ch02.mp3",
-      "audioDur": "4:35",
+      "audioDur": "4:31",
       "briefing": {
         "paragraphs": [
           "不同利潤率行業目標不同。先由現況起步，每季上調一點點。",
@@ -475,7 +475,7 @@ window.DUSHU_BOOK = {
       "title": "削減開支",
       "subtitle": "用剩餘生存",
       "audio": "audio/ch03.mp3",
-      "audioDur": "4:34",
+      "audioDur": "4:30",
       "briefing": {
         "paragraphs": [
           "撥走利潤後，營運變緊。緊張逼你砍低效開支同議價。",
@@ -630,7 +630,7 @@ window.DUSHU_BOOK = {
       "title": "主理人薪酬",
       "subtitle": "老闆要人工",
       "audio": "audio/ch04.mp3",
-      "audioDur": "4:33",
+      "audioDur": "4:29",
       "briefing": {
         "paragraphs": [
           "老闆唔支薪，會用利潤假象騙人，亦會耗盡意志。",
@@ -785,7 +785,7 @@ window.DUSHU_BOOK = {
       "title": "稅戶",
       "subtitle": "唔好偷稅感",
       "audio": "audio/ch05.mp3",
-      "audioDur": "4:32",
+      "audioDur": "4:28",
       "briefing": {
         "paragraphs": [
           "稅唔係意外。每次收入撥稅戶，到期唔慌。",
@@ -940,7 +940,7 @@ window.DUSHU_BOOK = {
       "title": "節奏同檢視",
       "subtitle": "雙週分配",
       "audio": "audio/ch06.mp3",
-      "audioDur": "4:36",
+      "audioDur": "4:33",
       "briefing": {
         "paragraphs": [
           "雙週或月分配節奏，令系統活。只入帳唔分配會失效。",
@@ -1095,7 +1095,7 @@ window.DUSHU_BOOK = {
       "title": "成長同債務",
       "subtitle": "利潤中成長",
       "audio": "audio/ch07.mp3",
-      "audioDur": "4:33",
+      "audioDur": "4:30",
       "briefing": {
         "paragraphs": [
           "成長唔好喫掉利潤系統。接單要計現金週期。",
@@ -1250,7 +1250,7 @@ window.DUSHU_BOOK = {
       "title": "九十日獲利",
       "subtitle": "系統上身",
       "audio": "audio/ch08.mp3",
-      "audioDur": "4:34",
+      "audioDur": "4:31",
       "briefing": {
         "paragraphs": [
           "九十日：開戶、定初始％、兩次砍支、主理人薪、稅戶、四次分配。",
