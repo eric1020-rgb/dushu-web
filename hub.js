@@ -49,7 +49,8 @@
     {"href": "books/business-model-generation/", "title": "獲利世代", "author": "Alexander Osterwalder", "track": "創業現金流", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c3", "mark": "獲"},
     {"href": "books/principles-dalio/", "title": "原則", "author": "Ray Dalio", "track": "宏觀 · 周期", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c4", "mark": "原"},
     {"href": "books/big-debt-crises/", "title": "大債危機", "author": "Ray Dalio", "track": "宏觀 · 周期", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c1", "mark": "大"},
-    {"href": "books/big-short/", "title": "大空頭", "author": "Michael Lewis", "track": "宏觀 · 周期", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c2", "mark": "大"}
+    {"href": "books/big-short/", "title": "大空頭", "author": "Michael Lewis", "track": "宏觀 · 周期", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c2", "mark": "大"},
+    {"href": "books/devil-take-hindmost/", "title": "泡沫的故事", "author": "Edward Chancellor", "track": "宏觀 · 周期", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c3", "mark": "泡"}
   ];
 
   const grid = document.getElementById("book-grid");
