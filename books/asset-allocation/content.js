@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "配置定義",
       "subtitle": "風險預算",
       "audio": "audio/ch00.mp3",
-      "audioDur": "4:23",
+      "audioDur": "4:20",
       "briefing": {
         "paragraphs": [
           "資產配置係決定資金喺股票、債券、另類、現金之間嘅比例，本質係風險預算。",
@@ -165,7 +165,7 @@ window.DUSHU_BOOK = {
       "title": "相關性",
       "subtitle": "唔好假分散",
       "audio": "audio/ch01.mp3",
-      "audioDur": "4:39",
+      "audioDur": "4:35",
       "briefing": {
         "paragraphs": [
           "資產相關性會變，危機時常一齊跌。真分散要考慮因子：股市、利率、通脹、信用、流動性。",
@@ -320,7 +320,7 @@ window.DUSHU_BOOK = {
       "title": "股債邏輯",
       "subtitle": "增長同防禦",
       "audio": "audio/ch02.mp3",
-      "audioDur": "4:22",
+      "audioDur": "4:19",
       "briefing": {
         "paragraphs": [
           "股票承載增長；高質債券承載防禦同再平衡彈藥。比例決定睡眠。",
@@ -475,7 +475,7 @@ window.DUSHU_BOOK = {
       "title": "再平衡藝術",
       "subtitle": "賣高買低制度化",
       "audio": "audio/ch03.mp3",
-      "audioDur": "4:33",
+      "audioDur": "4:30",
       "briefing": {
         "paragraphs": [
           "再平衡係藝術亦係工程：頻率、閾值、稅、成本。",
@@ -630,7 +630,7 @@ window.DUSHU_BOOK = {
       "title": "通脹同另類",
       "subtitle": "點樣補洞",
       "audio": "audio/ch04.mp3",
-      "audioDur": "4:25",
+      "audioDur": "4:21",
       "briefing": {
         "paragraphs": [
           "通脹上升期，長債同股可能同時受壓。實業、短債、部分商品／通脹掛鈎債券 思路用來補洞。",
@@ -785,7 +785,7 @@ window.DUSHU_BOOK = {
       "title": "人生負債",
       "subtitle": "資產要配負債",
       "audio": "audio/ch05.mp3",
-      "audioDur": "4:36",
+      "audioDur": "4:33",
       "briefing": {
         "paragraphs": [
           "未來開支係負債流。資産配置要匹配：何時要錢、幣種、通脹敏感。",
@@ -940,7 +940,7 @@ window.DUSHU_BOOK = {
       "title": "稅同帳戶",
       "subtitle": "位置配置",
       "audio": "audio/ch06.mp3",
-      "audioDur": "4:35",
+      "audioDur": "4:31",
       "briefing": {
         "paragraphs": [
           "同樣資產放稅優帳戶定應稅帳戶，結果可以差一截。位置配置係隱藏技巧。",
@@ -1095,7 +1095,7 @@ window.DUSHU_BOOK = {
       "title": "監控儀表",
       "subtitle": "少數指標",
       "audio": "audio/ch07.mp3",
-      "audioDur": "4:32",
+      "audioDur": "4:28",
       "briefing": {
         "paragraphs": [
           "監控：大類偏離、費用、現金水位、目標進度、壓力情景。",
@@ -1250,7 +1250,7 @@ window.DUSHU_BOOK = {
       "title": "配置九十日",
       "subtitle": "政策成文",
       "audio": "audio/ch08.mp3",
-      "audioDur": "4:32",
+      "audioDur": "4:29",
       "briefing": {
         "paragraphs": [
           "九十日產出：投資政策聲明、目標比例、再平衡規則、禁止清單、儀表。",
