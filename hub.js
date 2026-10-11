@@ -71,7 +71,8 @@
     {"href": "books/book-on-rental-property/", "title": "出租物業投資聖經", "author": "Brandon Turner", "track": "房地產", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c1", "mark": "出"},
     {"href": "books/commercial-real-estate-101/", "title": "商業地產入門", "author": "相關實務書", "track": "房地產", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c2", "mark": "商"},
     {"href": "books/rich-dad-real-estate/", "title": "富爸爸不動產投資", "author": "Robert Kiyosaki 編", "track": "房地產", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c3", "mark": "富"},
-    {"href": "books/what-every-re-investor/", "title": "現金流與不動產數字", "author": "Frank Gallinelli", "track": "房地產", "duration": "約 37 分鐘", "chapters": "9 章", "coverClass": "c4", "mark": "現"}
+    {"href": "books/what-every-re-investor/", "title": "現金流與不動產數字", "author": "Frank Gallinelli", "track": "房地產", "duration": "約 37 分鐘", "chapters": "9 章", "coverClass": "c4", "mark": "現"},
+    {"href": "books/millionaire-real-estate-investor/", "title": "百萬富翁房地產投資人", "author": "Gary Keller", "track": "房地產", "duration": "約 32 分鐘", "chapters": "9 章", "coverClass": "c1", "mark": "百"}
   ];
 
   const grid = document.getElementById("book-grid");
