@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "絕對回報思維",
       "subtitle": "先唔輸",
       "audio": "audio/ch00.mp3",
-      "audioDur": "4:29",
+      "audioDur": "4:25",
       "briefing": {
         "paragraphs": [
           "安全邊際投資強調：目標係避免永久損失，追求絕對合理回報，而唔係追相對排名。",
@@ -165,7 +165,7 @@ window.DUSHU_BOOK = {
       "title": "先生估值",
       "subtitle": "價格同價值再強調",
       "audio": "audio/ch01.mp3",
-      "audioDur": "4:25",
+      "audioDur": "4:22",
       "briefing": {
         "paragraphs": [
           "價值係估計，價格係現實交易。只有價格明顯低於價值，先值得承受不確定。",
@@ -320,7 +320,7 @@ window.DUSHU_BOOK = {
       "title": "風險定義",
       "subtitle": "本金永久受損",
       "audio": "audio/ch02.mp3",
-      "audioDur": "4:23",
+      "audioDur": "4:19",
       "briefing": {
         "paragraphs": [
           "風險唔係 波動係數 數字咁簡單，而係本金買入後企業價值下滑或者結構性陷阱。",
@@ -475,7 +475,7 @@ window.DUSHU_BOOK = {
       "title": "機構扭曲",
       "subtitle": "職業風險",
       "audio": "audio/ch03.mp3",
-      "audioDur": "4:22",
+      "audioDur": "4:19",
       "briefing": {
         "paragraphs": [
           "機構投資人常面對職業風險：寧願常規地錯，唔願 非主流 地對。",
@@ -630,7 +630,7 @@ window.DUSHU_BOOK = {
       "title": "投資過程",
       "subtitle": "可重複流水線",
       "audio": "audio/ch04.mp3",
-      "audioDur": "4:21",
+      "audioDur": "4:17",
       "briefing": {
         "paragraphs": [
           "搜尋、過濾、估值、質檢、買入、監控、賣出——過程要可重複。",
@@ -785,7 +785,7 @@ window.DUSHU_BOOK = {
       "title": "市場無效",
       "subtitle": "無效先有邊際",
       "audio": "audio/ch05.mp3",
-      "audioDur": "4:23",
+      "audioDur": "4:19",
       "briefing": {
         "paragraphs": [
           "若市場永遠完美，就難有安全邊際。現實有行爲偏差、強制賣出、複雜忽略。",
@@ -940,7 +940,7 @@ window.DUSHU_BOOK = {
       "title": "組合同流動",
       "subtitle": "活得到先談回報",
       "audio": "audio/ch06.mp3",
-      "audioDur": "4:21",
+      "audioDur": "4:17",
       "briefing": {
         "paragraphs": [
           "集中要有研究深度；同時保留現金與流動性應付贖回式生活事件。",
@@ -1095,7 +1095,7 @@ window.DUSHU_BOOK = {
       "title": "賣出紀律",
       "subtitle": "目標達成或論點壞",
       "audio": "audio/ch07.mp3",
-      "audioDur": "4:20",
+      "audioDur": "4:17",
       "briefing": {
         "paragraphs": [
           "賣出：價值回歸、基本面轉差、有明顯更佳機會、或者發現分析錯。",
@@ -1250,7 +1250,7 @@ window.DUSHU_BOOK = {
       "title": "實踐 Marginal",
       "subtitle": "把邊際寫進規則",
       "audio": "audio/ch08.mp3",
-      "audioDur": "4:21",
+      "audioDur": "4:18",
       "briefing": {
         "paragraphs": [
           "九十日：建立流水線、風險標籤、買入門檻折讓、錯誤簿。",

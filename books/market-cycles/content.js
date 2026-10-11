@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "週期思維",
       "subtitle": "唔係預測點，而係位置",
       "audio": "audio/ch00.mp3",
-      "audioDur": "4:05",
+      "audioDur": "4:01",
       "briefing": {
         "paragraphs": [
           "週期呢本書思路：你未必估中轉折點，但可以判斷自己大概喺週期邊段——樂觀過度定恐慌過度。",
@@ -165,7 +165,7 @@ window.DUSHU_BOOK = {
       "title": "風險態度擺動",
       "subtitle": "恐懼同貪婪循環",
       "audio": "audio/ch01.mp3",
-      "audioDur": "4:06",
+      "audioDur": "4:03",
       "briefing": {
         "paragraphs": [
           "風險唔只嚟自資產；嚟自人對風險嘅態度。繁榮時人當風險消失；危機時人當機會消失。",
@@ -320,7 +320,7 @@ window.DUSHU_BOOK = {
       "title": "第二層同週期",
       "subtitle": "大家都睇到嘅唔夠",
       "audio": "audio/ch02.mp3",
-      "audioDur": "4:05",
+      "audioDur": "4:01",
       "briefing": {
         "paragraphs": [
           "第一層：好消息所以買。第二層：好消息已喺價內，接下來邊啲未定價？",
@@ -475,7 +475,7 @@ window.DUSHU_BOOK = {
       "title": "防守優先",
       "subtitle": "活下去先有下一輪",
       "audio": "audio/ch03.mp3",
-      "audioDur": "4:07",
+      "audioDur": "4:03",
       "briefing": {
         "paragraphs": [
           "週期投資第一原則常係：避免致命一擊。永久資本損失同被迫離場最傷。",
@@ -630,7 +630,7 @@ window.DUSHU_BOOK = {
       "title": "樂觀陷阱",
       "subtitle": "好時代的學費",
       "audio": "audio/ch04.mp3",
-      "audioDur": "4:02",
+      "audioDur": "3:58",
       "briefing": {
         "paragraphs": [
           "長期繁榮令假設變鬆：負債無妨、估值無妨、流動性永在。",
@@ -785,7 +785,7 @@ window.DUSHU_BOOK = {
       "title": "悲觀陷阱",
       "subtitle": "壞時代的機會成本",
       "audio": "audio/ch05.mp3",
-      "audioDur": "4:15",
+      "audioDur": "4:12",
       "briefing": {
         "paragraphs": [
           "恐慌期人人要確定性。價格可以補償不確定。你若要求零風險纔行動，會錯過均值迴歸。",
@@ -940,7 +940,7 @@ window.DUSHU_BOOK = {
       "title": "同節拍共存",
       "subtitle": "唔好自以為可消取週期",
       "audio": "audio/ch06.mp3",
-      "audioDur": "4:11",
+      "audioDur": "4:07",
       "briefing": {
         "paragraphs": [
           "你消取唔到週期，只能與它共處：調整暴露、管理槓桿、管理承諾。",
@@ -1095,7 +1095,7 @@ window.DUSHU_BOOK = {
       "title": "溝通同期望",
       "subtitle": "別人的週期也會拖你下水",
       "audio": "audio/ch07.mp3",
-      "audioDur": "4:11",
+      "audioDur": "4:08",
       "briefing": {
         "paragraphs": [
           "若你替家人或客戶管錢，他們的情緒週期會變成你的約束。",
@@ -1250,7 +1250,7 @@ window.DUSHU_BOOK = {
       "title": "長期地圖",
       "subtitle": "把週期經驗寫成規則",
       "audio": "audio/ch08.mp3",
-      "audioDur": "4:15",
+      "audioDur": "4:11",
       "briefing": {
         "paragraphs": [
           "讀週期不是爲了成爲先知，而是把經驗沉澱成規則：何時降風險、何時用現金、何時重啓進攻。",
