@@ -102,7 +102,7 @@
     {"href": "books/compound-effect/", "title": "複利效應", "author": "Darren Hardy", "track": "港台常見理財書", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c4", "mark": "複"},
     {"href": "books/your-money-or-your-life/", "title": "金錢或人生", "author": "Vicki Robin / Joe Dominguez", "track": "港台常見理財書", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c1", "mark": "金"},
     {"href": "books/hk-mpf-investing/", "title": "香港人強積金與投資入門", "author": "港人作者常見", "track": "港台常見理財書", "duration": "約 40 分鐘", "chapters": "9 章", "coverClass": "c2", "mark": "香"},
-    {"href": "books/naval-almanack/", "title": "納瓦爾寶典", "author": "Eric Jorgenson（編纂 Naval Ravikant）", "track": "財富 · 幸福 · 槓桿", "duration": "約 36 分鐘", "chapters": "9 章", "coverClass": "c5", "mark": "納"}
+    {"href": "books/naval-almanack/", "title": "納瓦爾寶典", "author": "Eric Jorgenson / Naval Ravikant", "track": "創業 · 心態 · 財富", "duration": "約 47 分鐘", "chapters": "9 章", "coverClass": "c3", "mark": "納"}
   ];
 
   const grid = document.getElementById("book-grid");

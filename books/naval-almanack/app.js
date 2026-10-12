@@ -1,6 +1,6 @@
 (function () {
   const BOOK = window.DUSHU_BOOK;
-  const STORAGE_KEY = "dushu-naval-almanack-progress-v1";
+  const STORAGE_KEY = "dushu-naval-almanack-v1";
   const circ = 2 * Math.PI * 16;
 
   const state = {
