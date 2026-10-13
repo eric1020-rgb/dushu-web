@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "點解指數優先",
       "subtitle": "成本同勝率嘅現實",
       "audio": "audio/ch00.mp3",
-      "audioDur": "4:18",
+      "audioDur": "3:43",
       "briefing": {
         "paragraphs": [
           "《共同基金必勝法則》（原題 Common Sense on Mutual Funds）呢章「點解指數優先」——成本同勝率嘅現實。作者John C. 博格想帶出嘅核心，可以一句講：費用、長期與股東優先。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -165,7 +165,7 @@ window.DUSHU_BOOK = {
       "title": "資產配置",
       "subtitle": "先配後揀",
       "audio": "audio/ch01.mp3",
-      "audioDur": "4:15",
+      "audioDur": "3:43",
       "briefing": {
         "paragraphs": [
           "《共同基金必勝法則》（原題 Common Sense on Mutual Funds）呢章「資產配置」——先配後揀。作者John C. 博格想帶出嘅核心，可以一句講：費用、長期與股東優先。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -320,7 +320,7 @@ window.DUSHU_BOOK = {
       "title": "風險同回報",
       "subtitle": "波動唔等於永久損失",
       "audio": "audio/ch02.mp3",
-      "audioDur": "4:15",
+      "audioDur": "3:43",
       "briefing": {
         "paragraphs": [
           "《共同基金必勝法則》（原題 Common Sense on Mutual Funds）呢章「風險同回報」——波動唔等於永久損失。作者John C. 博格想帶出嘅核心，可以一句講：費用、長期與股東優先。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -475,7 +475,7 @@ window.DUSHU_BOOK = {
       "title": "成本同稅務",
       "subtitle": "隱形支出好傷",
       "audio": "audio/ch03.mp3",
-      "audioDur": "4:13",
+      "audioDur": "3:40",
       "briefing": {
         "paragraphs": [
           "《共同基金必勝法則》（原題 Common Sense on Mutual Funds）呢章「成本同稅務」——隱形支出好傷。作者John C. 博格想帶出嘅核心，可以一句講：費用、長期與股東優先。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -630,7 +630,7 @@ window.DUSHU_BOOK = {
       "title": "再平衡",
       "subtitle": "機械化勝過感覺",
       "audio": "audio/ch04.mp3",
-      "audioDur": "4:13",
+      "audioDur": "3:42",
       "briefing": {
         "paragraphs": [
           "《共同基金必勝法則》（原題 Common Sense on Mutual Funds）呢章「再平衡」——機械化勝過感覺。作者John C. 博格想帶出嘅核心，可以一句講：費用、長期與股東優先。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -785,7 +785,7 @@ window.DUSHU_BOOK = {
       "title": "行為係敵人",
       "subtitle": "最難係忍手",
       "audio": "audio/ch05.mp3",
-      "audioDur": "4:16",
+      "audioDur": "3:46",
       "briefing": {
         "paragraphs": [
           "《共同基金必勝法則》（原題 Common Sense on Mutual Funds）呢章「行為係敵人」——最難係忍手。作者John C. 博格想帶出嘅核心，可以一句講：費用、長期與股東優先。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -940,7 +940,7 @@ window.DUSHU_BOOK = {
       "title": "人生階段配置",
       "subtitle": "年齡同目標要匹配",
       "audio": "audio/ch06.mp3",
-      "audioDur": "4:16",
+      "audioDur": "3:45",
       "briefing": {
         "paragraphs": [
           "《共同基金必勝法則》（原題 Common Sense on Mutual Funds）呢章「人生階段配置」——年齡同目標要匹配。作者John C. 博格想帶出嘅核心，可以一句講：費用、長期與股東優先。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -1095,7 +1095,7 @@ window.DUSHU_BOOK = {
       "title": "產品點揀",
       "subtitle": "指數基金同指數基金實務",
       "audio": "audio/ch07.mp3",
-      "audioDur": "4:15",
+      "audioDur": "3:44",
       "briefing": {
         "paragraphs": [
           "《共同基金必勝法則》（原題 Common Sense on Mutual Funds）呢章「產品點揀」——指數基金同指數基金實務。作者John C. 博格想帶出嘅核心，可以一句講：費用、長期與股東優先。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -1250,7 +1250,7 @@ window.DUSHU_BOOK = {
       "title": "落地組合",
       "subtitle": "一頁紙寫低就去做",
       "audio": "audio/ch08.mp3",
-      "audioDur": "4:16",
+      "audioDur": "3:42",
       "briefing": {
         "paragraphs": [
           "《共同基金必勝法則》（原題 Common Sense on Mutual Funds）呢章「落地組合」——一頁紙寫低就去做。作者John C. 博格想帶出嘅核心，可以一句講：費用、長期與股東優先。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
