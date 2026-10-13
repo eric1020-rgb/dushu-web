@@ -16,7 +16,7 @@
     {"href": "books/margin-of-safety/", "title": "Margin of Safety 概念導讀", "author": "Seth Klarman", "track": "價值投資", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c2", "mark": "邊"},
     {"href": "books/random-walk/", "title": "漫步華爾街", "author": "Burton Malkiel", "track": "被動指數", "duration": "約 41 分鐘", "chapters": "9 章", "coverClass": "c3", "mark": "漫"},
     {"href": "books/investment-laws/", "title": "投資金律", "author": "William Bernstein", "track": "被動指數", "duration": "約 40 分鐘", "chapters": "9 章", "coverClass": "c4", "mark": "律"},
-    {"href": "books/asset-allocation/", "title": "資產配置的藝術精華", "author": "David Darst 等", "track": "被動指數", "duration": "約 41 分鐘", "chapters": "9 章", "coverClass": "c1", "mark": "配"},
+    {"href": "books/asset-allocation/", "title": "資產配置的藝術精華", "author": "David Darst 等", "track": "被動指數", "duration": "約 35 分鐘", "chapters": "9 章", "coverClass": "c1", "mark": "配"},
     {"href": "books/profit-first/", "title": "獲利優先", "author": "Mike Michalowicz", "track": "創業現金流", "duration": "約 41 分鐘", "chapters": "9 章", "coverClass": "c2", "mark": "利"},
     {"href": "books/lean-startup/", "title": "精實創業", "author": "Eric Ries", "track": "創業現金流", "duration": "約 41 分鐘", "chapters": "9 章", "coverClass": "c3", "mark": "精"},
     {"href": "books/small-biz-cashflow/", "title": "小型企業現金流實務導讀", "author": "實務概念導讀", "track": "創業現金流", "duration": "約 41 分鐘", "chapters": "9 章", "coverClass": "c4", "mark": "現"},
