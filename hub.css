@@ -151,40 +151,62 @@ body {
   display: flex; flex-direction: column; gap: 6px;
 }
 
-/* MiniMax ProfessionalHost re-recorded books: white card + white cover */
+/* MiniMax ProfessionalHost re-recorded books: unmistakable white cards */
 .book-card--minimax {
-  background: #ffffff;
+  background: #ffffff !important;
   color: #1a222d;
-  border-color: rgba(15, 20, 25, 0.12);
-  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.14);
+  border: 2px solid #e8eaed;
+  box-shadow:
+    0 0 0 1px rgba(255, 255, 255, 0.9),
+    0 10px 32px rgba(0, 0, 0, 0.35);
+  position: relative;
+}
+.book-card--minimax::before {
+  content: "MiniMax 新聲";
+  position: absolute;
+  top: 8px;
+  right: 10px;
+  z-index: 2;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  color: #1a1408;
+  background: linear-gradient(145deg, #c9a86c, #e2c48a);
+  padding: 3px 8px;
+  border-radius: 999px;
+  box-shadow: 0 2px 8px rgba(201, 168, 108, 0.45);
 }
 .book-card--minimax:hover,
 .book-card--minimax:focus-visible {
-  background: #f4f6f8;
-  border-color: rgba(201, 168, 108, 0.55);
+  background: #f7f8fa !important;
+  border-color: #c9a86c;
+  box-shadow:
+    0 0 0 2px rgba(201, 168, 108, 0.35),
+    0 12px 36px rgba(0, 0, 0, 0.4);
 }
-.book-card--minimax .book-track { color: #2a8f7c; }
-.book-card--minimax .book-name { color: #1a222d; }
-.book-card--minimax .book-author { color: #5a6a7e; }
+.book-card--minimax .book-track { color: #1f7a6a; }
+.book-card--minimax .book-name { color: #121820; }
+.book-card--minimax .book-author { color: #4a5a6e; }
 .book-card--minimax .pill {
-  color: #3d4a5a;
-  background: #eef1f5;
-  border-color: rgba(15, 20, 25, 0.08);
+  color: #2d3a4a;
+  background: #e8ecf1;
+  border-color: rgba(15, 20, 25, 0.1);
 }
 .book-card--minimax .pill.accent {
-  color: #8a6a2e;
-  background: rgba(201, 168, 108, 0.22);
+  color: #6b5220;
+  background: rgba(201, 168, 108, 0.28);
   border-color: transparent;
 }
 .c-white {
-  background: #ffffff;
+  background: #f0f2f5 !important;
   color: #1a222d;
-  border: 1px solid rgba(15, 20, 25, 0.1);
+  border: 1px solid rgba(15, 20, 25, 0.14);
+  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.8);
 }
 .book-cover.c-white::after {
-  background: linear-gradient(180deg, transparent 45%, rgba(15, 20, 25, 0.08) 100%);
+  background: linear-gradient(180deg, transparent 40%, rgba(15, 20, 25, 0.12) 100%);
 }
-.book-cover.c-white .cover-mark { color: #1a222d; opacity: 0.85; }
+.book-cover.c-white .cover-mark { color: #1a222d; opacity: 0.9; }
 .book-cover.c-white span { color: #1a222d; }
 
 @media (min-width: 640px) {
