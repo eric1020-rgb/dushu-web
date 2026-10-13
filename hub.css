@@ -150,6 +150,43 @@ body {
   font-size: 12px; color: var(--text-muted);
   display: flex; flex-direction: column; gap: 6px;
 }
+
+/* MiniMax ProfessionalHost re-recorded books: white card + white cover */
+.book-card--minimax {
+  background: #ffffff;
+  color: #1a222d;
+  border-color: rgba(15, 20, 25, 0.12);
+  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.14);
+}
+.book-card--minimax:hover,
+.book-card--minimax:focus-visible {
+  background: #f4f6f8;
+  border-color: rgba(201, 168, 108, 0.55);
+}
+.book-card--minimax .book-track { color: #2a8f7c; }
+.book-card--minimax .book-name { color: #1a222d; }
+.book-card--minimax .book-author { color: #5a6a7e; }
+.book-card--minimax .pill {
+  color: #3d4a5a;
+  background: #eef1f5;
+  border-color: rgba(15, 20, 25, 0.08);
+}
+.book-card--minimax .pill.accent {
+  color: #8a6a2e;
+  background: rgba(201, 168, 108, 0.22);
+  border-color: transparent;
+}
+.c-white {
+  background: #ffffff;
+  color: #1a222d;
+  border: 1px solid rgba(15, 20, 25, 0.1);
+}
+.book-cover.c-white::after {
+  background: linear-gradient(180deg, transparent 45%, rgba(15, 20, 25, 0.08) 100%);
+}
+.book-cover.c-white .cover-mark { color: #1a222d; opacity: 0.85; }
+.book-cover.c-white span { color: #1a222d; }
+
 @media (min-width: 640px) {
   .hub { max-width: 720px; }
   .book-grid { display: grid; grid-template-columns: 1fr 1fr; }
