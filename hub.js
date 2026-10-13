@@ -23,7 +23,7 @@
     {"href": "books/stock-market-genius/", "title": "你能成為股市天才", "author": "Joel Greenblatt", "track": "價值投資", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c1", "mark": "你"},
     {"href": "books/greenwald-value-investing/", "title": "價值投資", "author": "Bruce Greenwald", "track": "價值投資", "duration": "約 38 分鐘", "chapters": "9 章", "coverClass": "c2", "mark": "價"},
     {"href": "books/one-up-wall-street/", "title": "彼得·林奇的成功投資", "author": "Peter Lynch", "track": "價值投資", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c3", "mark": "彼"},
-    {"href": "books/beating-the-street/", "title": "征服股海", "author": "Peter Lynch", "track": "價值投資", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c4", "mark": "征"},
+    {"href": "books/beating-the-street/", "title": "征服股海", "author": "Peter Lynch", "track": "價值投資", "duration": "約 33 分鐘", "chapters": "9 章", "coverClass": "c-white", "mark": "征", "voice": "minimax"},
     {"href": "books/qiuguo-simplest-thing/", "title": "投資中最簡單的事", "author": "邱國鷺", "track": "價值投資", "duration": "約 41 分鐘", "chapters": "9 章", "coverClass": "c1", "mark": "投"},
     {"href": "books/little-book-beats-market/", "title": "神奇公式投資法", "author": "Joel Greenblatt", "track": "價值投資", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c2", "mark": "神"},
     {"href": "books/five-rules-stock-investing/", "title": "股市真規則", "author": "Pat Dorsey", "track": "價值投資", "duration": "約 39 分鐘", "chapters": "9 章", "coverClass": "c3", "mark": "股"},
@@ -140,51 +140,16 @@
     </a>`;
   }
 
-  function memoryCardHTML(b, mem) {
-    const mm = isMinimax(b);
-    const Mem = window.DushuMemory;
-    const chLabel = Mem ? Mem.chapterLabel(mem) : "";
-    const left = Mem ? Mem.remainingLabel(mem) : "";
-    const pct = mem.percent ? mem.percent + "%" : "";
-    const sub = [chLabel, left, pct].filter(Boolean).join(" · ");
-    const href = escapeHtml(b.href) + (b.href.indexOf("?") >= 0 ? "&" : "?") + "resume=1";
-    const cls = `rail-card rail-card--memory${mm ? " rail-card--minimax" : ""}`;
-    const badge = `<span class="mem-rail-badge">繼續聽</span>`;
-    return `<a class="${cls}" href="${href}" data-track="${escapeHtml(b.track)}" data-title="${escapeHtml(b.title)}" data-author="${escapeHtml(b.author)}" data-minimax="${mm ? "1" : "0"}" data-memory="1">
-      ${badge}
-      <div class="book-cover ${escapeHtml(b.coverClass)}">
-        <div class="cover-mark">${escapeHtml(b.mark)}</div>
-        <span>${escapeHtml(b.title)}</span>
-      </div>
-      <div class="book-body">
-        <div class="book-name">${escapeHtml(b.title)}</div>
-        <div class="book-author">${escapeHtml(sub || b.author)}</div>
-      </div>
-    </a>`;
-  }
-
-  function railSection(title, subtitle, list, id, trackKey, options) {
+  function railSection(title, subtitle, list, id, trackKey) {
     if (!list.length) return "";
-    const opts = options || {};
-    const cards = list
-      .map((b) => {
-        if (opts.memoryMap && opts.memoryMap[b._bookId]) {
-          return memoryCardHTML(b, opts.memoryMap[b._bookId]);
-        }
-        return cardHTML(b, "rail");
-      })
-      .join("");
+    const cards = list.map((b) => cardHTML(b, "rail")).join("");
     const trackAttr = trackKey ? escapeHtml(trackKey) : "";
-    const extra = opts.headAction
-      ? `<div class="rail-actions">${opts.headAction}</div>`
-      : "";
     return `<section class="rail-section" id="${id || ""}" data-rail-track="${trackAttr}">
       <div class="rail-head">
         <div>
           <h2 class="rail-title">${escapeHtml(title)}</h2>
           ${subtitle ? `<p class="rail-sub">${escapeHtml(subtitle)}</p>` : ""}
         </div>
-        ${extra}
       </div>
       <div class="rail-wrap">
         <div class="rail-scroller" data-rail>${cards}</div>
@@ -214,41 +179,7 @@
     metaEl.innerHTML = `<span>${books.length} 本</span><span>·</span><span>合共約 ${totalMin} 分鐘</span><span>·</span><span>粵語帶讀</span>`;
   }
 
-  const Mem = window.DushuMemory;
-  const memoryEntries = Mem ? Mem.listAll() : [];
-  const booksById = {};
-  books.forEach((b) => {
-    const id = Mem ? Mem.bookIdFromHref(b.href) : "";
-    if (id) booksById[id] = b;
-  });
-  const memoryBooks = [];
-  const memoryMap = {};
-  memoryEntries.forEach((mem) => {
-    const b = booksById[mem.bookId];
-    if (!b) return;
-    const hasListen = Number(mem.currentTime) > 2 || Number(mem.percent) > 0;
-    const hasChapterPick = typeof mem.chapterIndex === "number" && !!mem.chapterId;
-    if (!hasListen && !hasChapterPick) return;
-    const item = Object.assign({}, b, { _bookId: mem.bookId });
-    memoryBooks.push(item);
-    memoryMap[mem.bookId] = mem;
-  });
-
   let railsHTML = "";
-  if (memoryBooks.length) {
-    railsHTML += railSection(
-      "📖 繼續聽",
-      "閱讀記憶 · 撳下去接關",
-      memoryBooks,
-      "rail-memory",
-      "__memory__",
-      {
-        memoryMap: memoryMap,
-        headAction:
-          '<button type="button" class="mem-clear-all" id="mem-clear-all" title="清除全部閱讀記憶">清除閱讀記憶</button>',
-      }
-    );
-  }
   railsHTML += railSection(
     "✨ MiniMax 新聲",
     "已換 ProfessionalHost 男聲嘅帶讀",
@@ -295,7 +226,8 @@
     railsEl.querySelectorAll(".rail-section").forEach((sec) => {
       const railKey = sec.getAttribute("data-rail-track") || "";
       if (activeTrack) {
-        if (railKey === "__minimax__" || railKey === "__memory__") {
+        if (railKey === "__minimax__") {
+          // keep if any minimax card matches the track
           const has = [...sec.querySelectorAll(".rail-card")].some(
             (c) => c.getAttribute("data-track") === activeTrack
           );
@@ -354,18 +286,6 @@
       tab.classList.add("is-active");
     });
   });
-
-  const clearAllBtn = document.getElementById("mem-clear-all");
-  if (clearAllBtn && Mem) {
-    clearAllBtn.addEventListener("click", (e) => {
-      e.preventDefault();
-      e.stopPropagation();
-      if (!confirm("清除全部閱讀記憶？呢個動作淨係喺呢部裝置有效。")) return;
-      Mem.clearAll();
-      const sec = document.getElementById("rail-memory");
-      if (sec) sec.remove();
-    });
-  }
 
   applyFilters();
 
