@@ -2,17 +2,19 @@
   "voice": "Cantonese_ProfessionalHost（M)",
   "provider": "minimax",
   "model": "speech-2.8-hd",
-  "total_sec": 1989.72,
-  "total": "33:09",
+  "narration_hash": "72df87b6e1f7021b74d77c8beec331941929e54b8b1eef81794f43b8ef80e69d",
+  "total_sec": 2195.784,
+  "total": "36:35",
   "chapters": {
-    "ch00": "3:42",
-    "ch01": "3:41",
-    "ch02": "3:39",
+    "ch00": "4:51",
+    "ch01": "3:45",
+    "ch02": "3:43",
     "ch03": "3:41",
-    "ch04": "3:39",
-    "ch05": "3:41",
-    "ch06": "3:41",
-    "ch07": "3:40",
-    "ch08": "3:41"
+    "ch04": "3:36",
+    "ch05": "3:44",
+    "ch06": "3:42",
+    "ch07": "3:41",
+    "ch08": "3:42",
+    "ch09": "2:07"
   }
 }
