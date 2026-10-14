@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "起點同定義",
       "subtitle": "先講清楚呢本書想解決咩",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:55",
+      "audioDur": "4:58",
       "briefing": {
         "paragraphs": [
           "引言。呢本《反脆弱》（Nassim Nicholas Taleb）帶讀開場：一句講——從波動中受益。你唔使背曬全書，但要帶走可重複過程。",
@@ -168,7 +168,7 @@ window.DUSHU_BOOK = {
       "title": "核心框架",
       "subtitle": "作者最重要嗰套方法",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:52",
+      "audioDur": "3:56",
       "briefing": {
         "paragraphs": [
           "第一章。《反脆弱》（原題 Antifragile）呢章「核心框架」——作者最重要嗰套方法。作者Nassim Nicholas Taleb想帶出嘅核心，可以一句講：從波動中受益。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -323,7 +323,7 @@ window.DUSHU_BOOK = {
       "title": "選股／選資",
       "subtitle": "點樣搵標的",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:54",
+      "audioDur": "3:53",
       "briefing": {
         "paragraphs": [
           "第二章。《反脆弱》（原題 Antifragile）呢章「選股／選資」——點樣搵標的。作者Nassim Nicholas Taleb想帶出嘅核心，可以一句講：從波動中受益。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -478,7 +478,7 @@ window.DUSHU_BOOK = {
       "title": "估值同安全邊際",
       "subtitle": "付幾多先合理",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:52",
+      "audioDur": "3:53",
       "briefing": {
         "paragraphs": [
           "第三章。《反脆弱》（原題 Antifragile）呢章「估值同安全邊際」——付幾多先合理。作者Nassim Nicholas Taleb想帶出嘅核心，可以一句講：從波動中受益。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -633,7 +633,7 @@ window.DUSHU_BOOK = {
       "title": "心理同紀律",
       "subtitle": "市場同自己都會搗亂",
       "audio": "audio/ch04.mp3",
-      "audioDur": "3:53",
+      "audioDur": "3:52",
       "briefing": {
         "paragraphs": [
           "第四章。《反脆弱》（原題 Antifragile）呢章「心理同紀律」——市場同自己都會搗亂。作者Nassim Nicholas Taleb想帶出嘅核心，可以一句講：從波動中受益。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -788,7 +788,7 @@ window.DUSHU_BOOK = {
       "title": "風險同錯誤",
       "subtitle": "估錯仍然活到",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:55",
+      "audioDur": "3:53",
       "briefing": {
         "paragraphs": [
           "第五章。《反脆弱》（原題 Antifragile）呢章「風險同錯誤」——估錯仍然活到。作者Nassim Nicholas Taleb想帶出嘅核心，可以一句講：從波動中受益。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -943,7 +943,7 @@ window.DUSHU_BOOK = {
       "title": "組合同倉位",
       "subtitle": "點樣拿倉",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:52",
+      "audioDur": "3:56",
       "briefing": {
         "paragraphs": [
           "第六章。《反脆弱》（原題 Antifragile）呢章「組合同倉位」——點樣拿倉。作者Nassim Nicholas Taleb想帶出嘅核心，可以一句講：從波動中受益。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -1253,7 +1253,7 @@ window.DUSHU_BOOK = {
       "title": "九十日落地",
       "subtitle": "聽完要變成習慣",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:53",
+      "audioDur": "3:54",
       "briefing": {
         "paragraphs": [
           "第八章。《反脆弱》（原題 Antifragile）呢章「九十日落地」——聽完要變成習慣。作者Nassim Nicholas Taleb想帶出嘅核心，可以一句講：從波動中受益。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -1408,7 +1408,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同現實用法",
       "audio": "audio/ch09.mp3",
-      "audioDur": "待錄",
+      "audioDur": "2:09",
       "briefing": {
         "paragraphs": [
           "全書總結。聽完《反脆弱》，一句收：從波動中受益。你要帶走可執行規則，唔係金句。",
