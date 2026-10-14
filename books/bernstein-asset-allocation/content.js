@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "點解指數優先",
       "subtitle": "成本同勝率嘅現實",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:45",
+      "audioDur": "4:52",
       "briefing": {
         "paragraphs": [
           "引言。呢本《資產配置投資策略》（William J. Bernstein）帶讀開場：一句講——用歷史與數學做配置。你唔使背曬全書，但要帶走可重複過程。",
@@ -168,7 +168,7 @@ window.DUSHU_BOOK = {
       "title": "資產配置",
       "subtitle": "先配後揀",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:44",
+      "audioDur": "3:43",
       "briefing": {
         "paragraphs": [
           "第一章。《資產配置投資策略》（原題 The Intelligent Asset Allocator）呢章「資產配置」——先配後揀。作者William J. Bernstein想帶出嘅核心，可以一句講：用歷史與數學做配置。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -323,7 +323,7 @@ window.DUSHU_BOOK = {
       "title": "風險同回報",
       "subtitle": "波動唔等於永久損失",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:48",
+      "audioDur": "3:45",
       "briefing": {
         "paragraphs": [
           "第二章。《資產配置投資策略》（原題 The Intelligent Asset Allocator）呢章「風險同回報」——波動唔等於永久損失。作者William J. Bernstein想帶出嘅核心，可以一句講：用歷史與數學做配置。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -633,7 +633,7 @@ window.DUSHU_BOOK = {
       "title": "再平衡",
       "subtitle": "機械化勝過感覺",
       "audio": "audio/ch04.mp3",
-      "audioDur": "3:40",
+      "audioDur": "3:41",
       "briefing": {
         "paragraphs": [
           "第四章。《資產配置投資策略》（原題 The Intelligent Asset Allocator）呢章「再平衡」——機械化勝過感覺。作者William J. Bernstein想帶出嘅核心，可以一句講：用歷史與數學做配置。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -943,7 +943,7 @@ window.DUSHU_BOOK = {
       "title": "人生階段配置",
       "subtitle": "年齡同目標要匹配",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:45",
+      "audioDur": "3:47",
       "briefing": {
         "paragraphs": [
           "第六章。《資產配置投資策略》（原題 The Intelligent Asset Allocator）呢章「人生階段配置」——年齡同目標要匹配。作者William J. Bernstein想帶出嘅核心，可以一句講：用歷史與數學做配置。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -1098,7 +1098,7 @@ window.DUSHU_BOOK = {
       "title": "產品點揀",
       "subtitle": "指數基金同指數基金實務",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:42",
+      "audioDur": "3:44",
       "briefing": {
         "paragraphs": [
           "第七章。《資產配置投資策略》（原題 The Intelligent Asset Allocator）呢章「產品點揀」——指數基金同指數基金實務。作者William J. Bernstein想帶出嘅核心，可以一句講：用歷史與數學做配置。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -1253,7 +1253,7 @@ window.DUSHU_BOOK = {
       "title": "落地組合",
       "subtitle": "一頁紙寫低就去做",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:46",
+      "audioDur": "3:43",
       "briefing": {
         "paragraphs": [
           "第八章。《資產配置投資策略》（原題 The Intelligent Asset Allocator）呢章「落地組合」——一頁紙寫低就去做。作者William J. Bernstein想帶出嘅核心，可以一句講：用歷史與數學做配置。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -1408,7 +1408,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同現實用法",
       "audio": "audio/ch09.mp3",
-      "audioDur": "待錄",
+      "audioDur": "2:12",
       "briefing": {
         "paragraphs": [
           "全書總結。聽完《資產配置投資策略》，一句收：用歷史與數學做配置。你要帶走可執行規則，唔係金句。",
