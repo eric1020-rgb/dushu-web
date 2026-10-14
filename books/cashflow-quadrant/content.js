@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "現金流四象限",
       "subtitle": "E S B I 地圖",
       "audio": "audio/ch00.mp3",
-      "audioDur": "4:18",
+      "audioDur": "3:49",
       "briefing": {
         "paragraphs": [
           "有錢有理呢套，核心係現金流象限：E僱員、S自僱、B企業主、I投資者。唔係叫你即刻跳去某個格，而係叫你睇清楚：錢同時間點樣交換，風險同自由點樣分配。",
@@ -145,7 +145,7 @@ window.DUSHU_BOOK = {
       "title": "E 僱員",
       "subtitle": "燃料同跳板",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:49",
+      "audioDur": "3:23",
       "briefing": {
         "paragraphs": [
           "E僱員象限。社會好多人喺度，唔使覺得低人一等。E可以係學習場同穩定現金來源。關鍵係你把E當終點，定係當跳板。",
@@ -280,7 +280,7 @@ window.DUSHU_BOOK = {
       "title": "S 自僱",
       "subtitle": "停手就停錢？",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:57",
+      "audioDur": "3:28",
       "briefing": {
         "paragraphs": [
           "S自僱象限。好多高手喺度：手藝強、專業強、客戶要你本人。好處係自主同潛在更高時薪。代價係：你就係產品，停手就停錢，規模難。",
@@ -415,7 +415,7 @@ window.DUSHU_BOOK = {
       "title": "B 企業主",
       "subtitle": "系統大過自己",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:49",
+      "audioDur": "3:18",
       "briefing": {
         "paragraphs": [
           "B企業主象限。重點唔係名片印行政總裁，而係你有冇一個唔完全依賴你每日露面都能運作嘅系統。領導、文化、流程、招聘、現金流，先係功課。",
@@ -550,7 +550,7 @@ window.DUSHU_BOOK = {
       "title": "I 投資者",
       "subtitle": "錢為你工作",
       "audio": "audio/ch04.mp3",
-      "audioDur": "3:32",
+      "audioDur": "3:10",
       "briefing": {
         "paragraphs": [
           "I投資者象限。錢為你工作。你可以係企業售後仍然持有股權，或者用儲蓄買資產。重點係現金流同資產增值，而唔只係紙上富貴。",
@@ -685,7 +685,7 @@ window.DUSHU_BOOK = {
       "title": "過橋",
       "subtitle": "由E/S去B/I",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:32",
+      "audioDur": "3:09",
       "briefing": {
         "paragraphs": [
           "過橋唔係浪漫辭職故事。而係燃料、技能、系統種子、同風險護欄一齊齊。",
@@ -820,7 +820,7 @@ window.DUSHU_BOOK = {
       "title": "財務自由定義",
       "subtitle": "你嘅數字",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:18",
+      "audioDur": "2:54",
       "briefing": {
         "paragraphs": [
           "財務自由唔係炫耀數字，而係：被動同半被動現金流覆蓋你選擇嘅生活開支，令你工作變成選項。人人數字唔同，因為生活設計唔同。",
@@ -955,7 +955,7 @@ window.DUSHU_BOOK = {
       "title": "恐懼同教育",
       "subtitle": "小實驗",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:06",
+      "audioDur": "2:45",
       "briefing": {
         "paragraphs": [
           "恐懼會令人留喺熟悉象限。怕冇人工、怕被人睇、怕失敗公開。教育可以係正式課程，亦可以係師傅、實踐、同數字回饋。",
@@ -1090,7 +1090,7 @@ window.DUSHU_BOOK = {
       "title": "象限行動計劃",
       "subtitle": "一頁開始",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:08",
+      "audioDur": "2:41",
       "briefing": {
         "paragraphs": [
           "開始你嘅象限計劃。寫而家象限、目標象限比例、十二個月種子、每月I供款、恐懼實驗、同健康邊界。",
