@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "現金流先於虛榮",
       "subtitle": "賺錢同有現金係兩件事",
       "audio": "audio/ch00.mp3",
-      "audioDur": "4:16",
+      "audioDur": "3:47",
       "briefing": {
         "paragraphs": [
           "《獲利世代》（原題 Business Model Generation）呢章「現金流先於虛榮」——賺錢同有現金係兩件事。作者Alexander Osterwalder想帶出嘅核心，可以一句講：商業模式九宮格。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -165,7 +165,7 @@ window.DUSHU_BOOK = {
       "title": "帳戶同分配",
       "subtitle": "錢一入門就分好",
       "audio": "audio/ch01.mp3",
-      "audioDur": "4:14",
+      "audioDur": "3:42",
       "briefing": {
         "paragraphs": [
           "《獲利世代》（原題 Business Model Generation）呢章「帳戶同分配」——錢一入門就分好。作者Alexander Osterwalder想帶出嘅核心，可以一句講：商業模式九宮格。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -320,7 +320,7 @@ window.DUSHU_BOOK = {
       "title": "單位經濟",
       "subtitle": "每一單係賺定蝕",
       "audio": "audio/ch02.mp3",
-      "audioDur": "4:14",
+      "audioDur": "3:43",
       "briefing": {
         "paragraphs": [
           "《獲利世代》（原題 Business Model Generation）呢章「單位經濟」——每一單係賺定蝕。作者Alexander Osterwalder想帶出嘅核心，可以一句講：商業模式九宮格。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -475,7 +475,7 @@ window.DUSHU_BOOK = {
       "title": "定價同成本",
       "subtitle": "價格太低係慢性自殺",
       "audio": "audio/ch03.mp3",
-      "audioDur": "4:13",
+      "audioDur": "3:42",
       "briefing": {
         "paragraphs": [
           "《獲利世代》（原題 Business Model Generation）呢章「定價同成本」——價格太低係慢性自殺。作者Alexander Osterwalder想帶出嘅核心，可以一句講：商業模式九宮格。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -630,7 +630,7 @@ window.DUSHU_BOOK = {
       "title": "節奏同系統",
       "subtitle": "令生意唔使靠你日日救火",
       "audio": "audio/ch04.mp3",
-      "audioDur": "4:14",
+      "audioDur": "3:43",
       "briefing": {
         "paragraphs": [
           "《獲利世代》（原題 Business Model Generation）呢章「節奏同系統」——令生意唔使靠你日日救火。作者Alexander Osterwalder想帶出嘅核心，可以一句講：商業模式九宮格。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -785,7 +785,7 @@ window.DUSHU_BOOK = {
       "title": "增長同聚焦",
       "subtitle": "亂擴張會吸乾現金",
       "audio": "audio/ch05.mp3",
-      "audioDur": "4:14",
+      "audioDur": "3:43",
       "briefing": {
         "paragraphs": [
           "《獲利世代》（原題 Business Model Generation）呢章「增長同聚焦」——亂擴張會吸乾現金。作者Alexander Osterwalder想帶出嘅核心，可以一句講：商業模式九宮格。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -940,7 +940,7 @@ window.DUSHU_BOOK = {
       "title": "融資同債務",
       "subtitle": "借錢係工具唔係氧氣",
       "audio": "audio/ch06.mp3",
-      "audioDur": "4:16",
+      "audioDur": "3:43",
       "briefing": {
         "paragraphs": [
           "《獲利世代》（原題 Business Model Generation）呢章「融資同債務」——借錢係工具唔係氧氣。作者Alexander Osterwalder想帶出嘅核心，可以一句講：商業模式九宮格。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -1095,7 +1095,7 @@ window.DUSHU_BOOK = {
       "title": "數字儀錶板",
       "subtitle": "一週睇一次就夠",
       "audio": "audio/ch07.mp3",
-      "audioDur": "4:13",
+      "audioDur": "3:41",
       "briefing": {
         "paragraphs": [
           "《獲利世代》（原題 Business Model Generation）呢章「數字儀錶板」——一週睇一次就夠。作者Alexander Osterwalder想帶出嘅核心，可以一句講：商業模式九宮格。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -1250,7 +1250,7 @@ window.DUSHU_BOOK = {
       "title": "九十日改造",
       "subtitle": "由亂到可控",
       "audio": "audio/ch08.mp3",
-      "audioDur": "4:14",
+      "audioDur": "3:43",
       "briefing": {
         "paragraphs": [
           "《獲利世代》（原題 Business Model Generation）呢章「九十日改造」——由亂到可控。作者Alexander Osterwalder想帶出嘅核心，可以一句講：商業模式九宮格。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
