@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "點解指數優先",
       "subtitle": "成本同勝率嘅現實",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:37",
+      "audioDur": "4:39",
       "briefing": {
         "paragraphs": [
           "引言。呢本《博格頭投資指南》（Taylor Larimore 等）帶讀開場：一句講——買進持有低成本基金心法。你唔使背曬全書，但要帶走可重複過程。",
@@ -168,7 +168,7 @@ window.DUSHU_BOOK = {
       "title": "資產配置",
       "subtitle": "先配後揀",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:42",
+      "audioDur": "3:43",
       "briefing": {
         "paragraphs": [
           "第一章。《博格頭投資指南》（原題 The 博格heads' Guide to Investing）呢章「資產配置」——先配後揀。作者Taylor Larimore 等想帶出嘅核心，可以一句講：買進持有低成本基金心法。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -323,7 +323,7 @@ window.DUSHU_BOOK = {
       "title": "風險同回報",
       "subtitle": "波動唔等於永久損失",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:46",
+      "audioDur": "3:48",
       "briefing": {
         "paragraphs": [
           "第二章。《博格頭投資指南》（原題 The 博格heads' Guide to Investing）呢章「風險同回報」——波動唔等於永久損失。作者Taylor Larimore 等想帶出嘅核心，可以一句講：買進持有低成本基金心法。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -478,7 +478,7 @@ window.DUSHU_BOOK = {
       "title": "成本同稅務",
       "subtitle": "隱形支出好傷",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:39",
+      "audioDur": "3:45",
       "briefing": {
         "paragraphs": [
           "第三章。《博格頭投資指南》（原題 The 博格heads' Guide to Investing）呢章「成本同稅務」——隱形支出好傷。作者Taylor Larimore 等想帶出嘅核心，可以一句講：買進持有低成本基金心法。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -788,7 +788,7 @@ window.DUSHU_BOOK = {
       "title": "行為係敵人",
       "subtitle": "最難係忍手",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:43",
+      "audioDur": "3:47",
       "briefing": {
         "paragraphs": [
           "第五章。《博格頭投資指南》（原題 The 博格heads' Guide to Investing）呢章「行為係敵人」——最難係忍手。作者Taylor Larimore 等想帶出嘅核心，可以一句講：買進持有低成本基金心法。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -1098,7 +1098,7 @@ window.DUSHU_BOOK = {
       "title": "產品點揀",
       "subtitle": "指數基金同指數基金實務",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:42",
+      "audioDur": "3:43",
       "briefing": {
         "paragraphs": [
           "第七章。《博格頭投資指南》（原題 The 博格heads' Guide to Investing）呢章「產品點揀」——指數基金同指數基金實務。作者Taylor Larimore 等想帶出嘅核心，可以一句講：買進持有低成本基金心法。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -1253,7 +1253,7 @@ window.DUSHU_BOOK = {
       "title": "落地組合",
       "subtitle": "一頁紙寫低就去做",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:45",
+      "audioDur": "3:46",
       "briefing": {
         "paragraphs": [
           "第八章。《博格頭投資指南》（原題 The 博格heads' Guide to Investing）呢章「落地組合」——一頁紙寫低就去做。作者Taylor Larimore 等想帶出嘅核心，可以一句講：買進持有低成本基金心法。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -1408,7 +1408,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同現實用法",
       "audio": "audio/ch09.mp3",
-      "audioDur": "待錄",
+      "audioDur": "2:12",
       "briefing": {
         "paragraphs": [
           "全書總結。聽完《博格頭投資指南》，一句收：買進持有低成本基金心法。你要帶走可執行規則，唔係金句。",
