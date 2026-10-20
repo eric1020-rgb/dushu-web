@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "指數化起點",
       "subtitle": "唔好先學點炒，先學點擁有市場",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:34",
+      "audioDur": "4:51",
       "briefing": {
         "paragraphs": [
           "引言。呢本《指數基金的勝算》（John C. 博格（概念導讀））帶讀開場：一句講——指數基金路線最老實：承認多數人長期跑唔贏扣除費用後嘅市場。你唔使背曬全書，但要帶走可重複過程。",
@@ -168,7 +168,7 @@ window.DUSHU_BOOK = {
       "title": "費用吞噬",
       "subtitle": "少付一點，長期差好遠",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:39",
+      "audioDur": "3:37",
       "briefing": {
         "paragraphs": [
           "第一章。費用係少數你可以確定嘅負回報。每年多付一個百分點，三十年後差額可以好驚人。",
@@ -323,7 +323,7 @@ window.DUSHU_BOOK = {
       "title": "股債配置",
       "subtitle": "用睡得著做標準",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:36",
+      "audioDur": "3:37",
       "briefing": {
         "paragraphs": [
           "第二章。股債或者風險資產同防禦資產比例，決定你波動時嘅行為。配置錯，再好嘅指數都會令你高買低賣。",
@@ -478,7 +478,7 @@ window.DUSHU_BOOK = {
       "title": "再平衡",
       "subtitle": "令運氣唔好過度主導",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:31",
+      "audioDur": "3:33",
       "briefing": {
         "paragraphs": [
           "第三章。再平衡係賣啲升得多、買啲落後，令比例返目標。感覺反人性，但係紀律。",
@@ -633,7 +633,7 @@ window.DUSHU_BOOK = {
       "title": "擇時陷阱",
       "subtitle": "停在場內更重要",
       "audio": "audio/ch04.mp3",
-      "audioDur": "3:28",
+      "audioDur": "3:30",
       "briefing": {
         "paragraphs": [
           "第四章。擇時吸引人：以為可以避過下跌。現實係要對兩次——幾時出、幾時返。多數人做唔到。",
@@ -788,7 +788,7 @@ window.DUSHU_BOOK = {
       "title": "簡單組合",
       "subtitle": "三基金都夠用",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:30",
+      "audioDur": "3:34",
       "briefing": {
         "paragraphs": [
           "第五章。組合唔使複雜。經典思路：全球股票指數＋本地或全球債券指數，再加適量現金緩衝。有人用一站式目標日期基金。",
@@ -943,7 +943,7 @@ window.DUSHU_BOOK = {
       "title": "行為同帳戶",
       "subtitle": "制度幫你守紀律",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:29",
+      "audioDur": "3:30",
       "briefing": {
         "paragraphs": [
           "第六章。用自動化：出糧轉投、年度再平衡提醒、分開備用金帳戶。令好行為唔使靠興奮。",
@@ -1098,7 +1098,7 @@ window.DUSHU_BOOK = {
       "title": "通脹同提領",
       "subtitle": "晚年要用到先算真",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:28",
+      "audioDur": "3:30",
       "briefing": {
         "paragraphs": [
           "第七章。累積期同提領期規則唔同。接近用錢，要考慮通脹、序列風險、同現金流穩定。",
@@ -1253,7 +1253,7 @@ window.DUSHU_BOOK = {
       "title": "長期堅持",
       "subtitle": "無聊的富足",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:28",
+      "audioDur": "3:29",
       "briefing": {
         "paragraphs": [
           "第八章。指數化成功樣貌好悶：少交易、少炫耀、每年檢查一次。悶即係好事。",
@@ -1408,7 +1408,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同現實用法",
       "audio": "audio/ch09.mp3",
-      "audioDur": "待錄",
+      "audioDur": "2:31",
       "briefing": {
         "paragraphs": [
           "全書總結。聽完《指數基金的勝算》，一句收：開場。你要帶走可執行規則，唔係金句。",
