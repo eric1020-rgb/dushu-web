@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "起點同定義",
       "subtitle": "先講清楚呢本書想解決咩",
       "audio": "audio/ch00.mp3",
-      "audioDur": "4:22",
+      "audioDur": "4:52",
       "briefing": {
         "paragraphs": [
           "引言。呢本《商業地產入門》（相關實務書）帶讀開場：一句講——商用物業現金流基礎。你唔使背曬全書，但要帶走可重複過程。",
@@ -167,7 +167,7 @@ window.DUSHU_BOOK = {
       "title": "核心框架",
       "subtitle": "作者最重要嗰套方法",
       "audio": "audio/ch01.mp3",
-      "audioDur": "4:19",
+      "audioDur": "3:43",
       "briefing": {
         "paragraphs": [
           "第一章。《商業地產入門》（原題 Commercial Real Estate Investing）呢章「核心框架」——作者最重要嗰套方法。作者相關實務書想帶出嘅核心，可以一句講：商用物業現金流基礎。但一句唔夠用，要拆成你做得到嘅規則。你唔使背…",
@@ -321,7 +321,7 @@ window.DUSHU_BOOK = {
       "title": "選股／選資",
       "subtitle": "點樣搵標的",
       "audio": "audio/ch02.mp3",
-      "audioDur": "4:18",
+      "audioDur": "3:44",
       "briefing": {
         "paragraphs": [
           "第二章。《商業地產入門》（原題 Commercial Real Estate Investing）呢章「選股／選資」——點樣搵標的。作者相關實務書想帶出嘅核心，可以一句講：商用物業現金流基礎。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書…",
@@ -475,7 +475,7 @@ window.DUSHU_BOOK = {
       "title": "估值同安全邊際",
       "subtitle": "付幾多先合理",
       "audio": "audio/ch03.mp3",
-      "audioDur": "4:17",
+      "audioDur": "3:41",
       "briefing": {
         "paragraphs": [
           "第三章。《商業地產入門》（原題 Commercial Real Estate Investing）呢章「估值同安全邊際」——付幾多先合理。作者相關實務書想帶出嘅核心，可以一句講：商用物業現金流基礎。但一句唔夠用，要拆成你做得到嘅規則。你唔使背…",
@@ -629,7 +629,7 @@ window.DUSHU_BOOK = {
       "title": "心理同紀律",
       "subtitle": "市場同自己都會搗亂",
       "audio": "audio/ch04.mp3",
-      "audioDur": "4:18",
+      "audioDur": "3:41",
       "briefing": {
         "paragraphs": [
           "第四章。《商業地產入門》（原題 Commercial Real Estate Investing）呢章「心理同紀律」——市場同自己都會搗亂。作者相關實務書想帶出嘅核心，可以一句講：商用物業現金流基礎。但一句唔夠用，要拆成你做得到嘅規則。你唔使…",
@@ -783,7 +783,7 @@ window.DUSHU_BOOK = {
       "title": "風險同錯誤",
       "subtitle": "估錯仍然活到",
       "audio": "audio/ch05.mp3",
-      "audioDur": "4:20",
+      "audioDur": "3:48",
       "briefing": {
         "paragraphs": [
           "第五章。《商業地產入門》（原題 Commercial Real Estate Investing）呢章「風險同錯誤」——估錯仍然活到。作者相關實務書想帶出嘅核心，可以一句講：商用物業現金流基礎。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全…",
@@ -937,7 +937,7 @@ window.DUSHU_BOOK = {
       "title": "組合同倉位",
       "subtitle": "點樣拿倉",
       "audio": "audio/ch06.mp3",
-      "audioDur": "4:20",
+      "audioDur": "3:46",
       "briefing": {
         "paragraphs": [
           "第六章。《商業地產入門》（原題 Commercial Real Estate Investing）呢章「組合同倉位」——點樣拿倉。作者相關實務書想帶出嘅核心，可以一句講：商用物業現金流基礎。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，…",
@@ -1091,7 +1091,7 @@ window.DUSHU_BOOK = {
       "title": "常見陷阱",
       "subtitle": "好多人喺度跌親",
       "audio": "audio/ch07.mp3",
-      "audioDur": "4:18",
+      "audioDur": "3:40",
       "briefing": {
         "paragraphs": [
           "第七章。《商業地產入門》（原題 Commercial Real Estate Investing）呢章「常見陷阱」——好多人喺度跌親。作者相關實務書想帶出嘅核心，可以一句講：商用物業現金流基礎。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全…",
@@ -1245,7 +1245,7 @@ window.DUSHU_BOOK = {
       "title": "九十日落地",
       "subtitle": "听完要變成習慣",
       "audio": "audio/ch08.mp3",
-      "audioDur": "4:20",
+      "audioDur": "3:44",
       "briefing": {
         "paragraphs": [
           "第八章。《商業地產入門》（原題 Commercial Real Estate Investing）呢章「九十日落地」——聽完要變成習慣。作者相關實務書想帶出嘅核心，可以一句講：商用物業現金流基礎。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬…",
@@ -1399,7 +1399,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同現實用法",
       "audio": "audio/ch09.mp3",
-      "audioDur": "待錄",
+      "audioDur": "2:08",
       "briefing": {
         "paragraphs": [
           "全書總結。聽完《商業地產入門》，一句收：商用物業現金流基礎。你要帶走可執行規則，唔係金句。",
