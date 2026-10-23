@@ -54,7 +54,7 @@
     {"href": "books/how-economic-machine-works/", "title": "經濟機器如何運作", "author": "Ray Dalio", "track": "宏觀 · 周期", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c4", "mark": "經"},
     {"href": "books/alchemists-fed/", "title": "聯準會", "author": "Neil Irwin", "track": "宏觀 · 周期", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "聯", "voice": "minimax"},
     {"href": "books/ascent-of-money/", "title": "貨幣崛起", "author": "Niall Ferguson", "track": "宏觀 · 周期", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "貨", "voice": "minimax"},
-    {"href": "books/capital-ideas/", "title": "資本觀念", "author": "Peter L. Bernstein", "track": "宏觀 · 周期", "duration": "約 33 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "資", "voice": "minimax"},
+    {"href": "books/capital-ideas/", "title": "資本觀念", "author": "Peter L. Bernstein", "track": "宏觀 · 周期", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "資", "voice": "minimax"},
     {"href": "books/this-time-is-different/", "title": "這次不一樣", "author": "Carmen M. Reinhart / Kenneth S. Rogoff", "track": "宏觀 · 周期", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c4", "mark": "這"},
     {"href": "books/narrative-and-numbers/", "title": "估值的故事與數字", "author": "Aswath Damodaran", "track": "財報 · 估值", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c1", "mark": "估"},
     {"href": "books/buffettology-statements/", "title": "巴菲特教你讀財報", "author": "Mary Buffett / David Clark", "track": "財報 · 估值", "duration": "約 35 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "巴", "voice": "minimax"},

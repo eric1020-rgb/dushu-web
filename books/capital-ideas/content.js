@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "起點同定義",
       "subtitle": "先講清楚呢本書想解決咩",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:46",
+      "audioDur": "4:50",
       "briefing": {
         "paragraphs": [
           "引言。呢本《資本觀念》（Peter L. Bernstein）帶讀開場：一句講——現代投資組合理論誕生史。你唔使背曬全書，但要帶走可重複過程。",
@@ -168,7 +168,7 @@ window.DUSHU_BOOK = {
       "title": "核心框架",
       "subtitle": "作者最重要嗰套方法",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:44",
+      "audioDur": "3:45",
       "briefing": {
         "paragraphs": [
           "第一章。《資本觀念》（原題 Capital Ideas）呢章「核心框架」——作者最重要嗰套方法。作者Peter L. Bernstein想帶出嘅核心，可以一句講：現代投資組合理論誕生史。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -323,7 +323,7 @@ window.DUSHU_BOOK = {
       "title": "選股／選資",
       "subtitle": "點樣搵標的",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:40",
+      "audioDur": "3:41",
       "briefing": {
         "paragraphs": [
           "第二章。《資本觀念》（原題 Capital Ideas）呢章「選股／選資」——點樣搵標的。作者Peter L. Bernstein想帶出嘅核心，可以一句講：現代投資組合理論誕生史。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -478,7 +478,7 @@ window.DUSHU_BOOK = {
       "title": "估值同安全邊際",
       "subtitle": "付幾多先合理",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:38",
+      "audioDur": "3:41",
       "briefing": {
         "paragraphs": [
           "第三章。《資本觀念》（原題 Capital Ideas）呢章「估值同安全邊際」——付幾多先合理。作者Peter L. Bernstein想帶出嘅核心，可以一句講：現代投資組合理論誕生史。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -633,7 +633,7 @@ window.DUSHU_BOOK = {
       "title": "心理同紀律",
       "subtitle": "市場同自己都會搗亂",
       "audio": "audio/ch04.mp3",
-      "audioDur": "3:41",
+      "audioDur": "3:43",
       "briefing": {
         "paragraphs": [
           "第四章。《資本觀念》（原題 Capital Ideas）呢章「心理同紀律」——市場同自己都會搗亂。作者Peter L. Bernstein想帶出嘅核心，可以一句講：現代投資組合理論誕生史。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -788,7 +788,7 @@ window.DUSHU_BOOK = {
       "title": "風險同錯誤",
       "subtitle": "估錯仍然活到",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:42",
+      "audioDur": "3:45",
       "briefing": {
         "paragraphs": [
           "第五章。《資本觀念》（原題 Capital Ideas）呢章「風險同錯誤」——估錯仍然活到。作者Peter L. Bernstein想帶出嘅核心，可以一句講：現代投資組合理論誕生史。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -1098,7 +1098,7 @@ window.DUSHU_BOOK = {
       "title": "常見陷阱",
       "subtitle": "好多人喺度跌親",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:42",
+      "audioDur": "3:41",
       "briefing": {
         "paragraphs": [
           "第七章。《資本觀念》（原題 Capital Ideas）呢章「常見陷阱」——好多人喺度跌親。作者Peter L. Bernstein想帶出嘅核心，可以一句講：現代投資組合理論誕生史。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -1408,7 +1408,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同現實用法",
       "audio": "audio/ch09.mp3",
-      "audioDur": "待錄",
+      "audioDur": "2:09",
       "briefing": {
         "paragraphs": [
           "全書總結。聽完《資本觀念》，一句收：現代投資組合理論誕生史。你要帶走可執行規則，唔係金句。",
