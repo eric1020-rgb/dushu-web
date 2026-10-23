@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "業主心態",
       "subtitle": "把股東當合夥人",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:54",
+      "audioDur": "5:06",
       "briefing": {
         "paragraphs": [
           "引言。呢本《巴菲特寫給股東的信選讀》（華倫・巴菲特（概念導讀））帶讀開場：一句講——股東信傳統強調：對待股東如合夥人，報喜亦報憂，用清楚語言講生意。你唔使背曬全書，但要帶走可重複過程。",
@@ -168,7 +168,7 @@ window.DUSHU_BOOK = {
       "title": "護城河",
       "subtitle": "可持續優勢",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:52",
+      "audioDur": "3:51",
       "briefing": {
         "paragraphs": [
           "第一章。護城河係令企業長期賺取高於平均回報嘅屏障：品牌、轉換成本、網絡效應、成本優勢、特許。",
@@ -323,7 +323,7 @@ window.DUSHU_BOOK = {
       "title": "先生市場再用",
       "subtitle": "利用而唔被利用",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:45",
+      "audioDur": "3:47",
       "briefing": {
         "paragraphs": [
           "第二章。延續格雷厄姆：市場服務你。恐懼時可能給好價，狂熱時要忍耐。",
@@ -478,7 +478,7 @@ window.DUSHU_BOOK = {
       "title": "資本配置",
       "subtitle": "一美元要變多過一美元",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:40",
+      "audioDur": "3:43",
       "briefing": {
         "paragraphs": [
           "第三章。保留盈利再投資，必須創造更多價值。否則應考慮回報股東。",
@@ -788,7 +788,7 @@ window.DUSHU_BOOK = {
       "title": "錯誤公開",
       "subtitle": "認錯係競爭力",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:44",
+      "audioDur": "3:45",
       "briefing": {
         "paragraphs": [
           "第五章。公開討論錯誤，令組織同個人更快學習，亦建立信譽。",
@@ -943,7 +943,7 @@ window.DUSHU_BOOK = {
       "title": "通脹同摩擦",
       "subtitle": "真正購買力",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:46",
+      "audioDur": "3:44",
       "briefing": {
         "paragraphs": [
           "第六章。賬面回報要扣通脹、稅、費用。關注購買力。",
@@ -1098,7 +1098,7 @@ window.DUSHU_BOOK = {
       "title": "簡單同能力圈",
       "subtitle": "唔懂唔做",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:45",
+      "audioDur": "3:47",
       "briefing": {
         "paragraphs": [
           "第七章。能力圈唔係細就羞恥，而係邊界清晰就安全。圈可慢慢擴，但要真正學會。",
@@ -1253,7 +1253,7 @@ window.DUSHU_BOOK = {
       "title": "長期複利生活",
       "subtitle": "把信裡原則日常化",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:46",
+      "audioDur": "3:48",
       "briefing": {
         "paragraphs": [
           "第八章。把股東信原則變成：研究習慣、等待現金、錯誤信、能力圈清單、護城河檢查。",
@@ -1408,7 +1408,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同現實用法",
       "audio": "audio/ch09.mp3",
-      "audioDur": "待錄",
+      "audioDur": "2:22",
       "briefing": {
         "paragraphs": [
           "全書總結。聽完《巴菲特寫給股東的信選讀》，一句收：開場。你要帶走可執行規則，唔係金句。",
