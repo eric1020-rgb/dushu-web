@@ -68,7 +68,7 @@
     {"href": "books/financial-shenanigans/", "title": "財報魔術", "author": "Howard Schilit", "track": "財報 · 估值", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c2", "mark": "財"},
     {"href": "books/brrrr-method/", "title": "BRRRR 投資法", "author": "David Greene", "track": "房地產", "duration": "約 34 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "B", "voice": "minimax"},
     {"href": "books/reits-investors-guide/", "title": "REITs 投資指南", "author": "Stephanie Krewson-Kelly / Brad Thomas", "track": "房地產", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c4", "mark": "R"},
-    {"href": "books/book-on-rental-property/", "title": "出租物業投資聖經", "author": "Brandon Turner", "track": "房地產", "duration": "約 34 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "出", "voice": "minimax"},
+    {"href": "books/book-on-rental-property/", "title": "出租物業投資聖經", "author": "Brandon Turner", "track": "房地產", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "出", "voice": "minimax"},
     {"href": "books/commercial-real-estate-101/", "title": "商業地產入門", "author": "相關實務書", "track": "房地產", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c2", "mark": "商"},
     {"href": "books/rich-dad-real-estate/", "title": "富爸爸不動產投資", "author": "Robert Kiyosaki 編", "track": "房地產", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c3", "mark": "富"},
     {"href": "books/what-every-re-investor/", "title": "現金流與不動產數字", "author": "Frank Gallinelli", "track": "房地產", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c4", "mark": "現"},
