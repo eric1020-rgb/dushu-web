@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "起點同定義",
       "subtitle": "先講清楚呢本書想解決咩",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:47",
+      "audioDur": "4:50",
       "briefing": {
         "paragraphs": [
           "引言。呢本《BRRRR 投資法》（David Greene）帶讀開場：一句講——翻修再融資循環。你唔使背曬全書，但要帶走可重複過程。",
@@ -168,7 +168,7 @@ window.DUSHU_BOOK = {
       "title": "核心框架",
       "subtitle": "作者最重要嗰套方法",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:45",
+      "audioDur": "3:43",
       "briefing": {
         "paragraphs": [
           "第一章。《BRRRR 投資法》（原題 Buy, Rehab, Rent, Refinance, Repeat）呢章「核心框架」——作者最重要嗰套方法。作者David Greene想帶出嘅核心，可以一句講：翻修再融資循環。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -323,7 +323,7 @@ window.DUSHU_BOOK = {
       "title": "選股／選資",
       "subtitle": "點樣搵標的",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:42",
+      "audioDur": "3:43",
       "briefing": {
         "paragraphs": [
           "第二章。《BRRRR 投資法》（原題 Buy, Rehab, Rent, Refinance, Repeat）呢章「選股／選資」——點樣搵標的。作者David Greene想帶出嘅核心，可以一句講：翻修再融資循環。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -633,7 +633,7 @@ window.DUSHU_BOOK = {
       "title": "心理同紀律",
       "subtitle": "市場同自己都會搗亂",
       "audio": "audio/ch04.mp3",
-      "audioDur": "3:42",
+      "audioDur": "3:43",
       "briefing": {
         "paragraphs": [
           "第四章。《BRRRR 投資法》（原題 Buy, Rehab, Rent, Refinance, Repeat）呢章「心理同紀律」——市場同自己都會搗亂。作者David Greene想帶出嘅核心，可以一句講：翻修再融資循環。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -1253,7 +1253,7 @@ window.DUSHU_BOOK = {
       "title": "九十日落地",
       "subtitle": "聽完要變成習慣",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:41",
+      "audioDur": "3:44",
       "briefing": {
         "paragraphs": [
           "第八章。《BRRRR 投資法》（原題 Buy, Rehab, Rent, Refinance, Repeat）呢章「九十日落地」——聽完要變成習慣。作者David Greene想帶出嘅核心，可以一句講：翻修再融資循環。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -1408,7 +1408,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同現實用法",
       "audio": "audio/ch09.mp3",
-      "audioDur": "待錄",
+      "audioDur": "2:07",
       "briefing": {
         "paragraphs": [
           "全書總結。聽完《BRRRR 投資法》，一句收：翻修再融資循環。你要帶走可執行規則，唔係金句。",
