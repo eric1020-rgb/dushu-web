@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "現金流四象限",
       "subtitle": "E S B I 地圖",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:49",
+      "audioDur": "5:13",
       "briefing": {
         "paragraphs": [
           "引言。呢本《富爸爸有錢有理》（Robert T. Kiyosaki（概念導讀））帶讀開場：一句講——有錢有理呢套，核心係現金流象限：E僱員、S自僱、B企業主、I投資者。你唔使背曬全書，但要帶走可重複過程。",
@@ -148,7 +148,7 @@ window.DUSHU_BOOK = {
       "title": "E 僱員",
       "subtitle": "燃料同跳板",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:23",
+      "audioDur": "3:24",
       "briefing": {
         "paragraphs": [
           "第一章。E僱員象限。社會好多人喺度，唔使覺得低人一等。E可以係學習場同穩定現金來源。關鍵係你把E當終點，定係當跳板。",
@@ -283,7 +283,7 @@ window.DUSHU_BOOK = {
       "title": "S 自僱",
       "subtitle": "停手就停錢？",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:28",
+      "audioDur": "3:29",
       "briefing": {
         "paragraphs": [
           "第二章。S自僱象限。好多高手喺度：手藝強、專業強、客戶要你本人。好處係自主同潛在更高時薪。代價係：你就係產品，停手就停錢，規模難。",
@@ -418,7 +418,7 @@ window.DUSHU_BOOK = {
       "title": "B 企業主",
       "subtitle": "系統大過自己",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:18",
+      "audioDur": "3:22",
       "briefing": {
         "paragraphs": [
           "第三章。B企業主象限。重點唔係名片印行政總裁，而係你有冇一個唔完全依賴你每日露面都能運作嘅系統。領導、文化、流程、招聘、現金流，先係功課。",
@@ -688,7 +688,7 @@ window.DUSHU_BOOK = {
       "title": "過橋",
       "subtitle": "由E/S去B/I",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:09",
+      "audioDur": "3:10",
       "briefing": {
         "paragraphs": [
           "第五章。過橋唔係浪漫辭職故事。而係燃料、技能、系統種子、同風險護欄一齊齊。",
@@ -1093,7 +1093,7 @@ window.DUSHU_BOOK = {
       "title": "象限行動計劃",
       "subtitle": "一頁開始",
       "audio": "audio/ch08.mp3",
-      "audioDur": "2:41",
+      "audioDur": "2:39",
       "briefing": {
         "paragraphs": [
           "第八章。開始你嘅象限計劃。寫而家象限、目標象限比例、十二個月種子、每月I供款、恐懼實驗、同健康邊界。",
@@ -1228,7 +1228,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同現實用法",
       "audio": "audio/ch09.mp3",
-      "audioDur": "待錄",
+      "audioDur": "2:29",
       "briefing": {
         "paragraphs": [
           "全書總結。聽完《富爸爸有錢有理》，一句收：開場。你要帶走可執行規則，唔係金句。",
