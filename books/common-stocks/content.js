@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "成長股思維",
       "subtitle": "利潤可以不普通",
       "audio": "audio/ch00.mp3",
-      "audioDur": "4:25",
+      "audioDur": "5:03",
       "briefing": {
         "paragraphs": [
           "引言。呢本《普通股和不普通的利潤》（菲利普・費雪（概念導讀））帶讀開場：一句講——呢條線講：優質企業長期成長，可以令普通股變成不普通回報。你唔使背曬全書，但要帶走可重複過程。",
@@ -168,7 +168,7 @@ window.DUSHU_BOOK = {
       "title": "研究企業",
       "subtitle": "當老闆咁睇",
       "audio": "audio/ch01.mp3",
-      "audioDur": "4:33",
+      "audioDur": "3:55",
       "briefing": {
         "paragraphs": [
           "第一章。買股票係買企業部分所有權。你要好似準老闆咁問：客戶點解留低？員工點解賣力？對手點解追唔上？",
@@ -323,7 +323,7 @@ window.DUSHU_BOOK = {
       "title": "長期持有",
       "subtitle": "時間做朋友",
       "audio": "audio/ch02.mp3",
-      "audioDur": "4:27",
+      "audioDur": "3:50",
       "briefing": {
         "paragraphs": [
           "第二章。若企業持續創造價值，時間傾向站喺你這邊。頻密買賣會打斷複利同增加犯錯。",
@@ -478,7 +478,7 @@ window.DUSHU_BOOK = {
       "title": "管理層",
       "subtitle": "資本配置係技藝",
       "audio": "audio/ch03.mp3",
-      "audioDur": "4:26",
+      "audioDur": "3:51",
       "briefing": {
         "paragraphs": [
           "第三章。盈利之後點用錢：再投資、研發、收購、回購、派息——呢啲決定長期回報。",
@@ -633,7 +633,7 @@ window.DUSHU_BOOK = {
       "title": "風險",
       "subtitle": "永久損失先係真風險",
       "audio": "audio/ch04.mp3",
-      "audioDur": "4:21",
+      "audioDur": "3:49",
       "briefing": {
         "paragraphs": [
           "第四章。價格波動令人不安，但真正風險係企業價值永久下降或者你被迫偏低嘅價離場。",
@@ -788,7 +788,7 @@ window.DUSHU_BOOK = {
       "title": "市場情緒",
       "subtitle": "唔好被氣氛定價",
       "audio": "audio/ch05.mp3",
-      "audioDur": "4:22",
+      "audioDur": "3:45",
       "briefing": {
         "paragraphs": [
           "第五章。成長股最易喺樂觀期被追貴，悲觀期被拋售。你要有自己嘅價值錨。",
@@ -943,7 +943,7 @@ window.DUSHU_BOOK = {
       "title": "組合建構",
       "subtitle": "核心衛星",
       "audio": "audio/ch06.mp3",
-      "audioDur": "4:21",
+      "audioDur": "3:47",
       "briefing": {
         "paragraphs": [
           "第六章。用少數真懂嘅高信念做衛星，用廣泛優質或者指數做核心，平衡無知同自信。",
@@ -1098,7 +1098,7 @@ window.DUSHU_BOOK = {
       "title": "錯誤同學習",
       "subtitle": "檢討會",
       "audio": "audio/ch07.mp3",
-      "audioDur": "4:33",
+      "audioDur": "3:58",
       "briefing": {
         "paragraphs": [
           "第七章。每筆失敗要分類：分析錯、情緒錯、運氣差。分類先改進。",
@@ -1253,7 +1253,7 @@ window.DUSHU_BOOK = {
       "title": "九十日實踐",
       "subtitle": "研究節奏",
       "audio": "audio/ch08.mp3",
-      "audioDur": "4:19",
+      "audioDur": "3:44",
       "briefing": {
         "paragraphs": [
           "第八章。九十日建立節奏：每週研究時段、每月組合檢討、每季錯誤簿。",
@@ -1408,7 +1408,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同現實用法",
       "audio": "audio/ch09.mp3",
-      "audioDur": "待錄",
+      "audioDur": "2:17",
       "briefing": {
         "paragraphs": [
           "全書總結。聽完《普通股和不普通的利潤》，一句收：開場。你要帶走可執行規則，唔係金句。",
