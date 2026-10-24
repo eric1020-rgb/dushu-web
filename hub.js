@@ -58,7 +58,7 @@
     {"href": "books/this-time-is-different/", "title": "這次不一樣", "author": "Carmen M. Reinhart / Kenneth S. Rogoff", "track": "宏觀 · 周期", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c4", "mark": "這"},
     {"href": "books/narrative-and-numbers/", "title": "估值的故事與數字", "author": "Aswath Damodaran", "track": "財報 · 估值", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c1", "mark": "估"},
     {"href": "books/buffettology-statements/", "title": "巴菲特教你讀財報", "author": "Mary Buffett / David Clark", "track": "財報 · 估值", "duration": "約 35 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "巴", "voice": "minimax"},
-    {"href": "books/damodaran-valuation/", "title": "投資估價", "author": "Aswath Damodaran", "track": "財報 · 估值", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c3", "mark": "投"},
+    {"href": "books/damodaran-valuation/", "title": "投資估價", "author": "Aswath Damodaran", "track": "財報 · 估值", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "投", "voice": "minimax"},
     {"href": "books/accounting-game/", "title": "會計遊戲", "author": "Darrell Mullis / Judith Orloff", "track": "財報 · 估值", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "會", "voice": "minimax"},
     {"href": "books/quality-of-earnings/", "title": "盈餘品質", "author": "Thornton L. O'Glove", "track": "財報 · 估值", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c1", "mark": "盈"},
     {"href": "books/free-cash-flow-investing/", "title": "自由現金流投資法", "author": "Aswath Damodaran", "track": "財報 · 估值", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c2", "mark": "自"},
