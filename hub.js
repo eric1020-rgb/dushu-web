@@ -99,7 +99,7 @@
     {"href": "books/greenhorn-fund-bible/", "title": "綠角的基金勝經", "author": "綠角", "track": "港台常見理財書", "duration": "約 41 分鐘", "chapters": "10 章", "coverClass": "c1", "mark": "綠"},
     {"href": "books/gupiaolaoniu-dividend/", "title": "股海老牛的存股課", "author": "股海老牛", "track": "港台常見理財書", "duration": "約 41 分鐘", "chapters": "10 章", "coverClass": "c2", "mark": "股"},
     {"href": "books/i-will-teach-you-rich/", "title": "自動致富", "author": "Ramit Sethi", "track": "港台常見理財書", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c3", "mark": "自"},
-    {"href": "books/compound-effect/", "title": "複利效應", "author": "Darren Hardy", "track": "港台常見理財書", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c4", "mark": "複"},
+    {"href": "books/compound-effect/", "title": "複利效應", "author": "Darren Hardy", "track": "港台常見理財書", "duration": "約 36 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "複", "voice": "minimax"},
     {"href": "books/your-money-or-your-life/", "title": "金錢或人生", "author": "Vicki Robin / Joe Dominguez", "track": "港台常見理財書", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c1", "mark": "金"},
     {"href": "books/hk-mpf-investing/", "title": "香港人強積金與投資入門", "author": "港人作者常見", "track": "港台常見理財書", "duration": "約 40 分鐘", "chapters": "10 章", "coverClass": "c2", "mark": "香"},
     {"href": "books/naval-almanack/", "title": "納瓦爾寶典", "author": "Eric Jorgenson / Naval Ravikant", "track": "創業 · 心態 · 財富", "duration": "約 47 分鐘", "chapters": "10 章", "coverClass": "c3", "mark": "納"}
