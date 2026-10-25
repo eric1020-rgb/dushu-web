@@ -91,7 +91,7 @@
     {"href": "books/invent-and-wander/", "title": "發明與遊蕩", "author": "Jeff Bezos", "track": "創業家傳記", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c1", "mark": "發"},
     {"href": "books/steve-jobs/", "title": "賈伯斯傳", "author": "Walter Isaacson", "track": "創業家傳記", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c2", "mark": "賈"},
     {"href": "books/shoe-dog/", "title": "鞋狗", "author": "Phil Knight", "track": "創業家傳記", "duration": "約 38 分鐘", "chapters": "10 章", "coverClass": "c3", "mark": "鞋"},
-    {"href": "books/elon-musk/", "title": "馬斯克傳", "author": "Walter Isaacson", "track": "創業家傳記", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c4", "mark": "馬"},
+    {"href": "books/elon-musk/", "title": "馬斯克傳", "author": "Walter Isaacson", "track": "創業家傳記", "duration": "約 36 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "馬", "voice": "minimax"},
     {"href": "books/etf-playbook/", "title": "ETF 實戰手冊", "author": "台港作者常見", "track": "港台常見理財書", "duration": "約 40 分鐘", "chapters": "10 章", "coverClass": "c1", "mark": "E"},
     {"href": "books/increase-financial-iq/", "title": "富爸爸提高你的財商", "author": "Robert T. Kiyosaki", "track": "港台常見理財書", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c2", "mark": "富"},
     {"href": "books/secrets-millionaire-mind/", "title": "有錢人想的和你不一樣", "author": "T. Harv Eker", "track": "港台常見理財書", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c3", "mark": "有"},
