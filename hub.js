@@ -97,7 +97,7 @@
     {"href": "books/secrets-millionaire-mind/", "title": "有錢人想的和你不一樣", "author": "T. Harv Eker", "track": "港台常見理財書", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c3", "mark": "有"},
     {"href": "books/die-with-zero/", "title": "歸零而死", "author": "Bill Perkins", "track": "港台常見理財書", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "歸", "voice": "minimax"},
     {"href": "books/greenhorn-fund-bible/", "title": "綠角的基金勝經", "author": "綠角", "track": "港台常見理財書", "duration": "約 38 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "綠", "voice": "minimax"},
-    {"href": "books/gupiaolaoniu-dividend/", "title": "股海老牛的存股課", "author": "股海老牛", "track": "港台常見理財書", "duration": "約 41 分鐘", "chapters": "10 章", "coverClass": "c2", "mark": "股"},
+    {"href": "books/gupiaolaoniu-dividend/", "title": "股海老牛的存股課", "author": "股海老牛", "track": "港台常見理財書", "duration": "約 38 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "股", "voice": "minimax"},
     {"href": "books/i-will-teach-you-rich/", "title": "自動致富", "author": "Ramit Sethi", "track": "港台常見理財書", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c3", "mark": "自"},
     {"href": "books/compound-effect/", "title": "複利效應", "author": "Darren Hardy", "track": "港台常見理財書", "duration": "約 36 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "複", "voice": "minimax"},
     {"href": "books/your-money-or-your-life/", "title": "金錢或人生", "author": "Vicki Robin / Joe Dominguez", "track": "港台常見理財書", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c1", "mark": "金"},
