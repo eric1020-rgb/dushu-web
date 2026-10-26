@@ -1,17 +1,20 @@
 {
-  "voice": "zh-HK-WanLungNeural",
-  "rate": "-5%",
-  "total_sec": 2410.296,
-  "total": "40:10",
+  "voice": "Cantonese_ProfessionalHost（M)",
+  "provider": "minimax",
+  "model": "speech-2.8-hd",
+  "narration_hash": "1d0146d2ba86e3985cfbffc40e694c4954c464854e5ad8158ba75d0ecd336fad",
+  "total_sec": 2318.724,
+  "total": "38:38",
   "chapters": {
-    "ch00": "4:30",
-    "ch01": "4:27",
-    "ch02": "4:26",
-    "ch03": "4:26",
-    "ch04": "4:26",
-    "ch05": "4:28",
-    "ch06": "4:28",
-    "ch07": "4:27",
-    "ch08": "4:28"
+    "ch00": "5:00",
+    "ch01": "3:55",
+    "ch02": "3:54",
+    "ch03": "3:56",
+    "ch04": "3:54",
+    "ch05": "3:54",
+    "ch06": "4:00",
+    "ch07": "3:55",
+    "ch08": "3:58",
+    "ch09": "2:08"
   }
 }
