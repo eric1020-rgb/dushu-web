@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "起點同定義",
       "subtitle": "先講清楚呢本書想解決咩",
       "audio": "audio/ch00.mp3",
-      "audioDur": "4:09",
+      "audioDur": "4:40",
       "briefing": {
         "paragraphs": [
           "引言。呢本《價值投資》（Bruce Greenwald）帶讀開場：一句講——先講清楚呢本書想解決咩。你唔使背曬全書，但要帶走可重複過程。",
@@ -167,7 +167,7 @@ window.DUSHU_BOOK = {
       "title": "核心框架",
       "subtitle": "作者最重要嗰套方法",
       "audio": "audio/ch01.mp3",
-      "audioDur": "4:06",
+      "audioDur": "3:32",
       "briefing": {
         "paragraphs": [
           "第一章。《價值投資》（原題 Value Investing: From 格雷厄姆 to 巴菲特 and Beyond）呢章「核心框架」——作者最重要嗰套方法。作者Bruce Greenwald想帶出嘅核心，可以一句講：現代價值框架…",
@@ -321,7 +321,7 @@ window.DUSHU_BOOK = {
       "title": "選股／選資",
       "subtitle": "點樣搵標的",
       "audio": "audio/ch02.mp3",
-      "audioDur": "4:20",
+      "audioDur": "3:43",
       "briefing": {
         "paragraphs": [
           "第二章。《價值投資》（原題 Value Investing: From 格雷厄姆 to 巴菲特 and Beyond）呢章「選股／選資」——點樣搵標的。作者Bruce Greenwald想帶出嘅核心，可以一句講：現代價值框架與盈餘…",
@@ -475,7 +475,7 @@ window.DUSHU_BOOK = {
       "title": "估值同安全邊際",
       "subtitle": "付幾多先合理",
       "audio": "audio/ch03.mp3",
-      "audioDur": "4:19",
+      "audioDur": "3:44",
       "briefing": {
         "paragraphs": [
           "第三章。《價值投資》（原題 Value Investing: From 格雷厄姆 to 巴菲特 and Beyond）呢章「估值同安全邊際」——付幾多先合理。作者Bruce Greenwald想帶出嘅核心，可以一句講：現代價值框架…",
@@ -629,7 +629,7 @@ window.DUSHU_BOOK = {
       "title": "心理同紀律",
       "subtitle": "市場同自己都會搗亂",
       "audio": "audio/ch04.mp3",
-      "audioDur": "4:20",
+      "audioDur": "3:45",
       "briefing": {
         "paragraphs": [
           "第四章。《價值投資》（原題 Value Investing: From 格雷厄姆 to 巴菲特 and Beyond）呢章「心理同紀律」——市場同自己都會搗亂。作者Bruce Greenwald想帶出嘅核心，可以一句講：現代價值框…",
@@ -783,7 +783,7 @@ window.DUSHU_BOOK = {
       "title": "風險同錯誤",
       "subtitle": "估錯仍然活到",
       "audio": "audio/ch05.mp3",
-      "audioDur": "4:07",
+      "audioDur": "3:31",
       "briefing": {
         "paragraphs": [
           "第五章。《價值投資》（原題 Value Investing: From 格雷厄姆 to 巴菲特 and Beyond）呢章「風險同錯誤」——估錯仍然活到。作者Bruce Greenwald想帶出嘅核心，可以一句講：現代價值框架與盈…",
@@ -937,7 +937,7 @@ window.DUSHU_BOOK = {
       "title": "組合同倉位",
       "subtitle": "點樣拿倉",
       "audio": "audio/ch06.mp3",
-      "audioDur": "4:07",
+      "audioDur": "3:34",
       "briefing": {
         "paragraphs": [
           "第六章。《價值投資》（原題 Value Investing: From 格雷厄姆 to 巴菲特 and Beyond）呢章「組合同倉位」——點樣拿倉。作者Bruce Greenwald想帶出嘅核心，可以一句講：現代價值框架與盈餘能…",
@@ -1091,7 +1091,7 @@ window.DUSHU_BOOK = {
       "title": "常見陷阱",
       "subtitle": "好多人喺度跌親",
       "audio": "audio/ch07.mp3",
-      "audioDur": "4:20",
+      "audioDur": "3:45",
       "briefing": {
         "paragraphs": [
           "第七章。《價值投資》（原題 Value Investing: From 格雷厄姆 to 巴菲特 and Beyond）呢章「常見陷阱」——好多人喺度跌親。作者Bruce Greenwald想帶出嘅核心，可以一句講：現代價值框架與盈…",
@@ -1245,7 +1245,7 @@ window.DUSHU_BOOK = {
       "title": "九十日落地",
       "subtitle": "听完要變成習慣",
       "audio": "audio/ch08.mp3",
-      "audioDur": "4:07",
+      "audioDur": "3:34",
       "briefing": {
         "paragraphs": [
           "第八章。《價值投資》（原題 Value Investing: From 格雷厄姆 to 巴菲特 and Beyond）呢章「九十日落地」——聽完要變成習慣。作者Bruce Greenwald想帶出嘅核心，可以一句講：現代價值框架與…",
@@ -1399,7 +1399,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同現實用法",
       "audio": "audio/ch09.mp3",
-      "audioDur": "待錄",
+      "audioDur": "2:08",
       "briefing": {
         "paragraphs": [
           "全書總結。聽完《價值投資》，一句收：先講清楚呢本書想解決咩。你要帶走可執行規則，唔係金句。",
