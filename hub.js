@@ -29,7 +29,7 @@
     {"href": "books/five-rules-stock-investing/", "title": "股市真規則", "author": "Pat Dorsey", "track": "價值投資", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "股", "voice": "minimax"},
     {"href": "books/little-book-builds-wealth/", "title": "護城河", "author": "Pat Dorsey", "track": "價值投資", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c4", "mark": "護"},
     {"href": "books/contrarian-investment/", "title": "逆向投資策略", "author": "David Dreman", "track": "價值投資", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "逆", "voice": "minimax"},
-    {"href": "books/global-asset-allocation/", "title": "全球資產配置", "author": "Meb Faber", "track": "被動指數", "duration": "約 38 分鐘", "chapters": "10 章", "coverClass": "c2", "mark": "全"},
+    {"href": "books/global-asset-allocation/", "title": "全球資產配置", "author": "Meb Faber", "track": "被動指數", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "全", "voice": "minimax"},
     {"href": "books/bogle-mutual-funds/", "title": "共同基金必勝法則", "author": "John C. Bogle", "track": "被動指數", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "共", "voice": "minimax"},
     {"href": "books/bogleheads-guide/", "title": "博格頭投資指南", "author": "Taylor Larimore 等", "track": "被動指數", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "博", "voice": "minimax"},
     {"href": "books/ivy-portfolio/", "title": "常春藤投資組合", "author": "Meb Faber", "track": "被動指數", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c1", "mark": "常"},
