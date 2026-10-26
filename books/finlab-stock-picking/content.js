@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "三表一齊睇",
       "subtitle": "損益唔等於現金",
       "audio": "audio/ch00.mp3",
-      "audioDur": "4:19",
+      "audioDur": "4:49",
       "briefing": {
         "paragraphs": [
           "引言。呢本《財報狗教你挖好股》（財報狗）帶讀開場：一句講——華語圈財報選股入門。你唔使背曬全書，但要帶走可重複過程。",
@@ -167,7 +167,7 @@ window.DUSHU_BOOK = {
       "title": "盈利質量",
       "subtitle": "靚數背後有冇貨",
       "audio": "audio/ch01.mp3",
-      "audioDur": "4:32",
+      "audioDur": "3:54",
       "briefing": {
         "paragraphs": [
           "第一章。《財報狗教你挖好股》呢章「盈利質量」——靚數背後有冇貨。作者財報狗想帶出嘅核心，可以一句講：華語圈財報選股入門。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -321,7 +321,7 @@ window.DUSHU_BOOK = {
       "title": "自由現金流",
       "subtitle": "真正可分配嘅錢",
       "audio": "audio/ch02.mp3",
-      "audioDur": "4:33",
+      "audioDur": "3:55",
       "briefing": {
         "paragraphs": [
           "第二章。《財報狗教你挖好股》呢章「自由現金流」——真正可分配嘅錢。作者財報狗想帶出嘅核心，可以一句講：華語圈財報選股入門。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -475,7 +475,7 @@ window.DUSHU_BOOK = {
       "title": "比率同陷阱",
       "subtitle": "倍數唔係萬靈丹",
       "audio": "audio/ch03.mp3",
-      "audioDur": "4:31",
+      "audioDur": "3:50",
       "briefing": {
         "paragraphs": [
           "第三章。《財報狗教你挖好股》呢章「比率同陷阱」——倍數唔係萬靈丹。作者財報狗想帶出嘅核心，可以一句講：華語圈財報選股入門。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -629,7 +629,7 @@ window.DUSHU_BOOK = {
       "title": "估值方法",
       "subtitle": "範圍優於假精確",
       "audio": "audio/ch04.mp3",
-      "audioDur": "4:32",
+      "audioDur": "3:54",
       "briefing": {
         "paragraphs": [
           "第四章。《財報狗教你挖好股》呢章「估值方法」——範圍優於假精確。作者財報狗想帶出嘅核心，可以一句講：華語圈財報選股入門。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -783,7 +783,7 @@ window.DUSHU_BOOK = {
       "title": "作假同紅旗",
       "subtitle": "太完美反而可疑",
       "audio": "audio/ch05.mp3",
-      "audioDur": "4:34",
+      "audioDur": "3:58",
       "briefing": {
         "paragraphs": [
           "第五章。《財報狗教你挖好股》呢章「作假同紅旗」——太完美反而可疑。作者財報狗想帶出嘅核心，可以一句講：華語圈財報選股入門。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -937,7 +937,7 @@ window.DUSHU_BOOK = {
       "title": "行業差異",
       "subtitle": "唔好跨行亂比",
       "audio": "audio/ch06.mp3",
-      "audioDur": "4:33",
+      "audioDur": "3:53",
       "briefing": {
         "paragraphs": [
           "第六章。《財報狗教你挖好股》呢章「行業差異」——唔好跨行亂比。作者財報狗想帶出嘅核心，可以一句講：華語圈財報選股入門。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -1091,7 +1091,7 @@ window.DUSHU_BOOK = {
       "title": "管理層解讀",
       "subtitle": "文字同數字對照",
       "audio": "audio/ch07.mp3",
-      "audioDur": "4:30",
+      "audioDur": "3:52",
       "briefing": {
         "paragraphs": [
           "第七章。《財報狗教你挖好股》呢章「管理層解讀」——文字同數字對照。作者財報狗想帶出嘅核心，可以一句講：華語圈財報選股入門。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -1245,7 +1245,7 @@ window.DUSHU_BOOK = {
       "title": "實戰筆記",
       "subtitle": "一頁紙估值習慣",
       "audio": "audio/ch08.mp3",
-      "audioDur": "4:33",
+      "audioDur": "3:54",
       "briefing": {
         "paragraphs": [
           "第八章。《財報狗教你挖好股》呢章「實戰筆記」——一頁紙估值習慣。作者財報狗想帶出嘅核心，可以一句講：華語圈財報選股入門。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -1399,7 +1399,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同現實用法",
       "audio": "audio/ch09.mp3",
-      "audioDur": "待錄",
+      "audioDur": "2:12",
       "briefing": {
         "paragraphs": [
           "全書總結。聽完《財報狗教你挖好股》，一句收：華語圈財報選股入門。你要帶走可執行規則，唔係金句。",
