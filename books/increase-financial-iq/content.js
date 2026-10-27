@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "在地現實",
       "subtitle": "稅、產品、習慣唔同外地",
       "audio": "audio/ch00.mp3",
-      "audioDur": "4:22",
+      "audioDur": "4:48",
       "briefing": {
         "paragraphs": [
           "引言。呢本《富爸爸提高你的財商》（Robert T. Kiyosaki）帶讀開場：一句講——五種財務智商。你唔使背曬全書，但要帶走可重複過程。",
@@ -167,7 +167,7 @@ window.DUSHU_BOOK = {
       "title": "目標同現金流",
       "subtitle": "先搞清楚錢做咩用",
       "audio": "audio/ch01.mp3",
-      "audioDur": "4:20",
+      "audioDur": "3:44",
       "briefing": {
         "paragraphs": [
           "第一章。《富爸爸提高你的財商》（原題 Rich Dad's Increase Your Financial IQ）呢章「目標同現金流」——先搞清楚錢做咩用。作者Robert T. Kiyosaki想帶出嘅核心，可以一句講：五種財務智商。但一句…",
@@ -321,7 +321,7 @@ window.DUSHU_BOOK = {
       "title": "核心配置",
       "subtitle": "簡單組合先上路",
       "audio": "audio/ch02.mp3",
-      "audioDur": "4:19",
+      "audioDur": "3:46",
       "briefing": {
         "paragraphs": [
           "第二章。《富爸爸提高你的財商》（原題 Rich Dad's Increase Your Financial IQ）呢章「核心配置」——簡單組合先上路。作者Robert T. Kiyosaki想帶出嘅核心，可以一句講：五種財務智商。但一句唔夠用…",
@@ -475,7 +475,7 @@ window.DUSHU_BOOK = {
       "title": "產品辨識",
       "subtitle": "費率同複雜度",
       "audio": "audio/ch03.mp3",
-      "audioDur": "4:17",
+      "audioDur": "3:39",
       "briefing": {
         "paragraphs": [
           "第三章。《富爸爸提高你的財商》（原題 Rich Dad's Increase Your Financial IQ）呢章「產品辨識」——費率同複雜度。作者Robert T. Kiyosaki想帶出嘅核心，可以一句講：五種財務智商。但一句唔夠用，…",
@@ -629,7 +629,7 @@ window.DUSHU_BOOK = {
       "title": "行為坑",
       "subtitle": "追升殺跌最常見",
       "audio": "audio/ch04.mp3",
-      "audioDur": "4:18",
+      "audioDur": "3:45",
       "briefing": {
         "paragraphs": [
           "第四章。《富爸爸提高你的財商》（原題 Rich Dad's Increase Your Financial IQ）呢章「行為坑」——追升殺跌最常見。作者Robert T. Kiyosaki想帶出嘅核心，可以一句講：五種財務智商。但一句唔夠用，…",
@@ -783,7 +783,7 @@ window.DUSHU_BOOK = {
       "title": "槓桿同債務",
       "subtitle": "房貸同消費債要分",
       "audio": "audio/ch05.mp3",
-      "audioDur": "4:21",
+      "audioDur": "3:46",
       "briefing": {
         "paragraphs": [
           "第五章。《富爸爸提高你的財商》（原題 Rich Dad's Increase Your Financial IQ）呢章「槓桿同債務」——房貸同消費債要分。作者Robert T. Kiyosaki想帶出嘅核心，可以一句講：五種財務智商。但一句唔…",
@@ -937,7 +937,7 @@ window.DUSHU_BOOK = {
       "title": "退休同提取",
       "subtitle": "累積完仲有提取風險",
       "audio": "audio/ch06.mp3",
-      "audioDur": "4:21",
+      "audioDur": "3:44",
       "briefing": {
         "paragraphs": [
           "第六章。《富爸爸提高你的財商》（原題 Rich Dad's Increase Your Financial IQ）呢章「退休同提取」——累積完仲有提取風險。作者Robert T. Kiyosaki想帶出嘅核心，可以一句講：五種財務智商。但一句…",
@@ -1091,7 +1091,7 @@ window.DUSHU_BOOK = {
       "title": "家庭決策",
       "subtitle": "理財係關係議題",
       "audio": "audio/ch07.mp3",
-      "audioDur": "4:18",
+      "audioDur": "3:43",
       "briefing": {
         "paragraphs": [
           "第七章。《富爸爸提高你的財商》（原題 Rich Dad's Increase Your Financial IQ）呢章「家庭決策」——理財係關係議題。作者Robert T. Kiyosaki想帶出嘅核心，可以一句講：五種財務智商。但一句唔夠用…",
@@ -1245,7 +1245,7 @@ window.DUSHU_BOOK = {
       "title": "落地計劃",
       "subtitle": "一頁紙就執行",
       "audio": "audio/ch08.mp3",
-      "audioDur": "4:20",
+      "audioDur": "3:46",
       "briefing": {
         "paragraphs": [
           "第八章。《富爸爸提高你的財商》（原題 Rich Dad's Increase Your Financial IQ）呢章「落地計劃」——一頁紙就執行。作者Robert T. Kiyosaki想帶出嘅核心，可以一句講：五種財務智商。但一句唔夠用，…",
@@ -1399,7 +1399,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同現實用法",
       "audio": "audio/ch09.mp3",
-      "audioDur": "待錄",
+      "audioDur": "2:09",
       "briefing": {
         "paragraphs": [
           "全書總結。聽完《富爸爸提高你的財商》，一句收：五種財務智商。你要帶走可執行規則，唔係金句。",
