@@ -51,7 +51,7 @@
     {"href": "books/big-debt-crises/", "title": "大債危機", "author": "Ray Dalio", "track": "宏觀 · 周期", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "大", "voice": "minimax"},
     {"href": "books/big-short/", "title": "大空頭", "author": "Michael Lewis", "track": "宏觀 · 周期", "duration": "約 36 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "大", "voice": "minimax"},
     {"href": "books/devil-take-hindmost/", "title": "泡沫的故事", "author": "Edward Chancellor", "track": "宏觀 · 周期", "duration": "約 36 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "泡", "voice": "minimax"},
-    {"href": "books/how-economic-machine-works/", "title": "經濟機器如何運作", "author": "Ray Dalio", "track": "宏觀 · 周期", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c4", "mark": "經"},
+    {"href": "books/how-economic-machine-works/", "title": "經濟機器如何運作", "author": "Ray Dalio", "track": "宏觀 · 周期", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "經", "voice": "minimax"},
     {"href": "books/alchemists-fed/", "title": "聯準會", "author": "Neil Irwin", "track": "宏觀 · 周期", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "聯", "voice": "minimax"},
     {"href": "books/ascent-of-money/", "title": "貨幣崛起", "author": "Niall Ferguson", "track": "宏觀 · 周期", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "貨", "voice": "minimax"},
     {"href": "books/capital-ideas/", "title": "資本觀念", "author": "Peter L. Bernstein", "track": "宏觀 · 周期", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "資", "voice": "minimax"},
