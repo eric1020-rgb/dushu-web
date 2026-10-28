@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "交易係機率事業",
       "subtitle": "唔係預測事業",
       "audio": "audio/ch00.mp3",
-      "audioDur": "4:20",
+      "audioDur": "4:47",
       "briefing": {
         "paragraphs": [
           "引言。呢本《陰線陽線》（Steve Nison）帶讀開場：一句講——K 線型態經典。你唔使背曬全書，但要帶走可重複過程。",
@@ -167,7 +167,7 @@ window.DUSHU_BOOK = {
       "title": "系統大於感覺",
       "subtitle": "進出場要寫低",
       "audio": "audio/ch01.mp3",
-      "audioDur": "4:18",
+      "audioDur": "3:40",
       "briefing": {
         "paragraphs": [
           "第一章。《陰線陽線》（原題 Japanese Candlestick Charting Techniques）呢章「系統大於感覺」——進出場要寫低。作者Steve Nison想帶出嘅核心，可以一句講：K 線型態經典。但一句唔夠用，要拆成你做得…",
@@ -321,7 +321,7 @@ window.DUSHU_BOOK = {
       "title": "風險控管",
       "subtitle": "先定輸得起幾多",
       "audio": "audio/ch02.mp3",
-      "audioDur": "4:18",
+      "audioDur": "3:40",
       "briefing": {
         "paragraphs": [
           "第二章。《陰線陽線》（原題 Japanese Candlestick Charting Techniques）呢章「風險控管」——先定輸得起幾多。作者Steve Nison想帶出嘅核心，可以一句講：K 線型態經典。但一句唔夠用，要拆成你做得到…",
@@ -475,7 +475,7 @@ window.DUSHU_BOOK = {
       "title": "心理帳戶",
       "subtitle": "連續輸贏最易爆",
       "audio": "audio/ch03.mp3",
-      "audioDur": "4:17",
+      "audioDur": "3:40",
       "briefing": {
         "paragraphs": [
           "第三章。《陰線陽線》（原題 Japanese Candlestick Charting Techniques）呢章「心理帳戶」——連續輸贏最易爆。作者Steve Nison想帶出嘅核心，可以一句講：K 線型態經典。但一句唔夠用，要拆成你做得到…",
@@ -629,7 +629,7 @@ window.DUSHU_BOOK = {
       "title": "趨勢同逆勢",
       "subtitle": "方法要同性格配",
       "audio": "audio/ch04.mp3",
-      "audioDur": "4:19",
+      "audioDur": "3:42",
       "briefing": {
         "paragraphs": [
           "第四章。《陰線陽線》（原題 Japanese Candlestick Charting Techniques）呢章「趨勢同逆勢」——方法要同性格配。作者Steve Nison想帶出嘅核心，可以一句講：K 線型態經典。但一句唔夠用，要拆成你做得…",
@@ -783,7 +783,7 @@ window.DUSHU_BOOK = {
       "title": "工具箱",
       "subtitle": "圖表係語言唔係神諭",
       "audio": "audio/ch05.mp3",
-      "audioDur": "4:20",
+      "audioDur": "3:44",
       "briefing": {
         "paragraphs": [
           "第五章。《陰線陽線》（原題 Japanese Candlestick Charting Techniques）呢章「工具箱」——圖表係語言唔係神諭。作者Steve Nison想帶出嘅核心，可以一句講：K 線型態經典。但一句唔夠用，要拆成你做得…",
@@ -937,7 +937,7 @@ window.DUSHU_BOOK = {
       "title": "槓桿同 deriv",
       "subtitle": "放大係雙刃",
       "audio": "audio/ch06.mp3",
-      "audioDur": "4:20",
+      "audioDur": "3:44",
       "briefing": {
         "paragraphs": [
           "第六章。《陰線陽線》（原題 Japanese Candlestick Charting Techniques）呢章「槓桿同 deriv」——放大係雙刃。作者Steve Nison想帶出嘅核心，可以一句講：K 線型態經典。但一句唔夠用，要拆成你…",
@@ -1091,7 +1091,7 @@ window.DUSHU_BOOK = {
       "title": "評核系統",
       "subtitle": "用過程分唔好只用錢分",
       "audio": "audio/ch07.mp3",
-      "audioDur": "4:18",
+      "audioDur": "3:45",
       "briefing": {
         "paragraphs": [
           "第七章。《陰線陽線》（原題 Japanese Candlestick Charting Techniques）呢章「評核系統」——用過程分唔好只用錢分。作者Steve Nison想帶出嘅核心，可以一句講：K 線型態經典。但一句唔夠用，要拆成你…",
@@ -1245,7 +1245,7 @@ window.DUSHU_BOOK = {
       "title": "九十日紀律",
       "subtitle": "細倉練規則",
       "audio": "audio/ch08.mp3",
-      "audioDur": "4:20",
+      "audioDur": "3:43",
       "briefing": {
         "paragraphs": [
           "第八章。《陰線陽線》（原題 Japanese Candlestick Charting Techniques）呢章「九十日紀律」——細倉練規則。作者Steve Nison想帶出嘅核心，可以一句講：K 線型態經典。但一句唔夠用，要拆成你做得到嘅…",
@@ -1399,7 +1399,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同現實用法",
       "audio": "audio/ch09.mp3",
-      "audioDur": "待錄",
+      "audioDur": "2:09",
       "briefing": {
         "paragraphs": [
           "全書總結。聽完《陰線陽線》，一句收：K 線型態經典。你要帶走可執行規則，唔係金句。",
