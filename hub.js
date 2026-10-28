@@ -27,7 +27,7 @@
     {"href": "books/qiuguo-simplest-thing/", "title": "投資中最簡單的事", "author": "邱國鷺", "track": "價值投資", "duration": "約 41 分鐘", "chapters": "10 章", "coverClass": "c1", "mark": "投"},
     {"href": "books/little-book-beats-market/", "title": "神奇公式投資法", "author": "Joel Greenblatt", "track": "價值投資", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "神", "voice": "minimax"},
     {"href": "books/five-rules-stock-investing/", "title": "股市真規則", "author": "Pat Dorsey", "track": "價值投資", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "股", "voice": "minimax"},
-    {"href": "books/little-book-builds-wealth/", "title": "護城河", "author": "Pat Dorsey", "track": "價值投資", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c4", "mark": "護"},
+    {"href": "books/little-book-builds-wealth/", "title": "護城河", "author": "Pat Dorsey", "track": "價值投資", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "護", "voice": "minimax"},
     {"href": "books/contrarian-investment/", "title": "逆向投資策略", "author": "David Dreman", "track": "價值投資", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "逆", "voice": "minimax"},
     {"href": "books/global-asset-allocation/", "title": "全球資產配置", "author": "Meb Faber", "track": "被動指數", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "全", "voice": "minimax"},
     {"href": "books/bogle-mutual-funds/", "title": "共同基金必勝法則", "author": "John C. Bogle", "track": "被動指數", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "共", "voice": "minimax"},
