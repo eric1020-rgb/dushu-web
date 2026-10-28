@@ -32,7 +32,7 @@
     {"href": "books/global-asset-allocation/", "title": "全球資產配置", "author": "Meb Faber", "track": "被動指數", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "全", "voice": "minimax"},
     {"href": "books/bogle-mutual-funds/", "title": "共同基金必勝法則", "author": "John C. Bogle", "track": "被動指數", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "共", "voice": "minimax"},
     {"href": "books/bogleheads-guide/", "title": "博格頭投資指南", "author": "Taylor Larimore 等", "track": "被動指數", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "博", "voice": "minimax"},
-    {"href": "books/ivy-portfolio/", "title": "常春藤投資組合", "author": "Meb Faber", "track": "被動指數", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c1", "mark": "常"},
+    {"href": "books/ivy-portfolio/", "title": "常春藤投資組合", "author": "Meb Faber", "track": "被動指數", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "常", "voice": "minimax"},
     {"href": "books/simple-path-wealth/", "title": "財富的簡單法則", "author": "JL Collins", "track": "被動指數", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c2", "mark": "財"},
     {"href": "books/bernstein-asset-allocation/", "title": "資產配置投資策略", "author": "William J. Bernstein", "track": "被動指數", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "資", "voice": "minimax"},
     {"href": "books/your-money-your-brain/", "title": "你的錢，你的腦", "author": "Jason Zweig", "track": "行為 · 心理", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c4", "mark": "你"},
