@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "認知不確定",
       "subtitle": "創業係學習",
       "audio": "audio/ch00.mp3",
-      "audioDur": "4:32",
+      "audioDur": "5:11",
       "briefing": {
         "paragraphs": [
           "引言。呢本《精實創業》（Eric Ries（概念導讀））帶讀開場：一句講——精實創業把創業當實驗：在極不確定下，用盡快學習取代完美計劃。你唔使背曬全書，但要帶走可重複過程。",
@@ -168,7 +168,7 @@ window.DUSHU_BOOK = {
       "title": "最細可行產品",
       "subtitle": "最小可行",
       "audio": "audio/ch01.mp3",
-      "audioDur": "4:18",
+      "audioDur": "3:43",
       "briefing": {
         "paragraphs": [
           "第一章。最細可行產品 係用最少功夫完成最大學習。唔係半成品湊數，而係設計測量。",
@@ -323,7 +323,7 @@ window.DUSHU_BOOK = {
       "title": "建構-測量-認知",
       "subtitle": "迴路",
       "audio": "audio/ch02.mp3",
-      "audioDur": "4:28",
+      "audioDur": "3:54",
       "briefing": {
         "paragraphs": [
           "第二章。迴路要短：做、量、學、再決定堅持或轉向。",
@@ -478,7 +478,7 @@ window.DUSHU_BOOK = {
       "title": "轉向",
       "subtitle": "結構化改變",
       "audio": "audio/ch03.mp3",
-      "audioDur": "4:29",
+      "audioDur": "3:54",
       "briefing": {
         "paragraphs": [
           "第三章。轉向係保留願景，改策略路徑。唔係隨機跳主意。",
@@ -633,7 +633,7 @@ window.DUSHU_BOOK = {
       "title": "創新會計",
       "subtitle": "用學習記分",
       "audio": "audio/ch04.mp3",
-      "audioDur": "4:31",
+      "audioDur": "3:53",
       "briefing": {
         "paragraphs": [
           "第四章。傳統會計難反映早期。創新會計用激活、留存、收入等學習里程碑。",
@@ -788,7 +788,7 @@ window.DUSHU_BOOK = {
       "title": "引擎成長",
       "subtitle": "黏着、病毒、付費",
       "audio": "audio/ch05.mp3",
-      "audioDur": "4:30",
+      "audioDur": "3:53",
       "briefing": {
         "paragraphs": [
           "第五章。成長引擎類型不同，策略同指標亦不同。搞錯引擎會燒錢。",
@@ -943,7 +943,7 @@ window.DUSHU_BOOK = {
       "title": "批量同速度",
       "subtitle": "小批快學",
       "audio": "audio/ch06.mp3",
-      "audioDur": "4:31",
+      "audioDur": "3:54",
       "briefing": {
         "paragraphs": [
           "第六章。小批量減少返工同等待，加快回路。大鍋飯式開發易堆浪費。",
@@ -1098,7 +1098,7 @@ window.DUSHU_BOOK = {
       "title": "企業內創新",
       "subtitle": "大機構亦可精實",
       "audio": "audio/ch07.mp3",
-      "audioDur": "4:30",
+      "audioDur": "3:54",
       "briefing": {
         "paragraphs": [
           "第七章。大公司可用獨立小團隊、明確假說、保護實驗預算。",
@@ -1253,7 +1253,7 @@ window.DUSHU_BOOK = {
       "title": "精實九十日",
       "subtitle": "一假說走到底",
       "audio": "audio/ch08.mp3",
-      "audioDur": "4:29",
+      "audioDur": "3:54",
       "briefing": {
         "paragraphs": [
           "第八章。九十日只驗證一個關鍵假說：最細可行產品、指標、每兩週迴路、一次轉向評估。",
@@ -1408,7 +1408,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同現實用法",
       "audio": "audio/ch09.mp3",
-      "audioDur": "待錄",
+      "audioDur": "2:13",
       "briefing": {
         "paragraphs": [
           "全書總結。聽完《精實創業》，一句收：開場。你要帶走可執行規則，唔係金句。",
