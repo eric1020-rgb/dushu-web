@@ -41,7 +41,7 @@
     {"href": "books/scarcity/", "title": "稀缺", "author": "Sendhil Mullainathan / Eldar Shafir", "track": "行為 · 心理", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c3", "mark": "稀"},
     {"href": "books/behavior-gap/", "title": "行為差距", "author": "Carl Richards", "track": "行為 · 心理", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "行", "voice": "minimax"},
     {"href": "books/behavioral-investor/", "title": "行為投資人", "author": "Daniel Crosby", "track": "行為 · 心理", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "行", "voice": "minimax"},
-    {"href": "books/misbehaving/", "title": "錯誤的行為", "author": "Richard H. Thaler", "track": "行為 · 心理", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c2", "mark": "錯"},
+    {"href": "books/misbehaving/", "title": "錯誤的行為", "author": "Richard H. Thaler", "track": "行為 · 心理", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "錯", "voice": "minimax"},
     {"href": "books/fooled-by-randomness/", "title": "隨機漫步的傻瓜", "author": "Nassim Nicholas Taleb", "track": "行為 · 心理", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "隨", "voice": "minimax"},
     {"href": "books/black-swan/", "title": "黑天鵝", "author": "Nassim Nicholas Taleb", "track": "行為 · 心理", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "黑", "voice": "minimax"},
     {"href": "books/pumpkin-plan/", "title": "南瓜計畫", "author": "Mike Michalowicz", "track": "創業現金流", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c1", "mark": "南"},
