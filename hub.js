@@ -15,7 +15,7 @@
     {"href": "books/buffett-letters/", "title": "巴菲特寫給股東的信選讀", "author": "Warren Buffett", "track": "價值投資", "duration": "約 38 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "巴", "voice": "minimax"},
     {"href": "books/margin-of-safety/", "title": "Margin of Safety 概念導讀", "author": "Seth Klarman", "track": "價值投資", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c2", "mark": "邊"},
     {"href": "books/random-walk/", "title": "漫步華爾街", "author": "Burton Malkiel", "track": "被動指數", "duration": "約 41 分鐘", "chapters": "10 章", "coverClass": "c3", "mark": "漫"},
-    {"href": "books/investment-laws/", "title": "投資金律", "author": "William Bernstein", "track": "被動指數", "duration": "約 40 分鐘", "chapters": "10 章", "coverClass": "c4", "mark": "律"},
+    {"href": "books/investment-laws/", "title": "投資金律", "author": "William Bernstein", "track": "被動指數", "duration": "約 38 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "律", "voice": "minimax"},
     {"href": "books/asset-allocation/", "title": "資產配置的藝術精華", "author": "David Darst 等", "track": "被動指數", "duration": "約 38 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "配", "voice": "minimax"},
     {"href": "books/profit-first/", "title": "獲利優先", "author": "Mike Michalowicz", "track": "創業現金流", "duration": "約 41 分鐘", "chapters": "10 章", "coverClass": "c2", "mark": "利"},
     {"href": "books/lean-startup/", "title": "精實創業", "author": "Eric Ries", "track": "創業現金流", "duration": "約 41 分鐘", "chapters": "10 章", "coverClass": "c3", "mark": "精"},
