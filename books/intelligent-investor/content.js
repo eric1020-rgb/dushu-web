@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "投資者定投機者",
       "subtitle": "先分清你喺玩緊咩",
       "audio": "audio/ch00.mp3",
-      "audioDur": "4:57",
+      "audioDur": "5:38",
       "briefing": {
         "paragraphs": [
           "引言。呢本《智慧型股票投資人》（班傑明・格雷厄姆（班傑明・格雷厄姆・概念導讀））帶讀開場：一句講——智慧型投資最緊要嘅第一步，唔係教你即刻揀邊隻股票。你唔使背曬全書，但要帶走可重複過程。",
@@ -147,7 +147,7 @@ window.DUSHU_BOOK = {
       "title": "防禦型同進取型",
       "subtitle": "兩種玩法，唔好硬撐",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:52",
+      "audioDur": "3:25",
       "briefing": {
         "paragraphs": [
           "第一章。智慧型投資唔要求人人做全職研究員。格雷厄姆常見分法係：防禦型投資者，同進取型投資者。分別主要係時間、精力、同知識投入，而唔係邊個比較勇。",
@@ -281,7 +281,7 @@ window.DUSHU_BOOK = {
       "title": "市場先生",
       "subtitle": "報出嘅價服務你，唔指導你",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:25",
+      "audioDur": "3:03",
       "briefing": {
         "paragraphs": [
           "第二章。市場先生係格雷厄姆好出名嘅比喻。想像你有個生意拍檔，每日都報一個價，話想買你份額或者賣多啲俾你。有時佢開心到報好貴，有時抑鬱到報好平。你唔使同佢辯論，只決定接唔接受佢報出嘅價。",
@@ -415,7 +415,7 @@ window.DUSHU_BOOK = {
       "title": "安全邊際",
       "subtitle": "預留自己會估錯",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:00",
+      "audioDur": "2:46",
       "briefing": {
         "paragraphs": [
           "第三章。安全邊際係智慧型投資嘅核心。意思係：你估企業價值之後，唔好貼住個估值去買；要留足夠空隙，就算你估錯一截，仍然唔致命。",
@@ -549,7 +549,7 @@ window.DUSHU_BOOK = {
       "title": "股票同債券配置",
       "subtitle": "分桶同再平衡",
       "audio": "audio/ch04.mp3",
-      "audioDur": "2:59",
+      "audioDur": "2:49",
       "briefing": {
         "paragraphs": [
           "第四章。配置講嘅係：你嘅錢點樣分去唔同類型資產，而唔係一日到黑糾結邊隻名最響。對好多防禦型投資者嚟講，股票負責長期增長，債券或者類債券資產負責穩定同彈藥。比例唔係神話數字，而係匹配你嘅風險同目標。",
@@ -683,7 +683,7 @@ window.DUSHU_BOOK = {
       "title": "防禦型組合實務",
       "subtitle": "悶但贏得嘅系統",
       "audio": "audio/ch05.mp3",
-      "audioDur": "2:56",
+      "audioDur": "2:38",
       "briefing": {
         "paragraphs": [
           "第五章。防禦型組合，講求可執行多過漂亮。典型元素包括：廣泛分散嘅股票曝險、一部分較穩嘅固定收益或者類現金、清楚嘅再平衡規則、同埋低成本。你可以用基金或者指數型工具完成大部分，而唔使自己砌三十隻股票裝專業。",
@@ -817,7 +817,7 @@ window.DUSHU_BOOK = {
       "title": "積極型注意",
       "subtitle": "有優勢先出擊",
       "audio": "audio/ch06.mp3",
-      "audioDur": "2:33",
+      "audioDur": "2:18",
       "briefing": {
         "paragraphs": [
           "第六章。進取型投資者想跑贏，就要付出真工夫。冇工夫嘅進取，只係高換手嘅投機。你要問：我嘅優勢喺邊？資訊？分析？性情？產業經驗？講唔出優勢，就唔好假設自己有。",
@@ -951,7 +951,7 @@ window.DUSHU_BOOK = {
       "title": "通脹同心理",
       "subtitle": "可控項放前面",
       "audio": "audio/ch07.mp3",
-      "audioDur": "2:35",
+      "audioDur": "2:25",
       "briefing": {
         "paragraphs": [
           "第七章。通脹會令錢嘅購買力變細。你以為放住現金好穩，長遠可能穩輸。但為咗怕通脹而亂追高風險資產，又可能用波動換另一種痛。智慧型做法係理解通脹，而唔係被標題嚇到亂曬。",
@@ -1085,7 +1085,7 @@ window.DUSHU_BOOK = {
       "title": "智慧型投資習慣",
       "subtitle": "三十日開始行",
       "audio": "audio/ch08.mp3",
-      "audioDur": "2:51",
+      "audioDur": "2:29",
       "briefing": {
         "paragraphs": [
           "第八章。開始你嘅智慧型投資習慣。理論夠多，收成要靠清單。",
@@ -1219,7 +1219,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同現實用法",
       "audio": "audio/ch09.mp3",
-      "audioDur": "待錄",
+      "audioDur": "2:30",
       "briefing": {
         "paragraphs": [
           "全書總結。聽完《智慧型股票投資人》，一句收：開場。你要帶走可執行規則，唔係金句。",
