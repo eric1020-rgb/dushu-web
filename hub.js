@@ -8,7 +8,7 @@
     {"href": "books/bogle-index-funds/", "title": "指數基金的勝算", "author": "John C. Bogle", "track": "被動指數", "duration": "約 36 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "指", "voice": "minimax"},
     {"href": "books/poor-charlies-almanack/", "title": "窮查理寶典", "author": "Charlie Munger", "track": "價值投資", "duration": "約 35 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "查", "voice": "minimax"},
     {"href": "books/market-cycles/", "title": "周期", "author": "Howard Marks", "track": "價值投資 · 周期", "duration": "約 35 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "周", "voice": "minimax"},
-    {"href": "books/rich-dad-guide/", "title": "富爸爸財務自由之路", "author": "Robert T. Kiyosaki", "track": "創業現金流", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c1", "mark": "自"},
+    {"href": "books/rich-dad-guide/", "title": "富爸爸財務自由之路", "author": "Robert T. Kiyosaki", "track": "創業現金流", "duration": "約 35 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "自", "voice": "minimax"},
     {"href": "books/zero-to-one/", "title": "從0到1", "author": "Peter Thiel", "track": "創業現金流", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c2", "mark": "0"},
     {"href": "books/security-analysis/", "title": "證券分析精華", "author": "Benjamin Graham", "track": "價值投資", "duration": "約 40 分鐘", "chapters": "10 章", "coverClass": "c3", "mark": "證"},
     {"href": "books/common-stocks/", "title": "普通股和不普通的利潤", "author": "Philip Fisher", "track": "價值投資", "duration": "約 38 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "普", "voice": "minimax"},

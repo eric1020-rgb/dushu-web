@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "財務自由定義",
       "subtitle": "數字後面是選擇權",
       "audio": "audio/ch00.mp3",
-      "audioDur": "4:13",
+      "audioDur": "4:49",
       "briefing": {
         "paragraphs": [
           "引言。呢本《富爸爸財務自由之路》（Robert T. Kiyosaki（概念導讀））帶讀開場：一句講——財務自由之路強調：自由係現金流覆蓋生活，而唔只係身家紙面數字。你唔使背曬全書，但要帶走可重複過程。",
@@ -168,7 +168,7 @@ window.DUSHU_BOOK = {
       "title": "財務智商再升級",
       "subtitle": "識數、識勢、識己",
       "audio": "audio/ch01.mp3",
-      "audioDur": "4:16",
+      "audioDur": "3:37",
       "briefing": {
         "paragraphs": [
           "第一章。繼續強化財務報表直覺：收入、開銷、資產、負債。每月看一次，像看體檢。",
@@ -323,7 +323,7 @@ window.DUSHU_BOOK = {
       "title": "事業系統",
       "subtitle": "由自己做，到人同系統做",
       "audio": "audio/ch02.mp3",
-      "audioDur": "4:03",
+      "audioDur": "3:28",
       "briefing": {
         "paragraphs": [
           "第二章。僱員與自由業者用時間換錢；要自由需要系統：產品、團隊、流程，令你唔在場都可運作。",
@@ -478,7 +478,7 @@ window.DUSHU_BOOK = {
       "title": "投資盒子",
       "subtitle": "先盒子，後標的",
       "audio": "audio/ch03.mp3",
-      "audioDur": "4:11",
+      "audioDur": "3:37",
       "briefing": {
         "paragraphs": [
           "第三章。把錢分盒：生活、備用、成長投資、投機娛樂、學習。盒與盒規則不同。",
@@ -633,7 +633,7 @@ window.DUSHU_BOOK = {
       "title": "稅務同法律意識",
       "subtitle": "規則內最大化",
       "audio": "audio/ch04.mp3",
-      "audioDur": "4:10",
+      "audioDur": "3:32",
       "briefing": {
         "paragraphs": [
           "第四章。合法結構可以影響現金流；違法捷徑是災難。先學規則，再談優化。",
@@ -788,7 +788,7 @@ window.DUSHU_BOOK = {
       "title": "人脈同交易",
       "subtitle": "價值交換不是攀附",
       "audio": "audio/ch05.mp3",
-      "audioDur": "4:06",
+      "audioDur": "3:27",
       "briefing": {
         "paragraphs": [
           "第五章。人脈係價值交換網絡。先成爲有用的人，再談機會。",
@@ -943,7 +943,7 @@ window.DUSHU_BOOK = {
       "title": "恐懼同行動",
       "subtitle": "用小步打破凍結",
       "audio": "audio/ch06.mp3",
-      "audioDur": "4:10",
+      "audioDur": "3:31",
       "briefing": {
         "paragraphs": [
           "第六章。恐懼常僞裝成「再準備一下」。用可逆小步實驗拆開。",
@@ -1098,7 +1098,7 @@ window.DUSHU_BOOK = {
       "title": "指標看板",
       "subtitle": "自由要用儀表看",
       "audio": "audio/ch07.mp3",
-      "audioDur": "4:05",
+      "audioDur": "3:27",
       "briefing": {
         "paragraphs": [
           "第七章。設看板：被動收入、儲蓄率、負債成本、事業毛利、時間自主小時。",
@@ -1253,7 +1253,7 @@ window.DUSHU_BOOK = {
       "title": "九十日自由衝刺",
       "subtitle": "把書變成日程",
       "audio": "audio/ch08.mp3",
-      "audioDur": "4:12",
+      "audioDur": "3:35",
       "briefing": {
         "paragraphs": [
           "第八章。未來九十日：體檢、分盒、事業閉環最弱格、投資政策、恐懼實驗、月看板。",
@@ -1408,7 +1408,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同現實用法",
       "audio": "audio/ch09.mp3",
-      "audioDur": "待錄",
+      "audioDur": "2:21",
       "briefing": {
         "paragraphs": [
           "全書總結。聽完《富爸爸財務自由之路》，一句收：開場。你要帶走可執行規則，唔係金句。",
