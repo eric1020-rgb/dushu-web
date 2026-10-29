@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "財富唔等於金錢",
       "subtitle": "分清錢、財富、地位",
       "audio": "audio/ch00.mp3",
-      "audioDur": "5:47",
+      "audioDur": "6:20",
       "briefing": {
         "paragraphs": [
           "引言。呢本《納瓦爾寶典》（Eric Jorgenson（編）／Naval Ravikant）帶讀開場：一句講——金錢係交換工具，財富係睡着都會幫你賺錢嘅資產同系統。你唔使背曬全書，但要帶走可重複過程。",
@@ -167,7 +167,7 @@ window.DUSHU_BOOK = {
       "title": "特定知識",
       "subtitle": "冇人教得嘅、你又學得快嘅",
       "audio": "audio/ch01.mp3",
-      "audioDur": "5:12",
+      "audioDur": "4:29",
       "briefing": {
         "paragraphs": [
           "第一章。呢章「特定知識」——冇人教得嘅、你又學得快嘅。納瓦爾講：真正稀缺嘅唔係勤力，而係特定知識——無法被訓練班大量複製、同你熱情同經歷綁埋嘅能力。",
@@ -321,7 +321,7 @@ window.DUSHU_BOOK = {
       "title": "問責同擁有權",
       "subtitle": "以自己名義承擔後果",
       "audio": "audio/ch02.mp3",
-      "audioDur": "5:10",
+      "audioDur": "4:27",
       "briefing": {
         "paragraphs": [
           "第二章。呢章「問責同擁有權」——以自己名義承擔後果。社會願意畀高回報嘅人，通常係肯署名、肯承擔下行風險嘅人。匿埋喺系統後面，回報亦會被系統收走。",
@@ -475,7 +475,7 @@ window.DUSHU_BOOK = {
       "title": "槓桿四式",
       "subtitle": "勞動、資本、代碼、媒體",
       "audio": "audio/ch03.mp3",
-      "audioDur": "5:16",
+      "audioDur": "4:31",
       "briefing": {
         "paragraphs": [
           "第三章。呢章「槓桿四式」——勞動、資本、代碼、媒體。納瓦爾把槓桿講得好清楚：勞動槓桿要管人；資本槓桿要有錢；代碼同媒體係許可型槓桿——邊際成本近乎零，唔使逐個批准。",
@@ -629,7 +629,7 @@ window.DUSHU_BOOK = {
       "title": "判斷力",
       "subtitle": "清晰思考值千軍萬馬",
       "audio": "audio/ch04.mp3",
-      "audioDur": "5:15",
+      "audioDur": "4:28",
       "briefing": {
         "paragraphs": [
           "第四章。呢章「判斷力」——清晰思考值千軍萬馬。有槓桿之後，一次錯誤判斷會被放大。所以納瓦爾把「學會點樣思考」放到好高位置：讀基本學科、要第一性原理、少睇即時新聞噪音。",
@@ -783,7 +783,7 @@ window.DUSHU_BOOK = {
       "title": "長期遊戲",
       "subtitle": "同長期嘅人玩長期",
       "audio": "audio/ch05.mp3",
-      "audioDur": "5:05",
+      "audioDur": "4:24",
       "briefing": {
         "paragraphs": [
           "第五章。呢章「長期遊戲」——同長期嘅人玩長期。複利唔只係錢，仲有關係、聲譽、技能。短炒關係同短炒股票一樣：摩擦成本高，複利斷線。",
@@ -937,7 +937,7 @@ window.DUSHU_BOOK = {
       "title": "幸福係技能",
       "subtitle": "慾望管理同當下",
       "audio": "audio/ch06.mp3",
-      "audioDur": "5:06",
+      "audioDur": "4:21",
       "briefing": {
         "paragraphs": [
           "第六章。呢章「幸福係技能」——慾望管理同當下。納瓦爾把幸福講成可訓練：幸福好大程度上係慾望嘅落差。慾望無限擴張，就永遠唔夠。",
@@ -1091,7 +1091,7 @@ window.DUSHU_BOOK = {
       "title": "健康時間自由",
       "subtitle": "身體係本金，時間係貨幣",
       "audio": "audio/ch07.mp3",
-      "audioDur": "5:11",
+      "audioDur": "4:23",
       "briefing": {
         "paragraphs": [
           "第七章。呢章「健康時間自由」——身體係本金，時間係貨幣。冇健康，財富係擺設；冇時間自主，高收入都係高級牢房。納瓦爾強調：先顧身體，再談槓桿。",
@@ -1245,7 +1245,7 @@ window.DUSHU_BOOK = {
       "title": "落地劇本",
       "subtitle": "九章收束成一張清單",
       "audio": "audio/ch08.mp3",
-      "audioDur": "5:15",
+      "audioDur": "4:31",
       "briefing": {
         "paragraphs": [
           "第八章。呢章「落地劇本」——九章收束成一張清單。聽完唔等於做完。把《納瓦爾寶典》收成可執行週節奏：特定知識、產品槓桿、判斷閱讀、長期關係、慾望同健康。",
@@ -1399,7 +1399,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同現實用法",
       "audio": "audio/ch09.mp3",
-      "audioDur": "待錄",
+      "audioDur": "2:58",
       "briefing": {
         "paragraphs": [
           "全書總結。聽完《納瓦爾寶典》，一句收：金錢係交換工具，財富係睡着都會幫你賺錢嘅資產同系統。你要帶走可執行規則，唔係金句。",
