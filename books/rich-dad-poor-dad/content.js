@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "前言／兩個爸爸",
       "subtitle": "兩套金錢信念的起點",
       "audio": "audio/ch00.mp3",
-      "audioDur": "5:35",
+      "audioDur": "6:03",
       "briefing": {
         "paragraphs": [
           "引言。呢本《窮爸爸富爸爸》（Robert T. Kiyosaki）帶讀開場：一句講——作者細個嗰陣呢，身邊有兩個好掂嘅男人。你唔使背曬全書，但要帶走可重複過程。",
@@ -196,7 +196,7 @@ window.DUSHU_BOOK = {
       "title": "富人不為錢工作",
       "subtitle": "恐懼與慾望的循環",
       "audio": "audio/ch01.mp3",
-      "audioDur": "5:49",
+      "audioDur": "4:58",
       "briefing": {
         "paragraphs": [
           "第一章。「富人不為錢工作。」呢句好刺，係咪？不過唔好望文生義，以為即刻叫你辭職。真正要剖開嘅，係動機。你返工，到底俾邊兩股力推住？",
@@ -379,7 +379,7 @@ window.DUSHU_BOOK = {
       "title": "為何要教導財務素養",
       "subtitle": "資產、負債與現金流",
       "audio": "audio/ch02.mp3",
-      "audioDur": "5:18",
+      "audioDur": "4:31",
       "briefing": {
         "paragraphs": [
           "第二章。第二章講財務素養。點解一定要學？坦白講，呢度係全書地基。資產、負債、現金流。聽完你應該畫得出，自己啲錢點入點出。",
@@ -562,7 +562,7 @@ window.DUSHU_BOOK = {
       "title": "顧好自己的事業",
       "subtitle": "職位之外的資產欄",
       "audio": "audio/ch03.mp3",
-      "audioDur": "6:23",
+      "audioDur": "5:41",
       "briefing": {
         "paragraphs": [
           "第三章。顧好你自己嘅事業。呢度講嘅「事業」，唔一定等於名片上個職位，更加唔等於你一定要即刻辭職創業。佢講嘅係：你有冇一欄真正屬於你、可以產生現金流嘅資產系統。",
@@ -752,7 +752,7 @@ window.DUSHU_BOOK = {
       "title": "公司與稅賦的力量",
       "subtitle": "結構、規則與合規知識",
       "audio": "audio/ch04.mp3",
-      "audioDur": "5:06",
+      "audioDur": "4:34",
       "briefing": {
         "paragraphs": [
           "第四章。公司同稅賦嘅力量，最易被人誤會成「教人走灰」。重點唔係踩線。重點係：法律、會計、同企業結構，本身就係財務素養嘅一部分。唔懂規則，你就只可以喺規則最窄嗰條通道行。",
@@ -934,7 +934,7 @@ window.DUSHU_BOOK = {
       "title": "富人創造金錢",
       "subtitle": "財務智商與機會嗅覺",
       "audio": "audio/ch05.mp3",
-      "audioDur": "5:32",
+      "audioDur": "4:50",
       "briefing": {
         "paragraphs": [
           "第五章。富人創造金錢。呢句聽落好玄，係咪？其實唔係叫你變魔術。佢想講嘅係：錢唔止靠時間換，仲可以靠機會識別、結構設計、同金融工具砌出嚟。",
@@ -1141,7 +1141,7 @@ window.DUSHU_BOOK = {
       "title": "為了學習而工作",
       "subtitle": "把職場當教室",
       "audio": "audio/ch06.mp3",
-      "audioDur": "4:52",
+      "audioDur": "4:09",
       "briefing": {
         "paragraphs": [
           "第六章。為咗學習而工作。呢章想改你對「返工」嘅定義。人工當然重要。但如果一份工除咗糧單什麼都帶走唔到，長遠你會好脆。",
@@ -1323,7 +1323,7 @@ window.DUSHU_BOOK = {
       "title": "克服障礙",
       "subtitle": "恐懼、遲疑與習慣",
       "audio": "audio/ch07.mp3",
-      "audioDur": "4:40",
+      "audioDur": "3:57",
       "briefing": {
         "paragraphs": [
           "第七章。克服障礙。道理聽到呢度，點解好多人仍然唔行動？因為卡住你嘅，往往唔係資訊不足，而係內在障礙。呢章逐樣拆。",
@@ -1522,7 +1522,7 @@ window.DUSHU_BOOK = {
       "title": "開始行動",
       "subtitle": "實務起步清單",
       "audio": "audio/ch08.mp3",
-      "audioDur": "4:55",
+      "audioDur": "4:07",
       "briefing": {
         "paragraphs": [
           "第八章。開始行動。理論行到呢度，要收成。你唔需要華麗商業計劃。你需要一張做得到嘅清單，同埋呢個星期就開始嘅動能。",
@@ -1713,7 +1713,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同現實用法",
       "audio": "audio/ch09.mp3",
-      "audioDur": "待錄",
+      "audioDur": "3:26",
       "briefing": {
         "paragraphs": [
           "全書總結。聽完《窮爸爸富爸爸》，一句收：前言。你要帶走可執行規則，唔係金句。",
