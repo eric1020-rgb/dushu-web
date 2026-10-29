@@ -1,0 +1,20 @@
+{
+  "voice": "Cantonese_ProfessionalHost（M)",
+  "provider": "minimax",
+  "model": "speech-2.8-hd",
+  "narration_hash": "1f48f7b5b52dd07b34216aea4e5313478618865fc0fa0c13276697f07205d4d7",
+  "total_sec": 2206.008,
+  "total": "36:46",
+  "chapters": {
+    "ch00": "4:49",
+    "ch01": "3:44",
+    "ch02": "3:40",
+    "ch03": "3:40",
+    "ch04": "3:42",
+    "ch05": "3:45",
+    "ch06": "3:43",
+    "ch07": "3:43",
+    "ch08": "3:45",
+    "ch09": "2:11"
+  }
+}

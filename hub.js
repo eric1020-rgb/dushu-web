@@ -77,7 +77,7 @@
     {"href": "books/trading-for-living/", "title": "以交易為生", "author": "Alexander Elder", "track": "交易 · 技術", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c3", "mark": "以"},
     {"href": "books/market-wizards/", "title": "市場奇才", "author": "Jack D. Schwager", "track": "交易 · 技術", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "市", "voice": "minimax"},
     {"href": "books/way-of-turtle/", "title": "海龜投資法則", "author": "Curtis Faith", "track": "交易 · 技術", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c1", "mark": "海"},
-    {"href": "books/reminiscences-stock-operator/", "title": "股票作手回憶錄", "author": "Edwin Lefèvre", "track": "交易 · 技術", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c2", "mark": "股"},
+    {"href": "books/reminiscences-stock-operator/", "title": "股票作手回憶錄", "author": "Edwin Lefèvre", "track": "交易 · 技術", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "股", "voice": "minimax"},
     {"href": "books/trend-following/", "title": "趨勢跟隨", "author": "Michael W. Covel", "track": "交易 · 技術", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c3", "mark": "趨"},
     {"href": "books/quantitative-trading/", "title": "量化交易", "author": "Ernest P. Chan", "track": "交易 · 技術", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "量", "voice": "minimax"},
     {"href": "books/technical-analysis-markets/", "title": "金融市場技術分析", "author": "John J. Murphy", "track": "交易 · 技術", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c1", "mark": "金"},
