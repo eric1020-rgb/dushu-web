@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "行為>智商",
       "subtitle": "錢係行為科學",
       "audio": "audio/ch00.mp3",
-      "audioDur": "4:13",
+      "audioDur": "4:52",
       "briefing": {
         "paragraphs": [
           "引言。呢本《金錢心理學》（摩根・豪瑟（概念導讀））帶讀開場：一句講——你點樣睇風險、點樣等、點樣喺別人瘋狂時保持正常。你唔使背曬全書，但要帶走可重複過程。",
@@ -168,7 +168,7 @@ window.DUSHU_BOOK = {
       "title": "夠用同知足",
       "subtitle": "目標唔係無限最大化",
       "audio": "audio/ch01.mp3",
-      "audioDur": "4:12",
+      "audioDur": "3:38",
       "briefing": {
         "paragraphs": [
           "第一章。好多焦慮來自無止境比較。有人年薪高仍然慌，因為對照組係更高嗰班。知足唔係叫你唔進步，而係分清：邊啲錢係為自由，邊啲係為面子。",
@@ -323,7 +323,7 @@ window.DUSHU_BOOK = {
       "title": "時間同複利",
       "subtitle": "耐性係邊緣優勢",
       "audio": "audio/ch02.mp3",
-      "audioDur": "4:09",
+      "audioDur": "3:33",
       "briefing": {
         "paragraphs": [
           "第二章。複利聽落老土，但真正難係忍得到。市場會不斷派新故事，引你改來改去。頻密改策略，等於令複利重新計時。",
@@ -478,7 +478,7 @@ window.DUSHU_BOOK = {
       "title": "儲蓄彈性",
       "subtitle": "儲蓄率係可控槓桿",
       "audio": "audio/ch03.mp3",
-      "audioDur": "4:03",
+      "audioDur": "3:28",
       "briefing": {
         "paragraphs": [
           "第三章。回報你控制唔到；儲蓄率同開支，你控制到更多。提升儲蓄，等於幫未來嘅自己買選項。",
@@ -633,7 +633,7 @@ window.DUSHU_BOOK = {
       "title": "風險同謙卑",
       "subtitle": "世界會意外",
       "audio": "audio/ch04.mp3",
-      "audioDur": "4:06",
+      "audioDur": "3:30",
       "briefing": {
         "paragraphs": [
           "第四章。風險係「可能發生而你未準備好嘅事」。謙卑係承認預測好難。組合要為意外留位：現金緩衝、唔過度集中、唔賭單一敘事。",
@@ -788,7 +788,7 @@ window.DUSHU_BOOK = {
       "title": "房間同比較",
       "subtitle": "你參與嘅遊戲",
       "audio": "audio/ch05.mp3",
-      "audioDur": "4:01",
+      "audioDur": "3:29",
       "briefing": {
         "paragraphs": [
           "第五章。人人玩唔同遊戲：有人要短期績效、有人要三十年退休、有人要炫耀。你若抄別人操作，但目標唔同，就會受傷。",
@@ -943,7 +943,7 @@ window.DUSHU_BOOK = {
       "title": "樂觀同悲觀",
       "subtitle": "兩邊都要",
       "audio": "audio/ch06.mp3",
-      "audioDur": "4:03",
+      "audioDur": "3:26",
       "briefing": {
         "paragraphs": [
           "第六章。樂觀令你願意投入未來；悲觀令你準備逆風。健康組合係：對長期人類生產力樂觀，對短期路徑悲觀謹慎。",
@@ -1098,7 +1098,7 @@ window.DUSHU_BOOK = {
       "title": "自由係最大回報",
       "subtitle": "錢換控制度",
       "audio": "audio/ch07.mp3",
-      "audioDur": "4:13",
+      "audioDur": "3:37",
       "briefing": {
         "paragraphs": [
           "第七章。錢嘅終極用途之一，係買對時間同選擇嘅控制。可以拒絕、可以等、可以轉彎，本身就係回報。",
@@ -1253,7 +1253,7 @@ window.DUSHU_BOOK = {
       "title": "落地九十日",
       "subtitle": "把原則變成日曆",
       "audio": "audio/ch08.mp3",
-      "audioDur": "4:10",
+      "audioDur": "3:33",
       "briefing": {
         "paragraphs": [
           "第八章。概念聽完要變成日曆，先有用。九十日只做幾件：自動轉帳、備用金目標、核心倉紀律、資訊飲食、同伴侶／自己對賬。",
@@ -1408,7 +1408,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同現實用法",
       "audio": "audio/ch09.mp3",
-      "audioDur": "待錄",
+      "audioDur": "2:38",
       "briefing": {
         "paragraphs": [
           "全書總結。聽完《金錢心理學》，一句收：你點樣睇風險、點樣等、點樣喺別人瘋狂時保持正常。你要帶走可執行規則，唔係金句。",
