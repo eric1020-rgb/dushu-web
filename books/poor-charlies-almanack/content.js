@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "多元思維模型",
       "subtitle": "一個模型唔夠用",
       "audio": "audio/ch00.mp3",
-      "audioDur": "4:04",
+      "audioDur": "4:46",
       "briefing": {
         "paragraphs": [
           "引言。呢本《窮查理寶典》（查理・芒格（概念導讀））帶讀開場：一句講——窮查理寶典最出名嘅，係多元思維模型：唔好只用一個學科睇世界。你唔使背曬全書，但要帶走可重複過程。",
@@ -168,7 +168,7 @@ window.DUSHU_BOOK = {
       "title": "誘因超級力量",
       "subtitle": "人會被獎賞塑造",
       "audio": "audio/ch01.mp3",
-      "audioDur": "4:06",
+      "audioDur": "3:31",
       "briefing": {
         "paragraphs": [
           "第一章。如果你想理解行為，先看誘因。獎勵什麼，就會得到什麼；包括你唔想要的副作用。",
@@ -323,7 +323,7 @@ window.DUSHU_BOOK = {
       "title": "避免蠢錯",
       "subtitle": "倒過來想",
       "audio": "audio/ch02.mp3",
-      "audioDur": "4:04",
+      "audioDur": "3:28",
       "briefing": {
         "paragraphs": [
           "第二章。查理常講：倒過來想。想成功，不如先列點樣一定失敗，然後避開。",
@@ -478,7 +478,7 @@ window.DUSHU_BOOK = {
       "title": "能力圈",
       "subtitle": "知邊界纔有勇氣",
       "audio": "audio/ch03.mp3",
-      "audioDur": "4:02",
+      "audioDur": "3:28",
       "briefing": {
         "paragraphs": [
           "第三章。能力圈唔係叫你細膽。而係話：圈內可以重倉思考；圈外要謙卑或者唔玩。",
@@ -633,7 +633,7 @@ window.DUSHU_BOOK = {
       "title": "耐心同機會",
       "subtitle": "等係一種操作",
       "audio": "audio/ch04.mp3",
-      "audioDur": "4:01",
+      "audioDur": "3:30",
       "briefing": {
         "paragraphs": [
           "第四章。好機會唔常見。平時準備現金、知識、同冷靜，等到賠率明顯時先大力。",
@@ -788,7 +788,7 @@ window.DUSHU_BOOK = {
       "title": "理性同習慣",
       "subtitle": "把聰明變成日常",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:59",
+      "audioDur": "3:25",
       "briefing": {
         "paragraphs": [
           "第五章。聰明唔稀缺，持續理性先稀缺。用習慣鎖定：閱讀時間、決策冷卻、記錄復盤。",
@@ -943,7 +943,7 @@ window.DUSHU_BOOK = {
       "title": "企業同護城河",
       "subtitle": "質素要有代價意識",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:57",
+      "audioDur": "3:26",
       "briefing": {
         "paragraphs": [
           "第六章。好公司概念要配價格。偉大企業用錯價仍然係壞投資。",
@@ -1098,7 +1098,7 @@ window.DUSHU_BOOK = {
       "title": "人性偏差",
       "subtitle": "認得偏誤就半勝",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:59",
+      "audioDur": "3:29",
       "briefing": {
         "paragraphs": [
           "第七章。確認偏誤、損失厭惡、從眾、過度自信、沉沒成本——認識名字唔夠，要有對策。",
@@ -1253,7 +1253,7 @@ window.DUSHU_BOOK = {
       "title": "終身學習",
       "subtitle": "複利不止金錢",
       "audio": "audio/ch08.mp3",
-      "audioDur": "4:01",
+      "audioDur": "3:28",
       "briefing": {
         "paragraphs": [
           "第八章。查理路線係終身學習。知識複利同金錢複利一樣，靠連續唔中斷。",
@@ -1408,7 +1408,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同現實用法",
       "audio": "audio/ch09.mp3",
-      "audioDur": "待錄",
+      "audioDur": "2:20",
       "briefing": {
         "paragraphs": [
           "全書總結。聽完《窮查理寶典》，一句收：開場。你要帶走可執行規則，唔係金句。",
