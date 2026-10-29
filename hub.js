@@ -17,7 +17,7 @@
     {"href": "books/random-walk/", "title": "漫步華爾街", "author": "Burton Malkiel", "track": "被動指數", "duration": "約 41 分鐘", "chapters": "10 章", "coverClass": "c3", "mark": "漫"},
     {"href": "books/investment-laws/", "title": "投資金律", "author": "William Bernstein", "track": "被動指數", "duration": "約 38 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "律", "voice": "minimax"},
     {"href": "books/asset-allocation/", "title": "資產配置的藝術精華", "author": "David Darst 等", "track": "被動指數", "duration": "約 38 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "配", "voice": "minimax"},
-    {"href": "books/profit-first/", "title": "獲利優先", "author": "Mike Michalowicz", "track": "創業現金流", "duration": "約 41 分鐘", "chapters": "10 章", "coverClass": "c2", "mark": "利"},
+    {"href": "books/profit-first/", "title": "獲利優先", "author": "Mike Michalowicz", "track": "創業現金流", "duration": "約 38 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "利", "voice": "minimax"},
     {"href": "books/lean-startup/", "title": "精實創業", "author": "Eric Ries", "track": "創業現金流", "duration": "約 38 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "精", "voice": "minimax"},
     {"href": "books/small-biz-cashflow/", "title": "小型企業現金流實務導讀", "author": "實務概念導讀", "track": "創業現金流", "duration": "約 41 分鐘", "chapters": "10 章", "coverClass": "c4", "mark": "現"},
     {"href": "books/stock-market-genius/", "title": "你能成為股市天才", "author": "Joel Greenblatt", "track": "價值投資", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c1", "mark": "你"},

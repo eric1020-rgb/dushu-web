@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "倒轉公式",
       "subtitle": "先撥利潤",
       "audio": "audio/ch00.mp3",
-      "audioDur": "4:21",
+      "audioDur": "4:59",
       "briefing": {
         "paragraphs": [
           "引言。呢本《獲利優先》（Mike Michalowicz（概念導讀））帶讀開場：一句講——傳統係收入減開支等於利潤；獲利優先倒轉：收入進來先撥利潤，餘下先當開支上限。你唔使背曬全書，但要帶走可重複過程。",
@@ -168,7 +168,7 @@ window.DUSHU_BOOK = {
       "title": "多帳戶系統",
       "subtitle": "錢要分房",
       "audio": "audio/ch01.mp3",
-      "audioDur": "4:32",
+      "audioDur": "3:56",
       "briefing": {
         "paragraphs": [
           "第一章。收入、利潤、主理人薪酬、稅、營運——分帳戶，令大腦見到邊界。",
@@ -323,7 +323,7 @@ window.DUSHU_BOOK = {
       "title": "目標百分比",
       "subtitle": "逐步健康",
       "audio": "audio/ch02.mp3",
-      "audioDur": "4:31",
+      "audioDur": "3:57",
       "briefing": {
         "paragraphs": [
           "第二章。不同利潤率行業目標不同。先由現況起步，每季上調一點點。",
@@ -478,7 +478,7 @@ window.DUSHU_BOOK = {
       "title": "削減開支",
       "subtitle": "用剩餘生存",
       "audio": "audio/ch03.mp3",
-      "audioDur": "4:30",
+      "audioDur": "3:56",
       "briefing": {
         "paragraphs": [
           "第三章。撥走利潤後，營運變緊。緊張逼你砍低效開支同議價。",
@@ -633,7 +633,7 @@ window.DUSHU_BOOK = {
       "title": "主理人薪酬",
       "subtitle": "老闆要人工",
       "audio": "audio/ch04.mp3",
-      "audioDur": "4:29",
+      "audioDur": "3:53",
       "briefing": {
         "paragraphs": [
           "第四章。老闆唔支薪，會用利潤假象騙人，亦會耗盡意志。",
@@ -788,7 +788,7 @@ window.DUSHU_BOOK = {
       "title": "稅戶",
       "subtitle": "唔好偷稅感",
       "audio": "audio/ch05.mp3",
-      "audioDur": "4:28",
+      "audioDur": "3:53",
       "briefing": {
         "paragraphs": [
           "第五章。稅唔係意外。每次收入撥稅戶，到期唔慌。",
@@ -943,7 +943,7 @@ window.DUSHU_BOOK = {
       "title": "節奏同檢視",
       "subtitle": "雙週分配",
       "audio": "audio/ch06.mp3",
-      "audioDur": "4:33",
+      "audioDur": "3:56",
       "briefing": {
         "paragraphs": [
           "第六章。雙週或月分配節奏，令系統活。只入帳唔分配會失效。",
@@ -1098,7 +1098,7 @@ window.DUSHU_BOOK = {
       "title": "成長同債務",
       "subtitle": "利潤中成長",
       "audio": "audio/ch07.mp3",
-      "audioDur": "4:30",
+      "audioDur": "3:53",
       "briefing": {
         "paragraphs": [
           "第七章。成長唔好喫掉利潤系統。接單要計現金週期。",
@@ -1253,7 +1253,7 @@ window.DUSHU_BOOK = {
       "title": "九十日獲利",
       "subtitle": "系統上身",
       "audio": "audio/ch08.mp3",
-      "audioDur": "4:31",
+      "audioDur": "3:52",
       "briefing": {
         "paragraphs": [
           "第八章。九十日：開戶、定初始％、兩次砍支、主理人薪、稅戶、四次分配。",
@@ -1408,7 +1408,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同現實用法",
       "audio": "audio/ch09.mp3",
-      "audioDur": "待錄",
+      "audioDur": "2:09",
       "briefing": {
         "paragraphs": [
           "全書總結。聽完《獲利優先》，一句收：開場。你要帶走可執行規則，唔係金句。",
