@@ -44,7 +44,7 @@
     {"href": "books/misbehaving/", "title": "錯誤的行為", "author": "Richard H. Thaler", "track": "行為 · 心理", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "錯", "voice": "minimax"},
     {"href": "books/fooled-by-randomness/", "title": "隨機漫步的傻瓜", "author": "Nassim Nicholas Taleb", "track": "行為 · 心理", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "隨", "voice": "minimax"},
     {"href": "books/black-swan/", "title": "黑天鵝", "author": "Nassim Nicholas Taleb", "track": "行為 · 心理", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "黑", "voice": "minimax"},
-    {"href": "books/pumpkin-plan/", "title": "南瓜計畫", "author": "Mike Michalowicz", "track": "創業現金流", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c1", "mark": "南"},
+    {"href": "books/pumpkin-plan/", "title": "南瓜計畫", "author": "Mike Michalowicz", "track": "創業現金流", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "南", "voice": "minimax"},
     {"href": "books/clockwork/", "title": "時鐘機制", "author": "Mike Michalowicz", "track": "創業現金流", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "時", "voice": "minimax"},
     {"href": "books/business-model-generation/", "title": "獲利世代", "author": "Alexander Osterwalder", "track": "創業現金流", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "獲", "voice": "minimax"},
     {"href": "books/principles-dalio/", "title": "原則", "author": "Ray Dalio", "track": "宏觀 · 周期", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "原", "voice": "minimax"},

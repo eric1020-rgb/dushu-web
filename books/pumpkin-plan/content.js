@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "現金流先於虛榮",
       "subtitle": "賺錢同有現金係兩件事",
       "audio": "audio/ch00.mp3",
-      "audioDur": "4:20",
+      "audioDur": "4:49",
       "briefing": {
         "paragraphs": [
           "引言。呢本《南瓜計畫》（Mike Michalowicz）帶讀開場：一句講——聚焦偏高嘅價值客戶。你唔使背曬全書，但要帶走可重複過程。",
@@ -167,7 +167,7 @@ window.DUSHU_BOOK = {
       "title": "帳戶同分配",
       "subtitle": "錢一入門就分好",
       "audio": "audio/ch01.mp3",
-      "audioDur": "4:18",
+      "audioDur": "3:42",
       "briefing": {
         "paragraphs": [
           "第一章。《南瓜計畫》（原題 The Pumpkin Plan）呢章「帳戶同分配」——錢一入門就分好。作者Mike Michalowicz想帶出嘅核心，可以一句講：聚焦偏高嘅價值客戶。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重…",
@@ -321,7 +321,7 @@ window.DUSHU_BOOK = {
       "title": "單位經濟",
       "subtitle": "每一單係賺定蝕",
       "audio": "audio/ch02.mp3",
-      "audioDur": "4:18",
+      "audioDur": "3:40",
       "briefing": {
         "paragraphs": [
           "第二章。《南瓜計畫》（原題 The Pumpkin Plan）呢章「單位經濟」——每一單係賺定蝕。作者Mike Michalowicz想帶出嘅核心，可以一句講：聚焦偏高嘅價值客戶。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -475,7 +475,7 @@ window.DUSHU_BOOK = {
       "title": "定價同成本",
       "subtitle": "價錢太低係慢性自殺",
       "audio": "audio/ch03.mp3",
-      "audioDur": "4:17",
+      "audioDur": "3:40",
       "briefing": {
         "paragraphs": [
           "第三章。《南瓜計畫》（原題 The Pumpkin Plan）呢章「定價同成本」——價格太低係慢性自殺。作者Mike Michalowicz想帶出嘅核心，可以一句講：聚焦偏高嘅價值客戶。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走…",
@@ -629,7 +629,7 @@ window.DUSHU_BOOK = {
       "title": "節奏同系統",
       "subtitle": "令生意唔使靠你日日救火",
       "audio": "audio/ch04.mp3",
-      "audioDur": "4:17",
+      "audioDur": "3:43",
       "briefing": {
         "paragraphs": [
           "第四章。《南瓜計畫》（原題 The Pumpkin Plan）呢章「節奏同系統」——令生意唔使靠你日日救火。作者Mike Michalowicz想帶出嘅核心，可以一句講：聚焦偏高嘅價值客戶。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要…",
@@ -783,7 +783,7 @@ window.DUSHU_BOOK = {
       "title": "增長同聚焦",
       "subtitle": "亂擴張會吸乾現金",
       "audio": "audio/ch05.mp3",
-      "audioDur": "4:19",
+      "audioDur": "3:42",
       "briefing": {
         "paragraphs": [
           "第五章。《南瓜計畫》（原題 The Pumpkin Plan）呢章「增長同聚焦」——亂擴張會吸乾現金。作者Mike Michalowicz想帶出嘅核心，可以一句講：聚焦偏高嘅價值客戶。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可…",
@@ -937,7 +937,7 @@ window.DUSHU_BOOK = {
       "title": "融資同債務",
       "subtitle": "借錢係工具唔係氧氣",
       "audio": "audio/ch06.mp3",
-      "audioDur": "4:20",
+      "audioDur": "3:43",
       "briefing": {
         "paragraphs": [
           "第六章。《南瓜計畫》（原題 The Pumpkin Plan）呢章「融資同債務」——借錢係工具唔係氧氣。作者Mike Michalowicz想帶出嘅核心，可以一句講：聚焦偏高嘅價值客戶。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走…",
@@ -1091,7 +1091,7 @@ window.DUSHU_BOOK = {
       "title": "數字儀表板",
       "subtitle": "一週睇一次就夠",
       "audio": "audio/ch07.mp3",
-      "audioDur": "4:17",
+      "audioDur": "3:37",
       "briefing": {
         "paragraphs": [
           "第七章。《南瓜計畫》（原題 The Pumpkin Plan）呢章「數字儀錶板」——一週睇一次就夠。作者Mike Michalowicz想帶出嘅核心，可以一句講：聚焦偏高嘅價值客戶。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重…",
@@ -1245,7 +1245,7 @@ window.DUSHU_BOOK = {
       "title": "九十日改造",
       "subtitle": "由亂到可控",
       "audio": "audio/ch08.mp3",
-      "audioDur": "4:18",
+      "audioDur": "3:42",
       "briefing": {
         "paragraphs": [
           "第八章。《南瓜計畫》（原題 The Pumpkin Plan）呢章「九十日改造」——由亂到可控。作者Mike Michalowicz想帶出嘅核心，可以一句講：聚焦偏高嘅價值客戶。但一句唔夠用，要拆成你做得到嘅規則。你唔使背曬全書，但要帶走可重複過程。",
@@ -1399,7 +1399,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同現實用法",
       "audio": "audio/ch09.mp3",
-      "audioDur": "待錄",
+      "audioDur": "2:18",
       "briefing": {
         "paragraphs": [
           "全書總結。聽完《南瓜計畫》，一句收：聚焦偏高嘅價值客戶。你要帶走可執行規則，唔係金句。",
