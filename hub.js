@@ -67,7 +67,7 @@
     {"href": "books/finlab-stock-picking/", "title": "財報狗教你挖好股", "author": "財報狗", "track": "財報 · 估值", "duration": "約 38 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "財", "voice": "minimax"},
     {"href": "books/financial-shenanigans/", "title": "財報魔術", "author": "Howard Schilit", "track": "財報 · 估值", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "財", "voice": "minimax"},
     {"href": "books/brrrr-method/", "title": "BRRRR 投資法", "author": "David Greene", "track": "房地產", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "B", "voice": "minimax"},
-    {"href": "books/reits-investors-guide/", "title": "REITs 投資指南", "author": "Stephanie Krewson-Kelly / Brad Thomas", "track": "房地產", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c4", "mark": "R"},
+    {"href": "books/reits-investors-guide/", "title": "REITs 投資指南", "author": "Stephanie Krewson-Kelly / Brad Thomas", "track": "房地產", "duration": "約 35 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "R", "voice": "minimax"},
     {"href": "books/book-on-rental-property/", "title": "出租物業投資聖經", "author": "Brandon Turner", "track": "房地產", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "出", "voice": "minimax"},
     {"href": "books/commercial-real-estate-101/", "title": "商業地產入門", "author": "相關實務書", "track": "房地產", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "商", "voice": "minimax"},
     {"href": "books/rich-dad-real-estate/", "title": "富爸爸不動產投資", "author": "Robert Kiyosaki 編", "track": "房地產", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c3", "mark": "富"},
