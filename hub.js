@@ -79,7 +79,7 @@
     {"href": "books/way-of-turtle/", "title": "海龜投資法則", "author": "Curtis Faith", "track": "交易 · 技術", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c1", "mark": "海"},
     {"href": "books/reminiscences-stock-operator/", "title": "股票作手回憶錄", "author": "Edwin Lefèvre", "track": "交易 · 技術", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c2", "mark": "股"},
     {"href": "books/trend-following/", "title": "趨勢跟隨", "author": "Michael W. Covel", "track": "交易 · 技術", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c3", "mark": "趨"},
-    {"href": "books/quantitative-trading/", "title": "量化交易", "author": "Ernest P. Chan", "track": "交易 · 技術", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c4", "mark": "量"},
+    {"href": "books/quantitative-trading/", "title": "量化交易", "author": "Ernest P. Chan", "track": "交易 · 技術", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "量", "voice": "minimax"},
     {"href": "books/technical-analysis-markets/", "title": "金融市場技術分析", "author": "John J. Murphy", "track": "交易 · 技術", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c1", "mark": "金"},
     {"href": "books/japanese-candlestick/", "title": "陰線陽線", "author": "Steve Nison", "track": "交易 · 技術", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "陰", "voice": "minimax"},
     {"href": "books/everything-store/", "title": "一切商店", "author": "Brad Stone", "track": "創業家傳記", "duration": "約 36 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "一", "voice": "minimax"},
