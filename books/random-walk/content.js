@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "隨機漫步",
       "subtitle": "價格已反映大多資訊",
       "audio": "audio/ch00.mp3",
-      "audioDur": "4:26",
+      "audioDur": "5:02",
       "briefing": {
         "paragraphs": [
           "引言。呢本《漫步華爾街》（Burton Malkiel（概念導讀））帶讀開場：一句講——有效市場假說提醒：新資訊快速反映喺價格，短期預測好難穩定獲利。你唔使背曬全書，但要帶走可重複過程。",
@@ -168,7 +168,7 @@ window.DUSHU_BOOK = {
       "title": "泡沫課堂",
       "subtitle": "歷史會押韻",
       "audio": "audio/ch01.mp3",
-      "audioDur": "4:24",
+      "audioDur": "3:47",
       "briefing": {
         "paragraphs": [
           "第一章。鬱金香、泡沫公司、互聯網——敘事＋槓桿＋新手湧入，模式重複。",
@@ -323,7 +323,7 @@ window.DUSHU_BOOK = {
       "title": "股票長期",
       "subtitle": "風險溢價有代價",
       "audio": "audio/ch02.mp3",
-      "audioDur": "4:21",
+      "audioDur": "3:41",
       "briefing": {
         "paragraphs": [
           "第二章。股票長期回報較高，因爲承受波動與不確定性。要回報就要留在場內。",
@@ -478,7 +478,7 @@ window.DUSHU_BOOK = {
       "title": "指數化實踐",
       "subtitle": "買入並持有市場",
       "audio": "audio/ch03.mp3",
-      "audioDur": "4:37",
+      "audioDur": "3:57",
       "briefing": {
         "paragraphs": [
           "第三章。廣泛指數基金／指數基金 提供分散與低費。是隨機漫步世界的實操答案之一。",
@@ -633,7 +633,7 @@ window.DUSHU_BOOK = {
       "title": "行為陷阱",
       "subtitle": "自己先打敗自己",
       "audio": "audio/ch04.mp3",
-      "audioDur": "4:35",
+      "audioDur": "3:53",
       "briefing": {
         "paragraphs": [
           "第四章。過度自信、損失厭惡、羊羣、心理帳戶——會令好策略失效。",
@@ -788,7 +788,7 @@ window.DUSHU_BOOK = {
       "title": "生命週期",
       "subtitle": "年齡同目標",
       "audio": "audio/ch05.mp3",
-      "audioDur": "4:34",
+      "audioDur": "3:57",
       "briefing": {
         "paragraphs": [
           "第五章。年輕多股票、年長增防禦的啓發式有用，但要個性調整。",
@@ -943,7 +943,7 @@ window.DUSHU_BOOK = {
       "title": "國際分散",
       "subtitle": "世界不只一市",
       "audio": "audio/ch06.mp3",
-      "audioDur": "4:37",
+      "audioDur": "3:56",
       "briefing": {
         "paragraphs": [
           "第六章。單一國家風險：政策、產業結構、貨幣。全球分散降低本土偏見。",
@@ -1098,7 +1098,7 @@ window.DUSHU_BOOK = {
       "title": "選股現實",
       "subtitle": "主動嘅真正成本",
       "audio": "audio/ch07.mp3",
-      "audioDur": "4:33",
+      "audioDur": "3:53",
       "briefing": {
         "paragraphs": [
           "第七章。個別投資者可研究個股，但要誠實計算時間、稅費、失誤率。",
@@ -1253,7 +1253,7 @@ window.DUSHU_BOOK = {
       "title": "漫步落地",
       "subtitle": "簡單可堅持",
       "audio": "audio/ch08.mp3",
-      "audioDur": "4:34",
+      "audioDur": "3:55",
       "briefing": {
         "paragraphs": [
           "第八章。九十日：指數核心、自動供款、年再平衡、泡沫預警筆記、行爲規則。",
@@ -1408,7 +1408,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同現實用法",
       "audio": "audio/ch09.mp3",
-      "audioDur": "待錄",
+      "audioDur": "2:16",
       "briefing": {
         "paragraphs": [
           "全書總結。聽完《漫步華爾街》，一句收：開場。你要帶走可執行規則，唔係金句。",
