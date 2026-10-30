@@ -74,7 +74,7 @@
     {"href": "books/what-every-re-investor/", "title": "現金流與不動產數字", "author": "Frank Gallinelli", "track": "房地產", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c4", "mark": "現"},
     {"href": "books/millionaire-real-estate-investor/", "title": "百萬富翁房地產投資人", "author": "Gary Keller", "track": "房地產", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "百", "voice": "minimax"},
     {"href": "books/hk-property-investing/", "title": "香港物業投資思維", "author": "港人理財常見主題", "track": "房地產", "duration": "約 38 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "香", "voice": "minimax"},
-    {"href": "books/trading-for-living/", "title": "以交易為生", "author": "Alexander Elder", "track": "交易 · 技術", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c3", "mark": "以"},
+    {"href": "books/trading-for-living/", "title": "以交易為生", "author": "Alexander Elder", "track": "交易 · 技術", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "以", "voice": "minimax"},
     {"href": "books/market-wizards/", "title": "市場奇才", "author": "Jack D. Schwager", "track": "交易 · 技術", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "市", "voice": "minimax"},
     {"href": "books/way-of-turtle/", "title": "海龜投資法則", "author": "Curtis Faith", "track": "交易 · 技術", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c1", "mark": "海"},
     {"href": "books/reminiscences-stock-operator/", "title": "股票作手回憶錄", "author": "Edwin Lefèvre", "track": "交易 · 技術", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "股", "voice": "minimax"},
