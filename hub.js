@@ -87,7 +87,7 @@
     {"href": "books/hard-thing-about-hard-things/", "title": "創業維艱", "author": "Ben Horowitz", "track": "創業家傳記", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "創", "voice": "minimax"},
     {"href": "books/built-to-last/", "title": "基業長青", "author": "Jim Collins / Jerry Porras", "track": "創業家傳記", "duration": "約 36 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "基", "voice": "minimax"},
     {"href": "books/good-to-great/", "title": "從優秀到卓越", "author": "Jim Collins", "track": "創業家傳記", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "從", "voice": "minimax"},
-    {"href": "books/snowball-buffett/", "title": "滾雪球", "author": "Alice Schroeder", "track": "創業家傳記", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c4", "mark": "滾"},
+    {"href": "books/snowball-buffett/", "title": "滾雪球", "author": "Alice Schroeder", "track": "創業家傳記", "duration": "約 36 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "滾", "voice": "minimax"},
     {"href": "books/invent-and-wander/", "title": "發明與遊蕩", "author": "Jeff Bezos", "track": "創業家傳記", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "發", "voice": "minimax"},
     {"href": "books/steve-jobs/", "title": "賈伯斯傳", "author": "Walter Isaacson", "track": "創業家傳記", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c2", "mark": "賈"},
     {"href": "books/shoe-dog/", "title": "鞋狗", "author": "Phil Knight", "track": "創業家傳記", "duration": "約 36 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "鞋", "voice": "minimax"},
