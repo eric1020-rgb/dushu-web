@@ -37,7 +37,7 @@
     {"href": "books/bernstein-asset-allocation/", "title": "資產配置投資策略", "author": "William J. Bernstein", "track": "被動指數", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "資", "voice": "minimax"},
     {"href": "books/your-money-your-brain/", "title": "你的錢，你的腦", "author": "Jason Zweig", "track": "行為 · 心理", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c4", "mark": "你"},
     {"href": "books/antifragile/", "title": "反脆弱", "author": "Nassim Nicholas Taleb", "track": "行為 · 心理", "duration": "約 38 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "反", "voice": "minimax"},
-    {"href": "books/thinking-fast-slow/", "title": "快思慢想", "author": "Daniel Kahneman", "track": "行為 · 心理", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c2", "mark": "快"},
+    {"href": "books/thinking-fast-slow/", "title": "快思慢想", "author": "Daniel Kahneman", "track": "行為 · 心理", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "快", "voice": "minimax"},
     {"href": "books/scarcity/", "title": "稀缺", "author": "Sendhil Mullainathan / Eldar Shafir", "track": "行為 · 心理", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "稀", "voice": "minimax"},
     {"href": "books/behavior-gap/", "title": "行為差距", "author": "Carl Richards", "track": "行為 · 心理", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "行", "voice": "minimax"},
     {"href": "books/behavioral-investor/", "title": "行為投資人", "author": "Daniel Crosby", "track": "行為 · 心理", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "行", "voice": "minimax"},
