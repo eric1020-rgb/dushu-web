@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "現金先於利潤",
       "subtitle": "戶口先睇",
       "audio": "audio/ch00.mp3",
-      "audioDur": "4:20",
+      "audioDur": "4:49",
       "briefing": {
         "paragraphs": [
           "引言。呢本《小型企業現金流實務導讀》（實務概念導讀）帶讀開場：一句講——小生意存活睇現金，唔只損益表利潤。你唔使背曬全書，但要帶走可重複過程。",
@@ -167,7 +167,7 @@ window.DUSHU_BOOK = {
       "title": "週轉天數",
       "subtitle": "加速流入",
       "audio": "audio/ch01.mp3",
-      "audioDur": "4:33",
+      "audioDur": "3:54",
       "briefing": {
         "paragraphs": [
           "第一章。縮短應收天數：訂金、進度款、清晰條款、催收節奏。",
@@ -321,7 +321,7 @@ window.DUSHU_BOOK = {
       "title": "價格同毛利",
       "subtitle": "現金從毛利來",
       "audio": "audio/ch02.mp3",
-      "audioDur": "4:33",
+      "audioDur": "3:53",
       "briefing": {
         "paragraphs": [
           "第二章。平貨多做唔等於健康。毛利低會令周轉再快都捱。",
@@ -475,7 +475,7 @@ window.DUSHU_BOOK = {
       "title": "固定開支",
       "subtitle": "降低盈虧平衡",
       "audio": "audio/ch03.mp3",
-      "audioDur": "4:35",
+      "audioDur": "3:56",
       "briefing": {
         "paragraphs": [
           "第三章。固定開支高，波動月好易負現金。能變化就變化：彈性場地、外包、訂閱審查。",
@@ -629,7 +629,7 @@ window.DUSHU_BOOK = {
       "title": "融資橋",
       "subtitle": "用得清還得到",
       "audio": "audio/ch04.mp3",
-      "audioDur": "4:33",
+      "audioDur": "3:55",
       "briefing": {
         "paragraphs": [
           "第四章。過橋貸、信用卡、股東墊資都係工具，要有還款計劃同成本意識。",
@@ -783,7 +783,7 @@ window.DUSHU_BOOK = {
       "title": "預測",
       "subtitle": "十三週滾動",
       "audio": "audio/ch05.mp3",
-      "audioDur": "4:35",
+      "audioDur": "3:57",
       "briefing": {
         "paragraphs": [
           "第五章。十三週現金預測係小企實務經典：每週更新實際，滾動前瞻。",
@@ -937,7 +937,7 @@ window.DUSHU_BOOK = {
       "title": "客戶同條款",
       "subtitle": "條款即現金",
       "audio": "audio/ch06.mp3",
-      "audioDur": "4:34",
+      "audioDur": "3:54",
       "briefing": {
         "paragraphs": [
           "第六章。合同條款決定你幾時收錢。範圍蔓延不作附加收費，會食現金。",
@@ -1091,7 +1091,7 @@ window.DUSHU_BOOK = {
       "title": "儀表同團隊",
       "subtitle": "人人識水位",
       "audio": "audio/ch07.mp3",
-      "audioDur": "4:32",
+      "audioDur": "3:51",
       "briefing": {
         "paragraphs": [
           "第七章。團隊要識：現金水位、逾期應收、本週淨流入。透明減少亂承諾。",
@@ -1245,7 +1245,7 @@ window.DUSHU_BOOK = {
       "title": "九十日現金",
       "subtitle": "系統變日常",
       "audio": "audio/ch08.mp3",
-      "audioDur": "4:32",
+      "audioDur": "3:52",
       "briefing": {
         "paragraphs": [
           "第八章。九十日：十四日曆、十三週預測、催收節奏、毛利線、固定開支浮兩項、週會。",
@@ -1399,7 +1399,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同現實用法",
       "audio": "audio/ch09.mp3",
-      "audioDur": "待錄",
+      "audioDur": "2:15",
       "briefing": {
         "paragraphs": [
           "全書總結。聽完《小型企業現金流實務導讀》，一句收：開場。你要帶走可執行規則，唔係金句。",
