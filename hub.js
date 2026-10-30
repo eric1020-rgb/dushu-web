@@ -94,7 +94,7 @@
     {"href": "books/elon-musk/", "title": "馬斯克傳", "author": "Walter Isaacson", "track": "創業家傳記", "duration": "約 36 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "馬", "voice": "minimax"},
     {"href": "books/etf-playbook/", "title": "ETF 實戰手冊", "author": "台港作者常見", "track": "港台常見理財書", "duration": "約 38 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "E", "voice": "minimax"},
     {"href": "books/increase-financial-iq/", "title": "富爸爸提高你的財商", "author": "Robert T. Kiyosaki", "track": "港台常見理財書", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "富", "voice": "minimax"},
-    {"href": "books/secrets-millionaire-mind/", "title": "有錢人想的和你不一樣", "author": "T. Harv Eker", "track": "港台常見理財書", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c3", "mark": "有"},
+    {"href": "books/secrets-millionaire-mind/", "title": "有錢人想的和你不一樣", "author": "T. Harv Eker", "track": "港台常見理財書", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "有", "voice": "minimax"},
     {"href": "books/die-with-zero/", "title": "歸零而死", "author": "Bill Perkins", "track": "港台常見理財書", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "歸", "voice": "minimax"},
     {"href": "books/greenhorn-fund-bible/", "title": "綠角的基金勝經", "author": "綠角", "track": "港台常見理財書", "duration": "約 38 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "綠", "voice": "minimax"},
     {"href": "books/gupiaolaoniu-dividend/", "title": "股海老牛的存股課", "author": "股海老牛", "track": "港台常見理財書", "duration": "約 38 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "股", "voice": "minimax"},
