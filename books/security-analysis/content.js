@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "投資同投機",
       "subtitle": "先分清你喺做緊咩",
       "audio": "audio/ch00.mp3",
-      "audioDur": "4:36",
+      "audioDur": "5:07",
       "briefing": {
         "paragraphs": [
           "引言。呢本《證券分析精華》（Benjamin Graham（概念導讀））帶讀開場：一句講——證券分析呢條線，最起步係分投資同投機。你唔使背曬全書，但要帶走可重複過程。",
@@ -167,7 +167,7 @@ window.DUSHU_BOOK = {
       "title": "內在價值",
       "subtitle": "價格係票，價值係秤",
       "audio": "audio/ch01.mp3",
-      "audioDur": "4:34",
+      "audioDur": "3:58",
       "briefing": {
         "paragraphs": [
           "第一章。內在價值唔係精確到毫子嘅神奇數字，而係一個範圍。你用資產、盈利能力、前景同風險，估一個合理帶。",
@@ -321,7 +321,7 @@ window.DUSHU_BOOK = {
       "title": "安全邊際",
       "subtitle": "估錯仍然活到",
       "audio": "audio/ch02.mp3",
-      "audioDur": "4:28",
+      "audioDur": "3:51",
       "briefing": {
         "paragraphs": [
           "第二章。安全邊際係格雷厄姆思想核心：你付出嘅價格，要低到即使分析有錯、運氣偏差，仍然唔致命。",
@@ -475,7 +475,7 @@ window.DUSHU_BOOK = {
       "title": "財報閱讀",
       "subtitle": "數字後面有人",
       "audio": "audio/ch03.mp3",
-      "audioDur": "4:35",
+      "audioDur": "3:53",
       "briefing": {
         "paragraphs": [
           "第三章。報表係語言。資產負債、損益、現金流三表要一齊睇。盈利可以粉飾，現金流同負債較難長期隱瞞。",
@@ -629,7 +629,7 @@ window.DUSHU_BOOK = {
       "title": "市場先生",
       "subtitle": "情緒供應商",
       "audio": "audio/ch04.mp3",
-      "audioDur": "4:28",
+      "audioDur": "3:48",
       "briefing": {
         "paragraphs": [
           "第四章。市場先生每日報價，有時開心有時抑鬱。你唔使同佢辯論，只決定接唔接受佢嘅價錢。",
@@ -783,7 +783,7 @@ window.DUSHU_BOOK = {
       "title": "分散同集中",
       "subtitle": "知幾多就拿幾多",
       "audio": "audio/ch05.mp3",
-      "audioDur": "4:27",
+      "audioDur": "3:48",
       "briefing": {
         "paragraphs": [
           "第五章。徹底分散可以降低單一打擊；過度分散亦會變成無腦收藏。集中則要求極深研究同承受力。",
@@ -937,7 +937,7 @@ window.DUSHU_BOOK = {
       "title": "先生市盈同資產",
       "subtitle": "多鏡估值",
       "audio": "audio/ch06.mp3",
-      "audioDur": "4:24",
+      "audioDur": "3:46",
       "briefing": {
         "paragraphs": [
           "第六章。市盈、市淨、企業價值對息稅前盈利、自由現金流收益率——工具箱要多幾件，唔好迷信單一倍數。",
@@ -1091,7 +1091,7 @@ window.DUSHU_BOOK = {
       "title": "防衛型同進取型",
       "subtitle": "個性配策略",
       "audio": "audio/ch07.mp3",
-      "audioDur": "4:23",
+      "audioDur": "3:48",
       "briefing": {
         "paragraphs": [
           "第七章。防衛型投資人強調安全同省心：高質債券／分散股票、少操作。進取型肯花時間研究，尋求額外回報，但要真付出功課。",
@@ -1245,7 +1245,7 @@ window.DUSHU_BOOK = {
       "title": "落地九十日",
       "subtitle": "把分析變成習慣",
       "audio": "audio/ch08.mp3",
-      "audioDur": "4:31",
+      "audioDur": "3:52",
       "briefing": {
         "paragraphs": [
           "第八章。概念要變成習慣：觀察清單、年報筆記模板、觸發價、倉位上限、每月檢討。",
@@ -1399,7 +1399,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同現實用法",
       "audio": "audio/ch09.mp3",
-      "audioDur": "待錄",
+      "audioDur": "2:23",
       "briefing": {
         "paragraphs": [
           "全書總結。聽完《證券分析精華》，一句收：開場。你要帶走可執行規則，唔係金句。",
