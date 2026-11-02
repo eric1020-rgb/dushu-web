@@ -102,7 +102,9 @@
     {"href": "books/compound-effect/", "title": "複利效應", "author": "Darren Hardy", "track": "港台常見理財書", "duration": "約 36 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "複", "voice": "minimax"},
     {"href": "books/your-money-or-your-life/", "title": "金錢或人生", "author": "Vicki Robin / Joe Dominguez", "track": "港台常見理財書", "duration": "約 39 分鐘", "chapters": "10 章", "coverClass": "c1", "mark": "金"},
     {"href": "books/hk-mpf-investing/", "title": "香港人強積金與投資入門", "author": "港人作者常見", "track": "港台常見理財書", "duration": "約 37 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "香", "voice": "minimax"},
-    {"href": "books/naval-almanack/", "title": "納瓦爾寶典", "author": "Eric Jorgenson / Naval Ravikant", "track": "創業 · 心態 · 財富", "duration": "約 45 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "納", "voice": "minimax"}
+    {"href": "books/long-wallet/", "title": "為什麼有錢人都用長銀包", "author": "龜田潤一郎", "track": "金錢習慣 · 心態", "duration": "約 43 分鐘", "chapters": "10 章", "coverClass": "c2", "mark": "銀"},
+    {"href": "books/naval-almanack/", "title": "納瓦爾寶典", "author": "Eric Jorgenson / Naval Ravikant", "track": "創業 · 心態 · 財富", "duration": "約 45 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "納", "voice": "minimax"},
+    {"href": "books/why-we-sleep/", "title": "為什麼要睡覺", "author": "Matthew Walker", "track": "健康 · 表現 · 科學", "duration": "約 35 分鐘", "chapters": "10 章", "coverClass": "c4", "mark": "睡"}
   ];
 
   const isMinimax = (b) => b.coverClass === "c-white" || b.voice === "minimax";
