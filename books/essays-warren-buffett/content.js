@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "開場同地圖",
       "subtitle": "主人翁思維、護城河、先生意後股價。",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:00",
+      "audioDur": "2:27",
       "briefing": {
         "paragraphs": [
           "開場地圖：主人翁思維、護城河、先生意後股票價格。作者華倫・巴菲特／Lawrence Cunningham 編。呢本帶讀唔抄原文，用粵語演繹框架。",
@@ -179,7 +179,7 @@ window.DUSHU_BOOK = {
       "title": "主人翁信",
       "subtitle": "把股東當合夥人",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:49",
       "briefing": {
         "paragraphs": [
           "《巴菲特選股文選》「主人翁信」——把股東當合夥人。重點：經營同投資都用合夥人標準。",
@@ -348,7 +348,7 @@ window.DUSHU_BOOK = {
       "title": "先生意",
       "subtitle": "企業質量先於報價波動",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:49",
       "briefing": {
         "paragraphs": [
           "《巴菲特選股文選》「先生意」——企業質量先於報出嘅價波動。重點：唔懂生意就唔好重倉股票。",
@@ -517,7 +517,7 @@ window.DUSHU_BOOK = {
       "title": "護城河",
       "subtitle": "持久優勢",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《巴菲特選股文選》「護城河」——持久優勢。重點：冇護城河嘅便宜可以係陷阱。",
@@ -686,7 +686,7 @@ window.DUSHU_BOOK = {
       "title": "管理層質量",
       "subtitle": "資本配置能力",
       "audio": "audio/ch04.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:43",
       "briefing": {
         "paragraphs": [
           "《巴菲特選股文選》「管理層質量」——資本配置能力。重點：差管理可以毀掉好行業。",
@@ -855,7 +855,7 @@ window.DUSHU_BOOK = {
       "title": "市場先生",
       "subtitle": "情緒波動供你用",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:43",
       "briefing": {
         "paragraphs": [
           "《巴菲特選股文選》「市場先生」——情緒波動供你用。重點：市場係服務者，唔係老師。",
@@ -1024,7 +1024,7 @@ window.DUSHU_BOOK = {
       "title": "安全邊際",
       "subtitle": "估錯仍然活",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《巴菲特選股文選》「安全邊際」——估錯仍然活。重點：邊際係投資保險。",
@@ -1193,7 +1193,7 @@ window.DUSHU_BOOK = {
       "title": "多元化邊界",
       "subtitle": "集中要有能力圈",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:46",
       "briefing": {
         "paragraphs": [
           "《巴菲特選股文選》「多元化邊界」——集中要有能力圈。重點：亂買一堆唔等於真分散。",
@@ -1362,7 +1362,7 @@ window.DUSHU_BOOK = {
       "title": "長期複利",
       "subtitle": "少動係特徵",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《巴菲特選股文選》「長期複利」——少動係特徵。重點：少交易令複利少被打斷。",
@@ -1531,7 +1531,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同七日行動",
       "audio": "audio/ch09.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:39",
       "briefing": {
         "paragraphs": [
           "總結《巴菲特選股文選》主線：主人翁思維、護城河、先生意後股票價格。",

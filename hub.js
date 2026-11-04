@@ -130,7 +130,7 @@
     {"href": "books/broke-millennial/", "title": "破產千禧世代（暫譯）", "author": "Erin Lowry", "track": "金錢習慣 · 心態", "duration": "約 18 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "禧", "voice": "minimax"},
     {"href": "books/passive-income-aggressive/", "title": "被動收入，積極退休（暫譯）", "author": "Rachel Richards", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c1", "mark": "被"},
     {"href": "books/little-book-common-sense/", "title": "投資常識", "author": "John C. Bogle", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c2", "mark": "常"},
-    {"href": "books/essays-warren-buffett/", "title": "巴菲特選股文選", "author": "Warren Buffett／Lawrence Cunningham 編", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c3", "mark": "巴"},
+    {"href": "books/essays-warren-buffett/", "title": "巴菲特選股文選", "author": "Warren Buffett／Lawrence Cunningham 編", "track": "金錢習慣 · 心態", "duration": "約 18 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "巴", "voice": "minimax"},
     {"href": "books/seeking-wisdom/", "title": "尋求智慧", "author": "Peter Bevelin", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c4", "mark": "智"},
     {"href": "books/chen-salary-invest/", "title": "我用死薪水輕鬆理財賺千萬", "author": "陳重銘", "track": "金錢習慣 · 心態", "duration": "約 18 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "薪", "voice": "minimax"},
     {"href": "books/cun-gu-easy/", "title": "存股輕鬆學", "author": "陳喬泓", "track": "金錢習慣 · 心態", "duration": "約 18 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "存", "voice": "minimax"},
