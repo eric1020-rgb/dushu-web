@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "開場同地圖",
       "subtitle": "少但更好：辨識必要，剔除其餘，再順暢執行。",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:00",
+      "audioDur": "2:36",
       "briefing": {
         "paragraphs": [
           "開場地圖：少但更好：辨識必要，剔除其餘，再順暢執行。作者Greg McKeown。呢本帶讀唔抄原文，用粵語演繹框架。",
@@ -179,7 +179,7 @@ window.DUSHU_BOOK = {
       "title": "必要主義者",
       "subtitle": "選擇權喺自己",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《必要主義》「必要主義者」——選擇權喺自己。重點：什麼都要＝什麼都一般。",
@@ -348,7 +348,7 @@ window.DUSHU_BOOK = {
       "title": "探索",
       "subtitle": "先創造空間判斷",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《必要主義》「探索」——先創造空間判斷。重點：忙到冇空揀就會錯揀。",
@@ -517,7 +517,7 @@ window.DUSHU_BOOK = {
       "title": "極端準則",
       "subtitle": "只選真正係",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《必要主義》「極端準則」——只選真正係。重點：有一丁點猶豫就傾向否。",
@@ -686,7 +686,7 @@ window.DUSHU_BOOK = {
       "title": "剔除",
       "subtitle": "優雅退出",
       "audio": "audio/ch04.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:38",
       "briefing": {
         "paragraphs": [
           "《必要主義》「剔除」——優雅退出。重點：減項係勇氣。",
@@ -855,7 +855,7 @@ window.DUSHU_BOOK = {
       "title": "邊界",
       "subtitle": "保護必要",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:40",
       "briefing": {
         "paragraphs": [
           "《必要主義》「邊界」——保護必要。重點：冇邊界就被世界填滿。",
@@ -1024,7 +1024,7 @@ window.DUSHU_BOOK = {
       "title": "緩衝",
       "subtitle": "預留餘裕",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:43",
       "briefing": {
         "paragraphs": [
           "《必要主義》「緩衝」——預留餘裕。重點：滿載系統好脆。",
@@ -1193,7 +1193,7 @@ window.DUSHU_BOOK = {
       "title": "流程",
       "subtitle": "令必要變容易",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:40",
       "briefing": {
         "paragraphs": [
           "《必要主義》「流程」——令必要變容易。重點：執行靠設計。",
@@ -1362,7 +1362,7 @@ window.DUSHU_BOOK = {
       "title": "一週實驗",
       "subtitle": "取消兩項非必要",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:41",
       "briefing": {
         "paragraphs": [
           "《必要主義》「一週實驗」——取消兩項非必要。重點：用結果證明少即是多。",
@@ -1531,7 +1531,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同七日行動",
       "audio": "audio/ch09.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:35",
       "briefing": {
         "paragraphs": [
           "總結《必要主義》主線：少但更好：辨識必要，剔除其餘，再順暢執行。",
