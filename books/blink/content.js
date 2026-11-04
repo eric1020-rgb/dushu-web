@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "開場同地圖",
       "subtitle": "快速直覺可以好準，亦可以好偏；關鍵係訓練同情境。",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:00",
+      "audioDur": "2:37",
       "briefing": {
         "paragraphs": [
           "開場地圖：快速直覺可以好準，亦可以好偏；關鍵係訓練同情境。作者Malcolm Gladwell。呢本帶讀唔抄原文，用粵語演繹框架。",
@@ -179,7 +179,7 @@ window.DUSHU_BOOK = {
       "title": "薄片切片",
       "subtitle": "用很少資訊判斷",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《眨眼之間》「薄片切片」——用很少資訊判斷。重點：專家直覺係壓縮經驗。",
@@ -348,7 +348,7 @@ window.DUSHU_BOOK = {
       "title": "訓練直覺",
       "subtitle": "曝光同回饋",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:43",
       "briefing": {
         "paragraphs": [
           "《眨眼之間》「訓練直覺」——曝光同回饋。重點：冇回饋嘅直覺會腐壞。",
@@ -517,7 +517,7 @@ window.DUSHU_BOOK = {
       "title": "偏誤瞬間",
       "subtitle": "隱性偏見",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:43",
       "briefing": {
         "paragraphs": [
           "《眨眼之間》「偏誤瞬間」——隱性偏見。重點：瞬間判斷可藏歧視。",
@@ -686,7 +686,7 @@ window.DUSHU_BOOK = {
       "title": "過多資訊",
       "subtitle": "分析麻痺",
       "audio": "audio/ch04.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:40",
       "briefing": {
         "paragraphs": [
           "《眨眼之間》「過多資訊」——分析麻痺。重點：有時多資訊更差。",
@@ -855,7 +855,7 @@ window.DUSHU_BOOK = {
       "title": "面部同情緒",
       "subtitle": "讀人有限",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:39",
       "briefing": {
         "paragraphs": [
           "《眨眼之間》「面部同情緒」——讀人有限。重點：讀心唔係魔法。",
@@ -1024,7 +1024,7 @@ window.DUSHU_BOOK = {
       "title": "市場同設計",
       "subtitle": "第一印象",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:43",
       "briefing": {
         "paragraphs": [
           "《眨眼之間》「市場同設計」——第一印象。重點：第一秒好重要但要驗證。",
@@ -1193,7 +1193,7 @@ window.DUSHU_BOOK = {
       "title": "何時慢下來",
       "subtitle": "高風險高偏誤場",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:43",
       "briefing": {
         "paragraphs": [
           "《眨眼之間》「何時慢下來」——高風險高偏誤場。重點：識得眨亦要識得停。",
@@ -1362,7 +1362,7 @@ window.DUSHU_BOOK = {
       "title": "個人練習",
       "subtitle": "領域內微判斷",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:40",
       "briefing": {
         "paragraphs": [
           "《眨眼之間》「個人練習」——領域內微判斷。重點：用日誌訓練眨眼。",
@@ -1531,7 +1531,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同七日行動",
       "audio": "audio/ch09.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:39",
       "briefing": {
         "paragraphs": [
           "總結《眨眼之間》主線：快速直覺可以好準，亦可以好偏；關鍵係訓練同情境。",

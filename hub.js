@@ -173,7 +173,7 @@
     {"href": "books/range/", "title": "範圍", "author": "David Epstein", "track": "習慣 · 思維 · 科普", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c1", "mark": "範"},
     {"href": "books/outliers/", "title": "異數", "author": "Malcolm Gladwell", "track": "習慣 · 思維 · 科普", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c2", "mark": "異"},
     {"href": "books/tipping-point/", "title": "引爆趨勢", "author": "Malcolm Gladwell", "track": "習慣 · 思維 · 科普", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c3", "mark": "爆"},
-    {"href": "books/blink/", "title": "眨眼之間", "author": "Malcolm Gladwell", "track": "習慣 · 思維 · 科普", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c4", "mark": "眨"},
+    {"href": "books/blink/", "title": "眨眼之間", "author": "Malcolm Gladwell", "track": "習慣 · 思維 · 科普", "duration": "約 18 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "眨", "voice": "minimax"},
     {"href": "books/talking-to-strangers/", "title": "說陌生人", "author": "Malcolm Gladwell", "track": "習慣 · 思維 · 科普", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c5", "mark": "陌"},
     {"href": "books/nonviolent-communication/", "title": "非暴力溝通", "author": "Marshall B. Rosenberg", "track": "習慣 · 思維 · 科普", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "非"},
     {"href": "books/influence/", "title": "影響力", "author": "Robert B. Cialdini", "track": "習慣 · 思維 · 科普", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c1", "mark": "影"},
