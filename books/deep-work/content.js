@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "開場同地圖",
       "subtitle": "在分心世界，深度專注係稀缺生產力同意義來源。",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:00",
+      "audioDur": "2:36",
       "briefing": {
         "paragraphs": [
           "開場地圖：在分心世界，深度專注係稀缺生產力同意義來源。作者Cal Newport。呢本帶讀唔抄原文，用粵語演繹框架。",
@@ -179,7 +179,7 @@ window.DUSHU_BOOK = {
       "title": "深度定義",
       "subtitle": "無干擾認知高要求",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:48",
       "briefing": {
         "paragraphs": [
           "《深度工作》「深度定義」——無幹擾認知高要求。重點：淺工作填滿日曆但創造少。",
@@ -348,7 +348,7 @@ window.DUSHU_BOOK = {
       "title": "為何現在值钱",
       "subtitle": "稀缺＋可創造新價值",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:46",
       "briefing": {
         "paragraphs": [
           "《深度工作》「為何現在值錢」——稀缺＋可創造新價值。重點：會深度嘅人拉開距離。",
@@ -517,7 +517,7 @@ window.DUSHU_BOOK = {
       "title": "哲學選擇",
       "subtitle": "修道、雙峰、節奏、新聞",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《深度工作》「哲學選擇」——修道、雙峯、節奏、新聞。重點：揀可執行哲學。",
@@ -686,7 +686,7 @@ window.DUSHU_BOOK = {
       "title": "儀式",
       "subtitle": "地點時間規則",
       "audio": "audio/ch04.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:41",
       "briefing": {
         "paragraphs": [
           "《深度工作》「儀式」——地點時間規則。重點：儀式減少啟動摩擦。",
@@ -855,7 +855,7 @@ window.DUSHU_BOOK = {
       "title": "拒絕分心",
       "subtitle": "網絡選擇工具化",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:39",
       "briefing": {
         "paragraphs": [
           "《深度工作》「拒絕分心」——網絡選擇工具化。重點：等無聊能力要練。",
@@ -1024,7 +1024,7 @@ window.DUSHU_BOOK = {
       "title": "深度指標",
       "subtitle": "每週深度時數",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《深度工作》「深度指標」——每週深度時數。重點：冇指標就會被淺工作喫掉。",
@@ -1193,7 +1193,7 @@ window.DUSHU_BOOK = {
       "title": "職場現實",
       "subtitle": "電郵文化突圍",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:42",
       "briefing": {
         "paragraphs": [
           "《深度工作》「職場現實」——電郵文化突圍。重點：溝通期望可以重設。",
@@ -1362,7 +1362,7 @@ window.DUSHU_BOOK = {
       "title": "三十日",
       "subtitle": "每日九十份鐘",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:39",
       "briefing": {
         "paragraphs": [
           "《深度工作》「三十日」——每日九十份鐘。重點：先證明自己做得到。",
@@ -1531,7 +1531,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同七日行動",
       "audio": "audio/ch09.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:37",
       "briefing": {
         "paragraphs": [
           "總結《深度工作》主線：在分心世界，深度專注係稀缺生產力同意義來源。",
