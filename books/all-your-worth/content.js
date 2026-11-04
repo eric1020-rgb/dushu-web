@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "開場同地圖",
       "subtitle": "用必須／想要／儲蓄三分法穩住中產生活。",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:00",
+      "audioDur": "2:24",
       "briefing": {
         "paragraphs": [
           "開場地圖：用必須／想要／儲蓄三分法穩住中產生活。作者Elizabeth Warren / Amelia Warren Tyagi。呢本帶讀唔抄原文，用粵語演繹框架。",
@@ -179,7 +179,7 @@ window.DUSHU_BOOK = {
       "title": "金錢崩潰",
       "subtitle": "中產點解仍然慌",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:47",
       "briefing": {
         "paragraphs": [
           "《你的全部身家（暫譯）》「金錢崩潰」——中產點解仍然慌。重點：表面風光可以好脆弱。",
@@ -348,7 +348,7 @@ window.DUSHU_BOOK = {
       "title": "必須開支",
       "subtitle": "先鎖住上限",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:46",
       "briefing": {
         "paragraphs": [
           "《你的全部身家（暫譯）》「必須開支」——先鎖住上限。重點：必須項太高，其他全死。",
@@ -517,7 +517,7 @@ window.DUSHU_BOOK = {
       "title": "想要開支",
       "subtitle": "有罪惡感都要有位",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:47",
       "briefing": {
         "paragraphs": [
           "《你的全部身家（暫譯）》「想要開支」——有罪惡感都要有位。重點：完全禁慾通常反彈。",
@@ -686,7 +686,7 @@ window.DUSHU_BOOK = {
       "title": "儲蓄同償債",
       "subtitle": "未來同安全",
       "audio": "audio/ch04.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:43",
       "briefing": {
         "paragraphs": [
           "《你的全部身家（暫譯）》「儲蓄同償債」——未來同安全。重點：呢格唔可視為可有可無。",
@@ -855,7 +855,7 @@ window.DUSHU_BOOK = {
       "title": "平衡公式",
       "subtitle": "大致比例意識",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《你的全部身家（暫譯）》「平衡公式」——大致比例意識。重點：比例係指南針，唔係宗教。",
@@ -1024,7 +1024,7 @@ window.DUSHU_BOOK = {
       "title": "雙薪風險",
       "subtitle": "兩份工仍然脆",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:48",
       "briefing": {
         "paragraphs": [
           "《你的全部身家（暫譯）》「雙薪風險」——兩份工仍然脆。重點：一人收入要頂得住必需。",
@@ -1193,7 +1193,7 @@ window.DUSHU_BOOK = {
       "title": "談判同選擇",
       "subtitle": "大項決策",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《你的全部身家（暫譯）》「談判同選擇」——大項決策。重點：大項決定平衡成敗。",
@@ -1362,7 +1362,7 @@ window.DUSHU_BOOK = {
       "title": "重建步驟",
       "subtitle": "由必須項開刀",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:43",
       "briefing": {
         "paragraphs": [
           "《你的全部身家（暫譯）》「重建步驟」——由必須項開刀。重點：先令必須項降到可呼吸。",
@@ -1531,7 +1531,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同七日行動",
       "audio": "audio/ch09.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:41",
       "briefing": {
         "paragraphs": [
           "總結《你的全部身家（暫譯）》主線：用必須／想要／儲蓄三分法穩住中產生活。",

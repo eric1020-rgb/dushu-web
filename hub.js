@@ -152,7 +152,7 @@
     {"href": "books/why-smart-money-mistakes/", "title": "為什麼聰明人會做愚蠢的投資", "author": "Gary Belsky / Thomas Gilovich", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c4", "mark": "蠢"},
     {"href": "books/dollars-and-sense/", "title": "金錢有意識（暫譯）", "author": "Dan Ariely / Jeff Kreisler", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c5", "mark": "識"},
     {"href": "books/e-myth-revisited/", "title": "艾蜜思回歸", "author": "Michael E. Gerber", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "艾"},
-    {"href": "books/all-your-worth/", "title": "你的全部身家（暫譯）", "author": "Elizabeth Warren / Amelia Warren Tyagi", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c1", "mark": "身"},
+    {"href": "books/all-your-worth/", "title": "你的全部身家（暫譯）", "author": "Elizabeth Warren / Amelia Warren Tyagi", "track": "金錢習慣 · 心態", "duration": "約 18 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "身", "voice": "minimax"},
     {"href": "books/how-to-get-rich-dennis/", "title": "如何致富（暫譯）", "author": "Felix Dennis", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c2", "mark": "富"},
     {"href": "books/atomic-habits/", "title": "原子習慣", "author": "James Clear", "track": "習慣 · 思維 · 科普", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c3", "mark": "原"},
     {"href": "books/power-of-habit/", "title": "習慣的力量", "author": "Charles Duhigg", "track": "習慣 · 思維 · 科普", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c4", "mark": "力"},
