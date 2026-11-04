@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "開場同地圖",
       "subtitle": "用年輕人口吻講清預算、債、投資起步同心理障礙。",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:00",
+      "audioDur": "2:30",
       "briefing": {
         "paragraphs": [
           "開場地圖：用年輕人口吻講清預算、債、投資起步同心理障礙。作者Erin Lowry。呢本帶讀唔抄原文，用粵語演繹框架。",
@@ -179,7 +179,7 @@ window.DUSHU_BOOK = {
       "title": "面對數字",
       "subtitle": "唔驚睇帳戶",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:48",
       "briefing": {
         "paragraphs": [
           "《破產千禧世代（暫譯）》「面對數字」——唔驚睇帳戶。重點：迴避帳戶只會令焦慮更大。",
@@ -348,7 +348,7 @@ window.DUSHU_BOOK = {
       "title": "預算現實版",
       "subtitle": "唔使完美表格",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:47",
       "briefing": {
         "paragraphs": [
           "《破產千禧世代（暫譯）》「預算現實版」——唔使完美表格。重點：預算係給自由，唔係坐牢。",
@@ -517,7 +517,7 @@ window.DUSHU_BOOK = {
       "title": "學生債同卡債",
       "subtitle": "優先序",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:47",
       "briefing": {
         "paragraphs": [
           "《破產千禧世代（暫譯）》「學生債同卡債」——優先序。重點：先搞高息，再搞情緒債。",
@@ -686,7 +686,7 @@ window.DUSHU_BOOK = {
       "title": "成年人里程碑",
       "subtitle": "唔比較人生時間表",
       "audio": "audio/ch04.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:48",
       "briefing": {
         "paragraphs": [
           "《破產千禧世代（暫譯）》「成年人里程碑」——唔比較人生時間表。重點：別人高光唔係你嘅期限。",
@@ -855,7 +855,7 @@ window.DUSHU_BOOK = {
       "title": "投資恐懼",
       "subtitle": "由細額開始",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:41",
       "briefing": {
         "paragraphs": [
           "《破產千禧世代（暫譯）》「投資恐懼」——由細額開始。重點：唔投資嘅風險亦真實。",
@@ -1024,7 +1024,7 @@ window.DUSHU_BOOK = {
       "title": "伴侶金錢",
       "subtitle": "早談準則",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《破產千禧世代（暫譯）》「伴侶金錢」——早談準則。重點：唔談錢嘅關係好易爆。",
@@ -1193,7 +1193,7 @@ window.DUSHU_BOOK = {
       "title": "加薪同跳槽",
       "subtitle": "收入槓桿",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:46",
       "briefing": {
         "paragraphs": [
           "《破產千禧世代（暫譯）》「加薪同跳槽」——收入槓桿。重點：年輕時收入成長往往勝微優化咖啡。",
@@ -1362,7 +1362,7 @@ window.DUSHU_BOOK = {
       "title": "緊急基金迷你版",
       "subtitle": "先建小緩衝",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:42",
       "briefing": {
         "paragraphs": [
           "《破產千禧世代（暫譯）》「緊急基金迷你版」——先建小緩衝。重點：細緩衝都改變決策品質。",
@@ -1531,7 +1531,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同七日行動",
       "audio": "audio/ch09.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:41",
       "briefing": {
         "paragraphs": [
           "總結《破產千禧世代（暫譯）》主線：用年輕人口吻講清預算、債、投資起步同心理障礙。",
