@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "開場同地圖",
       "subtitle": "智能電話＋過度保護，重塑童年同青少年心理健康。",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:00",
+      "audioDur": "2:29",
       "briefing": {
         "paragraphs": [
           "開場地圖：智能電話＋過度保護，重塑童年同青少年心理健康。作者Jonathan Haidt。呢本帶讀唔抄原文，用粵語演繹框架。",
@@ -179,7 +179,7 @@ window.DUSHU_BOOK = {
       "title": "兩大轉變",
       "subtitle": "手機童年同安全主義",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:46",
       "briefing": {
         "paragraphs": [
           "《焦慮的一代》「兩大轉變」——手機童年同安全主義。重點：童年結構變咗。",
@@ -348,7 +348,7 @@ window.DUSHU_BOOK = {
       "title": "社交媒體機制",
       "subtitle": "比較同表演",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《焦慮的一代》「社交媒體機制」——比較同表演。重點：平臺唔係中性工具。",
@@ -517,7 +517,7 @@ window.DUSHU_BOOK = {
       "title": "遊戲化現實",
       "subtitle": "男仔路徑差異",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《焦慮的一代》「遊戲化現實」——男仔路徑差異。重點：唔同性別平均路徑有別。",
@@ -686,7 +686,7 @@ window.DUSHU_BOOK = {
       "title": "玩鬧缺失",
       "subtitle": "反脆弱需要風險",
       "audio": "audio/ch04.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:43",
       "briefing": {
         "paragraphs": [
           "《焦慮的一代》「玩鬧缺失」——反脆弱需要風險。重點：過度保護削弱抗挫。",
@@ -855,7 +855,7 @@ window.DUSHU_BOOK = {
       "title": "敏感期",
       "subtitle": "青春期大腦",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:41",
       "briefing": {
         "paragraphs": [
           "《焦慮的一代》「敏感期」——青春期大腦。重點：呢段時期更易受平臺傷害。",
@@ -1024,7 +1024,7 @@ window.DUSHU_BOOK = {
       "title": "集體行動",
       "subtitle": "學校同家長同盟",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《焦慮的一代》「集體行動」——學校同家長同盟。重點：一人難敵網絡效應。",
@@ -1193,7 +1193,7 @@ window.DUSHU_BOOK = {
       "title": "成人責任",
       "subtitle": "自己示範",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:41",
       "briefing": {
         "paragraphs": [
           "《焦慮的一代》「成人責任」——自己示範。重點：禁止卻自己刷會失效。",
@@ -1362,7 +1362,7 @@ window.DUSHU_BOOK = {
       "title": "可行起點",
       "subtitle": "四條規範",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:40",
       "briefing": {
         "paragraphs": [
           "《焦慮的一代》「可行起點」——四條規範。重點：由一條規範開始執行。",
@@ -1531,7 +1531,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同七日行動",
       "audio": "audio/ch09.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:39",
       "briefing": {
         "paragraphs": [
           "總結《焦慮的一代》主線：智能電話＋過度保護，重塑童年同青少年心理健康。",
