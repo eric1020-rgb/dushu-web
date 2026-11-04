@@ -185,7 +185,7 @@
     {"href": "books/getting-to-yes/", "title": "談判力", "author": "Roger Fisher / William Ury", "track": "習慣 · 思維 · 科普", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c1", "mark": "則"},
     {"href": "books/start-with-why/", "title": "從為什麼開始", "author": "Simon Sinek", "track": "習慣 · 思維 · 科普", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c2", "mark": "為"},
     {"href": "books/leaders-eat-last/", "title": "領導者的養成", "author": "Simon Sinek", "track": "習慣 · 思維 · 科普", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c3", "mark": "領"},
-    {"href": "books/drive/", "title": "動機", "author": "Daniel H. Pink", "track": "習慣 · 思維 · 科普", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c4", "mark": "機"},
+    {"href": "books/drive/", "title": "動機", "author": "Daniel H. Pink", "track": "習慣 · 思維 · 科普", "duration": "約 18 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "機", "voice": "minimax"},
     {"href": "books/quiet/", "title": "安靜", "author": "Susan Cain", "track": "習慣 · 思維 · 科普", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c5", "mark": "靜"},
     {"href": "books/giving-tree-style-givers/", "title": "給予者", "author": "Adam Grant", "track": "習慣 · 思維 · 科普", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "予"},
     {"href": "books/originals/", "title": "離經叛道", "author": "Adam Grant", "track": "習慣 · 思維 · 科普", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c1", "mark": "原"},

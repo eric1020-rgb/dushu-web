@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "開場同地圖",
       "subtitle": "自主、精進、目的——內在動機勝過胡蘿蔔大棒。",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:00",
+      "audioDur": "2:36",
       "briefing": {
         "paragraphs": [
           "開場地圖：自主、精進、目的——內在動機勝過胡蘿蔔大棒。作者Daniel H. Pink。呢本帶讀唔抄原文，用粵語演繹框架。",
@@ -179,7 +179,7 @@ window.DUSHU_BOOK = {
       "title": "外在獎勵極限",
       "subtitle": "簡單任務得、創意任務傷",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:48",
       "briefing": {
         "paragraphs": [
           "《動機》「外在獎勵極限」——簡單任務得、創意任務傷。重點：錢可以係地板，唔係天花。",
@@ -348,7 +348,7 @@ window.DUSHU_BOOK = {
       "title": "自主",
       "subtitle": "何時做、做咩、點做、同誰",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:48",
       "briefing": {
         "paragraphs": [
           "《動機》「自主」——何時做、做咩、點做、同誰。重點：控制換服從，自主換投入。",
@@ -517,7 +517,7 @@ window.DUSHU_BOOK = {
       "title": "精進",
       "subtitle": "想越來越好",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:43",
       "briefing": {
         "paragraphs": [
           "《動機》「精進」——想越來越好。重點：精進係長期燃料。",
@@ -686,7 +686,7 @@ window.DUSHU_BOOK = {
       "title": "目的",
       "subtitle": "超越自己",
       "audio": "audio/ch04.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:40",
       "briefing": {
         "paragraphs": [
           "《動機》「目的」——超越自己。重點：目的令辛苦值得。",
@@ -855,7 +855,7 @@ window.DUSHU_BOOK = {
       "title": "Type I 文化",
       "subtitle": "組織點樣改獎賞",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:43",
       "briefing": {
         "paragraphs": [
           "《動機》「Type I 文化」——組織點樣改獎賞。重點：制度要配內在動機。",
@@ -1024,7 +1024,7 @@ window.DUSHU_BOOK = {
       "title": "教育應用",
       "subtitle": "成績之外",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:43",
       "briefing": {
         "paragraphs": [
           "《動機》「教育應用」——成績之外。重點：分數唔係唯一引擎。",
@@ -1193,7 +1193,7 @@ window.DUSHU_BOOK = {
       "title": "個人診斷",
       "subtitle": "工作三元素分數",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:40",
       "briefing": {
         "paragraphs": [
           "《動機》「個人診斷」——工作三元素分數。重點：邊項最低就先補。",
@@ -1362,7 +1362,7 @@ window.DUSHU_BOOK = {
       "title": "實驗",
       "subtitle": "兩週提高自主",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:41",
       "briefing": {
         "paragraphs": [
           "《動機》「實驗」——兩週提高自主。重點：細實驗證明動機理論。",
@@ -1531,7 +1531,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同七日行動",
       "audio": "audio/ch09.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:34",
       "briefing": {
         "paragraphs": [
           "總結《動機》主線：自主、精進、目的——內在動機勝過胡蘿蔔大棒。",
