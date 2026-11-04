@@ -117,7 +117,7 @@
     {"href": "books/financial-freedom-schaefer/", "title": "財務自由之路（薛佛）", "author": "Bodo Schäfer", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c5", "mark": "自"},
     {"href": "books/happy-money-honda/", "title": "金錢療癒", "author": "Ken Honda", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "癒"},
     {"href": "books/happy-money-dunn/", "title": "快樂金錢：花錢的幸福科學", "author": "Elizabeth Dunn / Michael Norton", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c1", "mark": "樂"},
-    {"href": "books/automatic-millionaire/", "title": "自動成為百萬富翁", "author": "David Bach", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c2", "mark": "自"},
+    {"href": "books/automatic-millionaire/", "title": "自動成為百萬富翁", "author": "David Bach", "track": "金錢習慣 · 心態", "duration": "約 18 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "自", "voice": "minimax"},
     {"href": "books/multiple-streams-income/", "title": "多重收入", "author": "Robert G. Allen", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c3", "mark": "多"},
     {"href": "books/just-keep-buying/", "title": "持續買進", "author": "Nick Maggiulli", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c4", "mark": "買"},
     {"href": "books/same-as-ever/", "title": "一如既往", "author": "Morgan Housel", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c5", "mark": "如"},

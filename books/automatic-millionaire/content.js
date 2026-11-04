@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "開場同地圖",
       "subtitle": "自動化先於意志力：先支付自己，令致富變預設。",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:00",
+      "audioDur": "2:25",
       "briefing": {
         "paragraphs": [
           "開場地圖：自動化先於意志力：先支付自己，令致富變預設。作者David Bach。呢本帶讀唔抄原文，用粵語演繹框架。",
@@ -179,7 +179,7 @@ window.DUSHU_BOOK = {
       "title": "先支付自己",
       "subtitle": "出糧日自動轉走",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:46",
       "briefing": {
         "paragraphs": [
           "《自動成為百萬富翁》「先支付自己」——出糧日自動轉走。重點：唔好指望月底仲有剩。",
@@ -348,7 +348,7 @@ window.DUSHU_BOOK = {
       "title": "拿鐵因子",
       "subtitle": "小額漏損好大",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:46",
       "briefing": {
         "paragraphs": [
           "《自動成為百萬富翁》「拿鐵因子」——小額漏損好大。重點：小錢日日流，一年好驚人。",
@@ -517,7 +517,7 @@ window.DUSHU_BOOK = {
       "title": "住屋策略",
       "subtitle": "可負擔先於面子",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:48",
       "briefing": {
         "paragraphs": [
           "《自動成為百萬富翁》「住屋策略」——可負擔先於面子。重點：屋係工具；供到喘不過氣就變枷鎖。",
@@ -686,7 +686,7 @@ window.DUSHU_BOOK = {
       "title": "退休帳戶",
       "subtitle": "用足制度優勢",
       "audio": "audio/ch04.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《自動成為百萬富翁》「退休帳戶」——用足制度優勢。重點：公司配對等於免費加薪，唔好留低。",
@@ -855,7 +855,7 @@ window.DUSHU_BOOK = {
       "title": "還債自動化",
       "subtitle": "同儲蓄並行",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《自動成為百萬富翁》「還債自動化」——同儲蓄並行。重點：自動化還債減少拖延同忘記。",
@@ -1024,7 +1024,7 @@ window.DUSHU_BOOK = {
       "title": "應急基金",
       "subtitle": "防被迫賣資產",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:47",
       "briefing": {
         "paragraphs": [
           "《自動成為百萬富翁》「應急基金」——防被迫賣資產。重點：緩衝令你唔使喺最差時候斬倉。",
@@ -1193,7 +1193,7 @@ window.DUSHU_BOOK = {
       "title": "捐贈同意義",
       "subtitle": "自動做好事",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:43",
       "briefing": {
         "paragraphs": [
           "《自動成為百萬富翁》「捐贈同意義」——自動做好事。重點：自動捐一細比例，令給予穩定。",
@@ -1362,7 +1362,7 @@ window.DUSHU_BOOK = {
       "title": "一頁計劃",
       "subtitle": "簡單到會做",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:42",
       "briefing": {
         "paragraphs": [
           "《自動成為百萬富翁》「一頁計劃」——簡單到會做。重點：複雜計劃執行率低；一頁先勝。",
@@ -1531,7 +1531,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同七日行動",
       "audio": "audio/ch09.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:39",
       "briefing": {
         "paragraphs": [
           "總結《自動成為百萬富翁》主線：自動化先於意志力：先支付自己，令致富變預設。",
