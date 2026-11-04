@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "開場同地圖",
       "subtitle": "科技要用得少而精：價值驅動，而唔係預設全開。",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:00",
+      "audioDur": "2:26",
       "briefing": {
         "paragraphs": [
           "開場地圖：科技要用得少而精：價值驅動，而唔係預設全開。作者Cal Newport。呢本帶讀唔抄原文，用粵語演繹框架。",
@@ -179,7 +179,7 @@ window.DUSHU_BOOK = {
       "title": "極簡哲學",
       "subtitle": "科技服務價值",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《數字極簡主義》「極簡哲學」——科技服務價值。重點：預設安裝唔係預設使用。",
@@ -348,7 +348,7 @@ window.DUSHU_BOOK = {
       "title": "三十日斷捨",
       "subtitle": "重置注意力",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《數字極簡主義》「三十日斷捨」——重置注意力。重點：先清空再精準加回。",
@@ -517,7 +517,7 @@ window.DUSHU_BOOK = {
       "title": "高質量休閒",
       "subtitle": "用技能性活動填洞",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《數字極簡主義》「高質量休閒」——用技能性活動填洞。重點：冇替代，舊應用會迴流。",
@@ -686,7 +686,7 @@ window.DUSHU_BOOK = {
       "title": "電話規則",
       "subtitle": "工具唔係基地",
       "audio": "audio/ch04.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:43",
       "briefing": {
         "paragraphs": [
           "《數字極簡主義》「電話規則」——工具唔係基地。重點：設備設計要服從你。",
@@ -855,7 +855,7 @@ window.DUSHU_BOOK = {
       "title": "社交媒體角色",
       "subtitle": "專業工具化",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《數字極簡主義》「社交媒體角色」——專業工具化。重點：無限瀏覽換成任務進出。",
@@ -1024,7 +1024,7 @@ window.DUSHU_BOOK = {
       "title": "孤獨能力",
       "subtitle": "獨處思考",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:42",
       "briefing": {
         "paragraphs": [
           "《數字極簡主義》「孤獨能力」——獨處思考。重點：孤獨係清晰來源。",
@@ -1193,7 +1193,7 @@ window.DUSHU_BOOK = {
       "title": "家庭協議",
       "subtitle": "共同數字規則",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:43",
       "briefing": {
         "paragraphs": [
           "《數字極簡主義》「家庭協議」——共同數字規則。重點：一人極簡難敵全家刷。",
@@ -1362,7 +1362,7 @@ window.DUSHU_BOOK = {
       "title": "重引入標準",
       "subtitle": "只留高價值",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:43",
       "briefing": {
         "paragraphs": [
           "《數字極簡主義》「重引入標準」——只留偏高嘅價值。重點：三條門檻過關先留。",
@@ -1531,7 +1531,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同七日行動",
       "audio": "audio/ch09.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:38",
       "briefing": {
         "paragraphs": [
           "總結《數字極簡主義》主線：科技要用得少而精：價值驅動，而唔係預設全開。",
