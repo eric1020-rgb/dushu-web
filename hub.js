@@ -109,7 +109,7 @@
     {"href": "books/next-millionaire-next-door/", "title": "下一個住在你家隔壁的百萬富翁", "author": "Thomas J. Stanley / Sarah Stanley Fallaw", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c3", "mark": "鄰"},
     {"href": "books/what-rich-know/", "title": "有錢人在乎的和你不一樣", "author": "Keith Cameron Smith", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c4", "mark": "在"},
     {"href": "books/rich-habits/", "title": "習慣致富", "author": "Thomas C. Corley", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c5", "mark": "習"},
-    {"href": "books/change-habits-change-life/", "title": "改變習慣，改變人生（暫譯）", "author": "Thomas C. Corley", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "改"},
+    {"href": "books/change-habits-change-life/", "title": "改變習慣，改變人生（暫譯）", "author": "Thomas C. Corley", "track": "金錢習慣 · 心態", "duration": "約 18 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "改", "voice": "minimax"},
     {"href": "books/richest-man-babylon/", "title": "巴比倫富翁的理財課", "author": "George S. Clason", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c1", "mark": "巴"},
     {"href": "books/think-grow-rich/", "title": "思考致富", "author": "Napoleon Hill", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c2", "mark": "思"},
     {"href": "books/science-getting-rich/", "title": "致富的科學", "author": "Wallace D. Wattles", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c3", "mark": "科"},

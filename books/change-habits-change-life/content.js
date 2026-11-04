@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "開場同地圖",
       "subtitle": "改命唔靠靈感，靠系統性替換壞習慣。",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:00",
+      "audioDur": "2:25",
       "briefing": {
         "paragraphs": [
           "開場地圖：改命唔靠靈感，靠系統性替換壞習慣。作者Thomas C. Corley。呢本帶讀唔抄原文，用粵語演繹框架。",
@@ -179,7 +179,7 @@ window.DUSHU_BOOK = {
       "title": "習慣架構",
       "subtitle": "觸發→行為→獎勵",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:52",
       "briefing": {
         "paragraphs": [
           "《改變習慣，改變人生（暫譯）》「習慣架構」——觸發→行為→獎勵。重點：睇清壞習慣迴路，先搵到替換位。",
@@ -348,7 +348,7 @@ window.DUSHU_BOOK = {
       "title": "替換策略",
       "subtitle": "壓抑易反彈",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:48",
       "briefing": {
         "paragraphs": [
           "《改變習慣，改變人生（暫譯）》「替換策略」——壓抑易反彈。重點：用更好行為佔同一個獎勵位。",
@@ -517,7 +517,7 @@ window.DUSHU_BOOK = {
       "title": "環境設計",
       "subtitle": "令好行為更容易",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:50",
       "briefing": {
         "paragraphs": [
           "《改變習慣，改變人生（暫譯）》「環境設計」——令好行為更容易。重點：意志力有限；環境先係長期方案。",
@@ -686,7 +686,7 @@ window.DUSHU_BOOK = {
       "title": "身份切換",
       "subtitle": "我係會…嘅人",
       "audio": "audio/ch04.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《改變習慣，改變人生（暫譯）》「身份切換」——我係會…嘅人。重點：用小證據餵新身份。",
@@ -855,7 +855,7 @@ window.DUSHU_BOOK = {
       "title": "社交槓桿",
       "subtitle": "同儕壓力正向用",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:42",
       "briefing": {
         "paragraphs": [
           "《改變習慣，改變人生（暫譯）》「社交槓桿」——同儕壓力正向用。重點：問責提升執行率。",
@@ -1024,7 +1024,7 @@ window.DUSHU_BOOK = {
       "title": "復發處理",
       "subtitle": "跌親唔等於完",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:46",
       "briefing": {
         "paragraphs": [
           "《改變習慣，改變人生（暫譯）》「復發處理」——跌親唔等於完。重點：計劃要包括點樣返場。",
@@ -1193,7 +1193,7 @@ window.DUSHU_BOOK = {
       "title": "財富習慣深化",
       "subtitle": "連去現金流",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《改變習慣，改變人生（暫譯）》「財富習慣深化」——連去現金流。重點：改習慣最終要連資產欄。",
@@ -1362,7 +1362,7 @@ window.DUSHU_BOOK = {
       "title": "九十日節奏",
       "subtitle": "一季一主題",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《改變習慣，改變人生（暫譯）》「九十日節奏」——一季一主題。重點：季度主題聚焦，避免清單過長。",
@@ -1531,7 +1531,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同七日行動",
       "audio": "audio/ch09.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:40",
       "briefing": {
         "paragraphs": [
           "總結《改變習慣，改變人生（暫譯）》主線：改命唔靠靈感，靠系統性替換壞習慣。",
