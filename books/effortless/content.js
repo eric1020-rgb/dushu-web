@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "開場同地圖",
       "subtitle": "當努力過度，改為輕省：心態、流程、結果簡化。",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:00",
+      "audioDur": "2:34",
       "briefing": {
         "paragraphs": [
           "開場地圖：當努力過度，改為輕省：心態、流程、結果簡化。作者Greg McKeown。呢本帶讀唔抄原文，用粵語演繹框架。",
@@ -179,7 +179,7 @@ window.DUSHU_BOOK = {
       "title": "努力過度",
       "subtitle": "越用力越慢",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《輕鬆的力量》「努力過度」——越用力越慢。重點：努力唔等於有效。",
@@ -348,7 +348,7 @@ window.DUSHU_BOOK = {
       "title": "輕鬆心態",
       "subtitle": "清晰、釋放、休息",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:46",
       "briefing": {
         "paragraphs": [
           "《輕鬆的力量》「輕鬆心態」——清晰、釋放、休息。重點：心態重先有輕執行。",
@@ -517,7 +517,7 @@ window.DUSHU_BOOK = {
       "title": "輕鬆行動",
       "subtitle": "簡化步驟",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:43",
       "briefing": {
         "paragraphs": [
           "《輕鬆的力量》「輕鬆行動」——簡化步驟。重點：完成多過完美。",
@@ -686,7 +686,7 @@ window.DUSHU_BOOK = {
       "title": "輕鬆結果",
       "subtitle": "一次建系統",
       "audio": "audio/ch04.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:42",
       "briefing": {
         "paragraphs": [
           "《輕鬆的力量》「輕鬆結果」——一次建系統。重點：避免每次由零開始。",
@@ -855,7 +855,7 @@ window.DUSHU_BOOK = {
       "title": "預防重做",
       "subtitle": "一開始做對",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:39",
       "briefing": {
         "paragraphs": [
           "《輕鬆的力量》「預防重做」——一開始做對。重點：返工最重。",
@@ -1024,7 +1024,7 @@ window.DUSHU_BOOK = {
       "title": "信任微步",
       "subtitle": "關係減摩擦",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:43",
       "briefing": {
         "paragraphs": [
           "《輕鬆的力量》「信任微步」——關係減摩擦。重點：信任令協作變輕。",
@@ -1193,7 +1193,7 @@ window.DUSHU_BOOK = {
       "title": "節奏",
       "subtitle": "可持續步速",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:43",
       "briefing": {
         "paragraphs": [
           "《輕鬆的力量》「節奏」——可持續步速。重點：衝刺唔係常態。",
@@ -1362,7 +1362,7 @@ window.DUSHU_BOOK = {
       "title": "今日一輕",
       "subtitle": "刪一步驟",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:41",
       "briefing": {
         "paragraphs": [
           "《輕鬆的力量》「今日一輕」——刪一步驟。重點：每日令系統輕一點。",
@@ -1531,7 +1531,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同七日行動",
       "audio": "audio/ch09.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:37",
       "briefing": {
         "paragraphs": [
           "總結《輕鬆的力量》主線：當努力過度，改為輕省：心態、流程、結果簡化。",
