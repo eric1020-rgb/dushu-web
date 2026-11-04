@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "開場同地圖",
       "subtitle": "過度消費像流行病：負債、時間貧同地球代價。",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:00",
+      "audioDur": "2:42",
       "briefing": {
         "paragraphs": [
           "開場地圖：過度消費像流行病：負債、時間貧同地球代價。作者John de Graaf 等。呢本帶讀唔抄原文，用粵語演繹框架。",
@@ -179,7 +179,7 @@ window.DUSHU_BOOK = {
       "title": "症狀清單",
       "subtitle": "邊度中招",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:47",
       "briefing": {
         "paragraphs": [
           "《富足病（暫譯）》「症狀清單」——邊度中招。重點：先診斷自己有幾多富足病症狀。",
@@ -348,7 +348,7 @@ window.DUSHU_BOOK = {
       "title": "比較引擎",
       "subtitle": "廣告同身分焦慮",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:49",
       "briefing": {
         "paragraphs": [
           "《富足病（暫譯）》「比較引擎」——廣告同身分焦慮。重點：身分焦慮被商業精準餵養。",
@@ -517,7 +517,7 @@ window.DUSHU_BOOK = {
       "title": "債務燃料",
       "subtitle": "用未來換現在",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:46",
       "briefing": {
         "paragraphs": [
           "《富足病（暫譯）》「債務燃料」——用未來換現在。重點：無計劃負債係病徵亦係加速器。",
@@ -686,7 +686,7 @@ window.DUSHU_BOOK = {
       "title": "時間貧窮",
       "subtitle": "嘢多但冇命玩",
       "audio": "audio/ch04.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:43",
       "briefing": {
         "paragraphs": [
           "《富足病（暫譯）》「時間貧窮」——嘢多但冇命玩。重點：物件要維護；嘢越多越忙。",
@@ -855,7 +855,7 @@ window.DUSHU_BOOK = {
       "title": "孩子中招",
       "subtitle": "消費教育缺口",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《富足病（暫譯）》「孩子中招」——消費教育缺口。重點：細路最先學消費，未必學節制。",
@@ -1024,7 +1024,7 @@ window.DUSHU_BOOK = {
       "title": "環境帳單",
       "subtitle": "最終邊個俾",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:47",
       "briefing": {
         "paragraphs": [
           "《富足病（暫譯）》「環境帳單」——最終邊個俾。重點：偏低嘅價背後可能有未計成本。",
@@ -1193,7 +1193,7 @@ window.DUSHU_BOOK = {
       "title": "治療方向",
       "subtitle": "自願簡樸同社群",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:47",
       "briefing": {
         "paragraphs": [
           "《富足病（暫譯）》「治療方向」——自願簡樸同社羣。重點：治療係生活方式，唔係週末靈感。",
@@ -1362,7 +1362,7 @@ window.DUSHU_BOOK = {
       "title": "個人處方",
       "subtitle": "三十日消費斷食",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《富足病（暫譯）》「個人處方」——三十日消費斷食。重點：短斷食睇清邊啲消費係真需要。",
@@ -1531,7 +1531,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同七日行動",
       "audio": "audio/ch09.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:38",
       "briefing": {
         "paragraphs": [
           "總結《富足病（暫譯）》主線：過度消費像流行病：負債、時間貧同地球代價。",
