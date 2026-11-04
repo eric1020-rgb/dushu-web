@@ -154,7 +154,7 @@
     {"href": "books/e-myth-revisited/", "title": "艾蜜思回歸", "author": "Michael E. Gerber", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "艾"},
     {"href": "books/all-your-worth/", "title": "你的全部身家（暫譯）", "author": "Elizabeth Warren / Amelia Warren Tyagi", "track": "金錢習慣 · 心態", "duration": "約 18 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "身", "voice": "minimax"},
     {"href": "books/how-to-get-rich-dennis/", "title": "如何致富（暫譯）", "author": "Felix Dennis", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c2", "mark": "富"},
-    {"href": "books/atomic-habits/", "title": "原子習慣", "author": "James Clear", "track": "習慣 · 思維 · 科普", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c3", "mark": "原"},
+    {"href": "books/atomic-habits/", "title": "原子習慣", "author": "James Clear", "track": "習慣 · 思維 · 科普", "duration": "約 18 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "原", "voice": "minimax"},
     {"href": "books/power-of-habit/", "title": "習慣的力量", "author": "Charles Duhigg", "track": "習慣 · 思維 · 科普", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c4", "mark": "力"},
     {"href": "books/mini-habits/", "title": "微習慣", "author": "Stephen Guise", "track": "習慣 · 思維 · 科普", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c5", "mark": "微"},
     {"href": "books/tiny-habits/", "title": "超強習慣術", "author": "BJ Fogg", "track": "習慣 · 思維 · 科普", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "超"},

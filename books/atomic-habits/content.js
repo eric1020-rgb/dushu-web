@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "開場同地圖",
       "subtitle": "用細習慣、身份同環境設計，令改變複利出現。",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:00",
+      "audioDur": "2:33",
       "briefing": {
         "paragraphs": [
           "開場地圖：用細習慣、身份同環境設計，令改變複利出現。作者James Clear。呢本帶讀唔抄原文，用粵語演繹框架。",
@@ -179,7 +179,7 @@ window.DUSHU_BOOK = {
       "title": "原子效應",
       "subtitle": "細改進嘅複利",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《原子習慣》「原子效應」——細改進嘅複利。重點：目標係結果；系統先係槓桿。",
@@ -348,7 +348,7 @@ window.DUSHU_BOOK = {
       "title": "身份習慣",
       "subtitle": "先成為某種人",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:47",
       "briefing": {
         "paragraphs": [
           "《原子習慣》「身份習慣」——先成為某種人。重點：每次細行動係替身份投票。",
@@ -517,7 +517,7 @@ window.DUSHU_BOOK = {
       "title": "四法則",
       "subtitle": "令好習慣明顯、吸引、易做、滿足",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《原子習慣》「四法則」——令好習慣明顯、吸引、易做、滿足。重點：改四個節點就改習慣。",
@@ -686,7 +686,7 @@ window.DUSHU_BOOK = {
       "title": "環境設計",
       "subtitle": "令好行為係預設",
       "audio": "audio/ch04.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:43",
       "briefing": {
         "paragraphs": [
           "《原子習慣》「環境設計」——令好行為係預設。重點：唔好只靠意志；改房間同手機。",
@@ -855,7 +855,7 @@ window.DUSHU_BOOK = {
       "title": "習慣疊加",
       "subtitle": "舊習慣做掛鉤",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《原子習慣》「習慣疊加」——舊習慣做掛鉤。重點：掛喺已穩定行為後面最好上。",
@@ -1024,7 +1024,7 @@ window.DUSHU_BOOK = {
       "title": "兩分鐘規則",
       "subtitle": "入門要細到唔好笑",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《原子習慣》「兩分鐘規則」——入門要細到唔好笑。重點：先出現，再優化。",
@@ -1193,7 +1193,7 @@ window.DUSHU_BOOK = {
       "title": "追蹤同問責",
       "subtitle": "令進步可見",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:42",
       "briefing": {
         "paragraphs": [
           "《原子習慣》「追蹤同問責」——令進步可見。重點：可見先維持。",
@@ -1362,7 +1362,7 @@ window.DUSHU_BOOK = {
       "title": "壞習慣反向",
       "subtitle": "令佢難、隱、掃興",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:42",
       "briefing": {
         "paragraphs": [
           "《原子習慣》「壞習慣反向」——令佢難、隱、掃興。重點：壓抑不如設計。",
@@ -1531,7 +1531,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同七日行動",
       "audio": "audio/ch09.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:36",
       "briefing": {
         "paragraphs": [
           "總結《原子習慣》主線：用細習慣、身份同環境設計，令改變複利出現。",
