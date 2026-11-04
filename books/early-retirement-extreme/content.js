@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "開場同地圖",
       "subtitle": "用極高儲蓄、技能同系統思維壓縮達到自由嘅時間。",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:00",
+      "audioDur": "2:30",
       "briefing": {
         "paragraphs": [
           "開場地圖：用極高儲蓄、技能同系統思維壓縮達到自由嘅時間。作者Jacob Lund Fisker。呢本帶讀唔抄原文，用粵語演繹框架。",
@@ -179,7 +179,7 @@ window.DUSHU_BOOK = {
       "title": "系統思維",
       "subtitle": "人生當系統優化",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:51",
       "briefing": {
         "paragraphs": [
           "《提早退休的極簡之路（暫譯）》「系統思維」——人生當系統優化。重點：睇現金流同技能存量，唔只睇月薪。",
@@ -348,7 +348,7 @@ window.DUSHU_BOOK = {
       "title": "極高儲蓄",
       "subtitle": "重新設計需求",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:49",
       "briefing": {
         "paragraphs": [
           "《提早退休的極簡之路（暫譯）》「極高儲蓄」——重新設計需求。重點：需求可以被設計下降，而唔係永遠膨脹。",
@@ -517,7 +517,7 @@ window.DUSHU_BOOK = {
       "title": "多技能策略",
       "subtitle": "一人多能降開支",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:47",
       "briefing": {
         "paragraphs": [
           "《提早退休的極簡之路（暫譯）》「多技能策略」——一人多能降開支。重點：技能可以替代好多外購服務。",
@@ -686,7 +686,7 @@ window.DUSHU_BOOK = {
       "title": "資本配置",
       "subtitle": "快速累積投資本金",
       "audio": "audio/ch04.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:47",
       "briefing": {
         "paragraphs": [
           "《提早退休的極簡之路（暫譯）》「資本配置」——快速累積投資本金。重點：把省下嚟嘅錢認真變成資本。",
@@ -855,7 +855,7 @@ window.DUSHU_BOOK = {
       "title": "工作過渡",
       "subtitle": "由全職到選擇性工作",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:46",
       "briefing": {
         "paragraphs": [
           "《提早退休的極簡之路（暫譯）》「工作過渡」——由全職到選擇性工作。重點：唔一定 abrupt 辭職；可以過渡。",
@@ -1024,7 +1024,7 @@ window.DUSHU_BOOK = {
       "title": "社群期望",
       "subtitle": "抗住消費規範",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:49",
       "briefing": {
         "paragraphs": [
           "《提早退休的極簡之路（暫譯）》「社羣期望」——抗住消費規範。重點：極端路徑需要心理同社交策略。",
@@ -1193,7 +1193,7 @@ window.DUSHU_BOOK = {
       "title": "韌性生活",
       "subtitle": "低開支＝抗風險",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《提早退休的極簡之路（暫譯）》「韌性生活」——低開支＝抗風險。重點：低固定開支本身係保險。",
@@ -1362,7 +1362,7 @@ window.DUSHU_BOOK = {
       "title": "適合邊個",
       "subtitle": "極端唔係唯一答案",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:46",
       "briefing": {
         "paragraphs": [
           "《提早退休的極簡之路（暫譯）》「適合邊個」——極端唔係唯一答案。重點：學原則，調強度；唔使原教旨。",
@@ -1531,7 +1531,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同七日行動",
       "audio": "audio/ch09.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:41",
       "briefing": {
         "paragraphs": [
           "總結《提早退休的極簡之路（暫譯）》主線：用極高儲蓄、技能同系統思維壓縮達到自由嘅時間。",

@@ -122,7 +122,7 @@
     {"href": "books/just-keep-buying/", "title": "持續買進", "author": "Nick Maggiulli", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c4", "mark": "買"},
     {"href": "books/same-as-ever/", "title": "一如既往", "author": "Morgan Housel", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c5", "mark": "如"},
     {"href": "books/quit-like-millionaire/", "title": "財務獨立，提早退休", "author": "Kristy Shen / Bryce Leung", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "退"},
-    {"href": "books/early-retirement-extreme/", "title": "提早退休的極簡之路（暫譯）", "author": "Jacob Lund Fisker", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c1", "mark": "極"},
+    {"href": "books/early-retirement-extreme/", "title": "提早退休的極簡之路（暫譯）", "author": "Jacob Lund Fisker", "track": "金錢習慣 · 心態", "duration": "約 19 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "極", "voice": "minimax"},
     {"href": "books/wealthy-barber/", "title": "理髮師富翁", "author": "David Chilton", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c2", "mark": "理"},
     {"href": "books/what-money-cant-buy/", "title": "金錢不能買什麼", "author": "Michael J. Sandel", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c3", "mark": "德"},
     {"href": "books/soul-of-money/", "title": "金錢的靈魂（暫譯）", "author": "Lynne Twist", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c4", "mark": "靈"},
