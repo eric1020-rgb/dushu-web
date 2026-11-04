@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "開場同地圖",
       "subtitle": "高風險、有意見分歧又情緒上時，點樣對齊事實同尊重。",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:00",
+      "audioDur": "2:26",
       "briefing": {
         "paragraphs": [
           "開場地圖：高風險、有意見分歧又情緒上時，點樣對齊事實同尊重。作者Kerry Patterson 等。呢本帶讀唔抄原文，用粵語演繹框架。",
@@ -179,7 +179,7 @@ window.DUSHU_BOOK = {
       "title": "關鍵時刻",
       "subtitle": "意見不合＋高風險＋情緒",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:43",
       "briefing": {
         "paragraphs": [
           "《關鍵對話》「關鍵時刻」——意見不合＋高風險＋情緒。重點：身體先報警。",
@@ -348,7 +348,7 @@ window.DUSHU_BOOK = {
       "title": "由心開始",
       "subtitle": "我真正想要咩",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《關鍵對話》「由心開始」——我真正想要咩。重點：動機歪對話必歪。",
@@ -517,7 +517,7 @@ window.DUSHU_BOOK = {
       "title": "安全先內容",
       "subtitle": "安全感沒有就冇對話",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《關鍵對話》「安全先內容」——安全感沒有就冇對話。重點：先修安全再講內容。",
@@ -686,7 +686,7 @@ window.DUSHU_BOOK = {
       "title": "掌握故事",
       "subtitle": "情緒來自故事",
       "audio": "audio/ch04.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:42",
       "briefing": {
         "paragraphs": [
           "《關鍵對話》「掌握故事」——情緒來自故事。重點：分開發生咗咩同我點解讀。",
@@ -855,7 +855,7 @@ window.DUSHU_BOOK = {
       "title": "陳述路徑",
       "subtitle": "分享事實感受故事",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:42",
       "briefing": {
         "paragraphs": [
           "《關鍵對話》「陳述路徑」——分享事實感受故事。重點：用第一人稱減指控。",
@@ -1024,7 +1024,7 @@ window.DUSHU_BOOK = {
       "title": "邀請對方",
       "subtitle": "好奇多過正確",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《關鍵對話》「邀請對方」——好奇多過正確。重點：對方被聽見先肯講真。",
@@ -1193,7 +1193,7 @@ window.DUSHU_BOOK = {
       "title": "行動對齊",
       "subtitle": "誰做咩何時",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:43",
       "briefing": {
         "paragraphs": [
           "《關鍵對話》「行動對齊」——誰做咩何時。重點：對話完要有下一步。",
@@ -1362,7 +1362,7 @@ window.DUSHU_BOOK = {
       "title": "練習",
       "subtitle": "一次低風險彩排",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:41",
       "briefing": {
         "paragraphs": [
           "《關鍵對話》「練習」——一次低風險彩排。重點：先喺小場練。",
@@ -1531,7 +1531,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同七日行動",
       "audio": "audio/ch09.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:39",
       "briefing": {
         "paragraphs": [
           "總結《關鍵對話》主線：高風險、有意見分歧又情緒上時，點樣對齊事實同尊重。",
