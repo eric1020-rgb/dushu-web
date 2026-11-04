@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "開場同地圖",
       "subtitle": "用故事教：夢想帳戶、黃金法則同金錢自信。",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:00",
+      "audioDur": "2:41",
       "briefing": {
         "paragraphs": [
           "開場地圖：用故事教：夢想帳戶、黃金法則同金錢自信。作者Bodo Schäfer（波多·薛佛）。呢本帶讀唔抄原文，用粵語演繹框架。",
@@ -179,7 +179,7 @@ window.DUSHU_BOOK = {
       "title": "夢想清單",
       "subtitle": "錢為邊個夢服務",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:46",
       "briefing": {
         "paragraphs": [
           "《小狗錢錢》「夢想清單」——錢為邊個夢服務。重點：冇夢想嘅儲蓄好易放棄。",
@@ -348,7 +348,7 @@ window.DUSHU_BOOK = {
       "title": "黃金法則",
       "subtitle": "收入立刻分帳",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:47",
       "briefing": {
         "paragraphs": [
           "《小狗錢錢》「黃金法則」——收入立刻分帳。重點：先分帳再消費，各目標有糧草。",
@@ -517,7 +517,7 @@ window.DUSHU_BOOK = {
       "title": "金錢自信",
       "subtitle": "我配得亦做得到",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:46",
       "briefing": {
         "paragraphs": [
           "《小狗錢錢》「金錢自信」——我配得亦做得到。重點：覺得唔配有錢會無意識排走機會。",
@@ -686,7 +686,7 @@ window.DUSHU_BOOK = {
       "title": "債務態度",
       "subtitle": "盡快脫身",
       "audio": "audio/ch04.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:39",
       "briefing": {
         "paragraphs": [
           "《小狗錢錢》「債務態度」——盡快脫身。重點：高息債係緊急火警。",
@@ -855,7 +855,7 @@ window.DUSHU_BOOK = {
       "title": "增加收入",
       "subtitle": "主動提供價值",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《小狗錢錢》「增加收入」——主動提供價值。重點：等加薪以外仲有換報酬路徑。",
@@ -1024,7 +1024,7 @@ window.DUSHU_BOOK = {
       "title": "感謝同流動",
       "subtitle": "錢要健康流動",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:48",
       "briefing": {
         "paragraphs": [
           "《小狗錢錢》「感謝同流動」——錢要健康流動。重點：仇視錢會令你難同錢合作。",
@@ -1193,7 +1193,7 @@ window.DUSHU_BOOK = {
       "title": "朋友影響",
       "subtitle": "靠近支持你嘅人",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:42",
       "briefing": {
         "paragraphs": [
           "《小狗錢錢》「朋友影響」——靠近支持你嘅人。重點：笑你儲錢嘅人未必係軍師。",
@@ -1362,7 +1362,7 @@ window.DUSHU_BOOK = {
       "title": "三十日行動",
       "subtitle": "記帳同夢想罐",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《小狗錢錢》「三十日行動」——記帳同夢想罐。重點：故事好聽，要做到先算數。",
@@ -1531,7 +1531,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同七日行動",
       "audio": "audio/ch09.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:38",
       "briefing": {
         "paragraphs": [
           "總結《小狗錢錢》主線：用故事教：夢想帳戶、黃金法則同金錢自信。",

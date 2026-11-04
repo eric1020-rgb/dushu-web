@@ -113,7 +113,7 @@
     {"href": "books/richest-man-babylon/", "title": "巴比倫富翁的理財課", "author": "George S. Clason", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c1", "mark": "巴"},
     {"href": "books/think-grow-rich/", "title": "思考致富", "author": "Napoleon Hill", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c2", "mark": "思"},
     {"href": "books/science-getting-rich/", "title": "致富的科學", "author": "Wallace D. Wattles", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c3", "mark": "科"},
-    {"href": "books/dog-named-money/", "title": "小狗錢錢", "author": "Bodo Schäfer", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c4", "mark": "狗"},
+    {"href": "books/dog-named-money/", "title": "小狗錢錢", "author": "Bodo Schäfer", "track": "金錢習慣 · 心態", "duration": "約 18 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "狗", "voice": "minimax"},
     {"href": "books/financial-freedom-schaefer/", "title": "財務自由之路（薛佛）", "author": "Bodo Schäfer", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c5", "mark": "自"},
     {"href": "books/happy-money-honda/", "title": "金錢療癒", "author": "Ken Honda", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "癒"},
     {"href": "books/happy-money-dunn/", "title": "快樂金錢：花錢的幸福科學", "author": "Elizabeth Dunn / Michael Norton", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c1", "mark": "樂"},
