@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "開場同地圖",
       "subtitle": "精確命名情緒，先有機會處理情緒。",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:00",
+      "audioDur": "2:33",
       "briefing": {
         "paragraphs": [
           "開場地圖：精確命名情緒，先有機會處理情緒。作者Brené Brown。呢本帶讀唔抄原文，用粵語演繹框架。",
@@ -179,7 +179,7 @@ window.DUSHU_BOOK = {
       "title": "語言係地圖",
       "subtitle": "講唔出就難走",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:46",
       "briefing": {
         "paragraphs": [
           "《心的地圖》「語言係地圖」——講唔出就難走。重點：細緻情緒詞改變反應。",
@@ -348,7 +348,7 @@ window.DUSHU_BOOK = {
       "title": "容易混淆",
       "subtitle": "嫉妒同羨慕等",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:43",
       "briefing": {
         "paragraphs": [
           "《心的地圖》「容易混淆」——嫉妒同羨慕等。重點：詞用錯會用錯藥。",
@@ -517,7 +517,7 @@ window.DUSHU_BOOK = {
       "title": "位置感",
       "subtitle": "情緒發生喺身體同關係",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:43",
       "briefing": {
         "paragraphs": [
           "《心的地圖》「位置感」——情緒發生喺身體同關係。重點：地圖包括何處何時。",
@@ -686,7 +686,7 @@ window.DUSHU_BOOK = {
       "title": "連結情緒",
       "subtitle": "歸屬、愛、被看見",
       "audio": "audio/ch04.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:42",
       "briefing": {
         "paragraphs": [
           "《心的地圖》「連結情緒」——歸屬、愛、被看見。重點：連結要有界線先健康。",
@@ -855,7 +855,7 @@ window.DUSHU_BOOK = {
       "title": "痛苦情緒",
       "subtitle": "羞恥、孤獨、失望",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:41",
       "briefing": {
         "paragraphs": [
           "《心的地圖》「痛苦情緒」——羞恥、孤獨、失望。重點：獨自扛會放大。",
@@ -1024,7 +1024,7 @@ window.DUSHU_BOOK = {
       "title": "自我相關",
       "subtitle": "驕傲、自滿、謙卑",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《心的地圖》「自我相關」——驕傲、自滿、謙卑。重點：自我感覺需要校準。",
@@ -1193,7 +1193,7 @@ window.DUSHU_BOOK = {
       "title": "實踐",
       "subtitle": "情緒日記",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:40",
       "briefing": {
         "paragraphs": [
           "《心的地圖》「實踐」——情緒日記。重點：兩週日記已見模式。",
@@ -1362,7 +1362,7 @@ window.DUSHU_BOOK = {
       "title": "對話應用",
       "subtitle": "用準詞代替大詞",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:40",
       "briefing": {
         "paragraphs": [
           "《心的地圖》「對話應用」——用準詞代替大詞。重點：準詞減少誤會。",
@@ -1531,7 +1531,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同七日行動",
       "audio": "audio/ch09.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:33",
       "briefing": {
         "paragraphs": [
           "總結《心的地圖》主線：精確命名情緒，先有機會處理情緒。",
