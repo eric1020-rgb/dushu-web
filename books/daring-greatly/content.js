@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "開場同地圖",
       "subtitle": "脆弱唔係弱；敢於被看見先有連結同創造。",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:00",
+      "audioDur": "2:34",
       "briefing": {
         "paragraphs": [
           "開場地圖：脆弱唔係弱；敢於被看見先有連結同創造。作者Brené Brown。呢本帶讀唔抄原文，用粵語演繹框架。",
@@ -179,7 +179,7 @@ window.DUSHU_BOOK = {
       "title": "脆弱定義",
       "subtitle": "風險、不確定、情緒暴露",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:48",
       "briefing": {
         "paragraphs": [
           "《脆弱的力量》「脆弱定義」——風險、不確定、情緒暴露。重點：冇脆弱就冇真愛同創新。",
@@ -348,7 +348,7 @@ window.DUSHU_BOOK = {
       "title": "羞恥文化",
       "subtitle": "你係問題",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《脆弱的力量》「羞恥文化」——你係問題。重點：內疚針對行為，羞恥針對存在。",
@@ -517,7 +517,7 @@ window.DUSHU_BOOK = {
       "title": "盔甲",
       "subtitle": "完美主義、麻木、批判",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《脆弱的力量》「盔甲」——完美主義、麻木、批判。重點：盔甲防痛亦防親密。",
@@ -686,7 +686,7 @@ window.DUSHU_BOOK = {
       "title": "職場勇敢",
       "subtitle": "承認唔知同求助",
       "audio": "audio/ch04.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《脆弱的力量》「職場勇敢」——承認唔知同求助。重點：領袖卸甲團隊先敢。",
@@ -855,7 +855,7 @@ window.DUSHU_BOOK = {
       "title": "教養",
       "subtitle": "值得被愛唔係表現換來",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:40",
       "briefing": {
         "paragraphs": [
           "《脆弱的力量》「教養」——值得被愛唔係表現換來。重點：孩子學我哋點對待脆弱。",
@@ -1024,7 +1024,7 @@ window.DUSHU_BOOK = {
       "title": "設定界線",
       "subtitle": "脆弱≠冇門檻",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:43",
       "briefing": {
         "paragraphs": [
           "《脆弱的力量》「設定界線」——脆弱≠冇門檻。重點：真勇氣包括說不。",
@@ -1193,7 +1193,7 @@ window.DUSHU_BOOK = {
       "title": "練習曝光",
       "subtitle": "小風險開始",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:42",
       "briefing": {
         "paragraphs": [
           "《脆弱的力量》「練習曝光」——小風險開始。重點：肌肉要漸進負荷。",
@@ -1362,7 +1362,7 @@ window.DUSHU_BOOK = {
       "title": "一句提醒",
       "subtitle": "我夠資格出現",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:40",
       "briefing": {
         "paragraphs": [
           "《脆弱的力量》「一句提醒」——我夠資格出現。重點：每日用行動證明值得。",
@@ -1531,7 +1531,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同七日行動",
       "audio": "audio/ch09.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:35",
       "briefing": {
         "paragraphs": [
           "總結《脆弱的力量》主線：脆弱唔係弱；敢於被看見先有連結同創造。",
