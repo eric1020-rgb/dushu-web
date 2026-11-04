@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "開場同地圖",
       "subtitle": "用存股思維建立長期現金流同心態。",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:00",
+      "audioDur": "2:30",
       "briefing": {
         "paragraphs": [
           "開場地圖：用存股思維建立長期現金流同心態。作者陳喬泓。呢本帶讀唔抄原文，用粵語演繹框架。",
@@ -179,7 +179,7 @@ window.DUSHU_BOOK = {
       "title": "存股定義",
       "subtitle": "長期持有收息",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:47",
       "briefing": {
         "paragraphs": [
           "《存股輕鬆學》「存股定義」——長期持有收息。重點：存股係行為，唔係某隻神股。",
@@ -348,7 +348,7 @@ window.DUSHU_BOOK = {
       "title": "選什麼存",
       "subtitle": "穩定現金流優先",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《存股輕鬆學》「選什麼存」——穩定現金流優先。重點：不穩嘅高息可能係陷阱。",
@@ -517,7 +517,7 @@ window.DUSHU_BOOK = {
       "title": "買入節奏",
       "subtitle": "分批優於一把梭",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《存股輕鬆學》「買入節奏」——分批優於一把梭。重點：節奏令你唔使猜最低點。",
@@ -686,7 +686,7 @@ window.DUSHU_BOOK = {
       "title": "再投入",
       "subtitle": "息滾息",
       "audio": "audio/ch04.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:42",
       "briefing": {
         "paragraphs": [
           "《存股輕鬆學》「再投入」——息滾息。重點：息唔亂花，複利先明顯。",
@@ -855,7 +855,7 @@ window.DUSHU_BOOK = {
       "title": "風險控管",
       "subtitle": "行業同單一公司上限",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:43",
       "briefing": {
         "paragraphs": [
           "《存股輕鬆學》「風險控管」——行業同單一公司上限。重點：一間公司出事唔好毀全部。",
@@ -1024,7 +1024,7 @@ window.DUSHU_BOOK = {
       "title": "心態課",
       "subtitle": "唔為短線價閃",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《存股輕鬆學》「心態課」——唔為短線價閃。重點：天天睇盤同存股相反。",
@@ -1193,7 +1193,7 @@ window.DUSHU_BOOK = {
       "title": "稅同成本",
       "subtitle": "摩擦要計",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:42",
       "briefing": {
         "paragraphs": [
           "《存股輕鬆學》「稅同成本」——摩擦要計。重點：高周轉會食息。",
@@ -1362,7 +1362,7 @@ window.DUSHU_BOOK = {
       "title": "檢討機制",
       "subtitle": "年審不是日審",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:40",
       "briefing": {
         "paragraphs": [
           "《存股輕鬆學》「檢討機制」——年審不是日審。重點：預先寫何時準許動。",
@@ -1531,7 +1531,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同七日行動",
       "audio": "audio/ch09.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:35",
       "briefing": {
         "paragraphs": [
           "總結《存股輕鬆學》主線：用存股思維建立長期現金流同心態。",

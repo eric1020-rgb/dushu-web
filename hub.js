@@ -133,7 +133,7 @@
     {"href": "books/essays-warren-buffett/", "title": "巴菲特選股文選", "author": "Warren Buffett／Lawrence Cunningham 編", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c3", "mark": "巴"},
     {"href": "books/seeking-wisdom/", "title": "尋求智慧", "author": "Peter Bevelin", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c4", "mark": "智"},
     {"href": "books/chen-salary-invest/", "title": "我用死薪水輕鬆理財賺千萬", "author": "陳重銘", "track": "金錢習慣 · 心態", "duration": "約 18 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "薪", "voice": "minimax"},
-    {"href": "books/cun-gu-easy/", "title": "存股輕鬆學", "author": "陳喬泓", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "存"},
+    {"href": "books/cun-gu-easy/", "title": "存股輕鬆學", "author": "陳喬泓", "track": "金錢習慣 · 心態", "duration": "約 18 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "存", "voice": "minimax"},
     {"href": "books/wanting-burgis/", "title": "慾望的模仿（暫譯）", "author": "Luke Burgis", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c1", "mark": "慾"},
     {"href": "books/make-money-last/", "title": "退休金怎麼用才夠", "author": "Jane Bryant Quinn", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c2", "mark": "退"},
     {"href": "books/money-class/", "title": "金錢課", "author": "Suze Orman", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c3", "mark": "課"},
