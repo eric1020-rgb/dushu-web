@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "開場同地圖",
       "subtitle": "每個困難對話其實有三場：發生咩、感受、身份。",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:00",
+      "audioDur": "2:25",
       "briefing": {
         "paragraphs": [
           "開場地圖：每個困難對話其實有三場：發生咩、感受、身份。作者Douglas Stone 等。呢本帶讀唔抄原文，用粵語演繹框架。",
@@ -179,7 +179,7 @@ window.DUSHU_BOOK = {
       "title": "三場對話",
       "subtitle": "事實、感受、身份同時上演",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:46",
       "briefing": {
         "paragraphs": [
           "《困難對話》「三場對話」——事實、感受、身份同時上演。重點：只打一場會打唔完。",
@@ -348,7 +348,7 @@ window.DUSHU_BOOK = {
       "title": "停止對錯戰",
       "subtitle": "改為理解差異",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《困難對話》「停止對錯戰」——改為理解差異。重點：意圖好都可以有壞影響。",
@@ -517,7 +517,7 @@ window.DUSHU_BOOK = {
       "title": "感受入場",
       "subtitle": "唔承認感受就會漏氣",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《困難對話》「感受入場」——唔承認感受就會漏氣。重點：感受唔係弱，係資訊。",
@@ -686,7 +686,7 @@ window.DUSHU_BOOK = {
       "title": "身份威脅",
       "subtitle": "我係咪無能壞人",
       "audio": "audio/ch04.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:41",
       "briefing": {
         "paragraphs": [
           "《困難對話》「身份威脅」——我係咪無能壞人。重點：身份一震就聽唔到內容。",
@@ -855,7 +855,7 @@ window.DUSHU_BOOK = {
       "title": "學習型對話",
       "subtitle": "好奇取代指責",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:41",
       "briefing": {
         "paragraphs": [
           "《困難對話》「學習型對話」——好奇取代指責。重點：目標係更準地圖。",
@@ -1024,7 +1024,7 @@ window.DUSHU_BOOK = {
       "title": "表達影響",
       "subtitle": "講影響少控動機",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:47",
       "briefing": {
         "paragraphs": [
           "《困難對話》「表達影響」——講影響少控動機。重點：指控動機最易引爆。",
@@ -1193,7 +1193,7 @@ window.DUSHU_BOOK = {
       "title": "問題解決",
       "subtitle": "選項同實驗",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:42",
       "briefing": {
         "paragraphs": [
           "《困難對話》「問題解決」——選項同實驗。重點：一次對話未必結案。",
@@ -1362,7 +1362,7 @@ window.DUSHU_BOOK = {
       "title": "準備紙",
       "subtitle": "入場前十分鐘",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:42",
       "briefing": {
         "paragraphs": [
           "《困難對話》「準備紙」——入場前十分鐘。重點：準備減少臨場失控。",
@@ -1531,7 +1531,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同七日行動",
       "audio": "audio/ch09.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:38",
       "briefing": {
         "paragraphs": [
           "總結《困難對話》主線：每個困難對話其實有三場：發生咩、感受、身份。",
