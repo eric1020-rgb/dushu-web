@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "開場同地圖",
       "subtitle": "由依賴到獨立再到互賴：原則核心嘅七個習慣。",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:00",
+      "audioDur": "2:24",
       "briefing": {
         "paragraphs": [
           "開場地圖：由依賴到獨立再到互賴：原則核心嘅七個習慣。作者Stephen R. Covey。呢本帶讀唔抄原文，用粵語演繹框架。",
@@ -179,7 +179,7 @@ window.DUSHU_BOOK = {
       "title": "範式轉換",
       "subtitle": "看世界嘅地圖",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:46",
       "briefing": {
         "paragraphs": [
           "《與成功有約》「範式轉換」——看世界嘅地圖。重點：技巧冇品格好快穿幫。",
@@ -348,7 +348,7 @@ window.DUSHU_BOOK = {
       "title": "主動積極",
       "subtitle": "擴大影響圈",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:42",
       "briefing": {
         "paragraphs": [
           "《與成功有約》「主動積極」——擴大影響圈。重點：刺激同回應之間有空間。",
@@ -517,7 +517,7 @@ window.DUSHU_BOOK = {
       "title": "以終為始",
       "subtitle": "先寫結局再活",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:42",
       "briefing": {
         "paragraphs": [
           "《與成功有約》「以終為始」——先寫結局再活。重點：領導在管理之前。",
@@ -686,7 +686,7 @@ window.DUSHU_BOOK = {
       "title": "要事第一",
       "subtitle": "急迫唔等於重要",
       "audio": "audio/ch04.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:43",
       "briefing": {
         "paragraphs": [
           "《與成功有約》「要事第一」——急迫唔等於重要。重點：把生活放入大石。",
@@ -855,7 +855,7 @@ window.DUSHU_BOOK = {
       "title": "雙贏思維",
       "subtitle": "充足心態",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:41",
       "briefing": {
         "paragraphs": [
           "《與成功有約》「雙贏思維」——充足心態。重點：匱乏心態製造零和。",
@@ -1024,7 +1024,7 @@ window.DUSHU_BOOK = {
       "title": "知彼解己",
       "subtitle": "先理解",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:42",
       "briefing": {
         "paragraphs": [
           "《與成功有約》「知彼解己」——先理解。重點：大多數人先求被理解。",
@@ -1193,7 +1193,7 @@ window.DUSHU_BOOK = {
       "title": "統合綜效",
       "subtitle": "差異變創造",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:43",
       "briefing": {
         "paragraphs": [
           "《與成功有約》「統合綜效」——差異變創造。重點：1+1可以大於2。",
@@ -1362,7 +1362,7 @@ window.DUSHU_BOOK = {
       "title": "不斷更新",
       "subtitle": "身體心靈智力社群",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:40",
       "briefing": {
         "paragraphs": [
           "《與成功有約》「不斷更新」——身體心靈智力社羣。重點：鋸子要磨。",
@@ -1531,7 +1531,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同七日行動",
       "audio": "audio/ch09.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:39",
       "briefing": {
         "paragraphs": [
           "總結《與成功有約》主線：由依賴到獨立再到互賴：原則核心嘅七個習慣。",
