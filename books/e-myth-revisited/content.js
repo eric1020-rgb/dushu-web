@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "開場同地圖",
       "subtitle": "小生意要靠系統，而唔係老闆永遠做技師。",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:00",
+      "audioDur": "2:35",
       "briefing": {
         "paragraphs": [
           "開場地圖：小生意要靠系統，而唔係老闆永遠做技師。作者Michael E. Gerber。呢本帶讀唔抄原文，用粵語演繹框架。",
@@ -179,7 +179,7 @@ window.DUSHU_BOOK = {
       "title": "企業神話",
       "subtitle": "會做≠會開生意",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《艾蜜思回歸》「企業神話」——會做≠會開生意。重點：手藝好唔等於事業健康。",
@@ -348,7 +348,7 @@ window.DUSHU_BOOK = {
       "title": "三種角色",
       "subtitle": "技師、經理、企業家",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:43",
       "briefing": {
         "paragraphs": [
           "《艾蜜思回歸》「三種角色」——技師、經理、企業家。重點：要有意識輪換角色。",
@@ -517,7 +517,7 @@ window.DUSHU_BOOK = {
       "title": "系統化",
       "subtitle": "生意要可複製",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:46",
       "briefing": {
         "paragraphs": [
           "《艾蜜思回歸》「系統化」——生意要可複製。重點：系統先令事業賣得走同休得到。",
@@ -686,7 +686,7 @@ window.DUSHU_BOOK = {
       "title": "加盟思維",
       "subtitle": "當自己係原型店",
       "audio": "audio/ch04.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:42",
       "briefing": {
         "paragraphs": [
           "《艾蜜思回歸》「加盟思維」——當自己係原型店。重點：用加盟標準要求自己。",
@@ -855,7 +855,7 @@ window.DUSHU_BOOK = {
       "title": "工作ON生意",
       "subtitle": "而唔係只喺入面做",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《艾蜜思回歸》「工作ON生意」——而唔係只喺入面做。重點：每週留時段做企業家工作。",
@@ -1024,7 +1024,7 @@ window.DUSHU_BOOK = {
       "title": "客戶體驗",
       "subtitle": "流程決定口碑",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:43",
       "briefing": {
         "paragraphs": [
           "《艾蜜思回歸》「客戶體驗」——流程決定口碑。重點：體驗係系統輸出。",
@@ -1193,7 +1193,7 @@ window.DUSHU_BOOK = {
       "title": "成長節奏",
       "subtitle": "成熟階段唔同病",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:43",
       "briefing": {
         "paragraphs": [
           "《艾蜜思回歸》「成長節奏」——成熟階段唔同病。重點：對症下藥，唔好亂擴。",
@@ -1362,7 +1362,7 @@ window.DUSHU_BOOK = {
       "title": "自由目標",
       "subtitle": "生意服務人生",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《艾蜜思回歸》「自由目標」——生意服務人生。重點：你放假事業仲行，先算系統成功。",
@@ -1531,7 +1531,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同七日行動",
       "audio": "audio/ch09.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:38",
       "briefing": {
         "paragraphs": [
           "總結《艾蜜思回歸》主線：小生意要靠系統，而唔係老闆永遠做技師。",
