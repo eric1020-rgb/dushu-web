@@ -146,7 +146,7 @@
     {"href": "books/financial-freedom-sabatier/", "title": "財務自由", "author": "Grant Sabatier", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c4", "mark": "自"},
     {"href": "books/set-for-life/", "title": "財務自由起步（暫譯）", "author": "Scott Trench", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c5", "mark": "起"},
     {"href": "books/millionaire-fastlane/", "title": "百萬富翁快車道", "author": "MJ DeMarco", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "快"},
-    {"href": "books/algebra-of-wealth/", "title": "財富的代數（暫譯）", "author": "Scott Galloway", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c1", "mark": "代"},
+    {"href": "books/algebra-of-wealth/", "title": "財富的代數（暫譯）", "author": "Scott Galloway", "track": "金錢習慣 · 心態", "duration": "約 18 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "代", "voice": "minimax"},
     {"href": "books/latte-factor/", "title": "拿鐵因子", "author": "David Bach", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c2", "mark": "拿"},
     {"href": "books/total-money-makeover/", "title": "金錢改造", "author": "Dave Ramsey", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c3", "mark": "改"},
     {"href": "books/why-smart-money-mistakes/", "title": "為什麼聰明人會做愚蠢的投資", "author": "Gary Belsky / Thomas Gilovich", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c4", "mark": "蠢"},

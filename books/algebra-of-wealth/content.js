@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "開場同地圖",
       "subtitle": "專注、時間、股權同節儉組成現代財富公式。",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:00",
+      "audioDur": "2:28",
       "briefing": {
         "paragraphs": [
           "開場地圖：專注、時間、股權同節儉組成現代財富公式。作者Scott Galloway。呢本帶讀唔抄原文，用粵語演繹框架。",
@@ -179,7 +179,7 @@ window.DUSHU_BOOK = {
       "title": "專注優勢",
       "subtitle": "在風口做深",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:50",
       "briefing": {
         "paragraphs": [
           "《財富的代數（暫譯）》「專注優勢」——在風口做深。重點：跟風口但要做深，唔係樣樣淺。",
@@ -348,7 +348,7 @@ window.DUSHU_BOOK = {
       "title": "時間盟友",
       "subtitle": "愈早愈好",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:46",
       "briefing": {
         "paragraphs": [
           "《財富的代數（暫譯）》「時間盟友」——愈早愈好。重點：時間唔只服務投資，亦服務身體。",
@@ -517,7 +517,7 @@ window.DUSHU_BOOK = {
       "title": "股權思維",
       "subtitle": "擁有多過只薪水",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:46",
       "briefing": {
         "paragraphs": [
           "《財富的代數（暫譯）》「股權思維」——擁有多過只薪水。重點：財富躍遷常來自擁有。",
@@ -686,7 +686,7 @@ window.DUSHU_BOOK = {
       "title": "節儉現代版",
       "subtitle": "彈性大過炫耀",
       "audio": "audio/ch04.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:46",
       "briefing": {
         "paragraphs": [
           "《財富的代數（暫譯）》「節儉現代版」——彈性大過炫耀。重點：節儉買嘅係選擇權。",
@@ -855,7 +855,7 @@ window.DUSHU_BOOK = {
       "title": "性格同習慣",
       "subtitle": "性格係策略",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《財富的代數（暫譯）》「性格同習慣」——性格係策略。重點：自我破壞會抵消公式。",
@@ -1024,7 +1024,7 @@ window.DUSHU_BOOK = {
       "title": "伴侶因素",
       "subtitle": "經濟隊友",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《財富的代數（暫譯）》「伴侶因素」——經濟隊友。重點：選隊友影響方程解。",
@@ -1193,7 +1193,7 @@ window.DUSHU_BOOK = {
       "title": "風險管理",
       "subtitle": "避免毀滅性打擊",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《財富的代數（暫譯）》「風險管理」——避免毀滅性打擊。重點：一次毀滅清走多年代數。",
@@ -1362,7 +1362,7 @@ window.DUSHU_BOOK = {
       "title": "行動方程",
       "subtitle": "九十日係數提升",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《財富的代數（暫譯）》「行動方程」——九十日係數提升。重點：每個係數細提升，乘積變大。",
@@ -1531,7 +1531,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同七日行動",
       "audio": "audio/ch09.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:38",
       "briefing": {
         "paragraphs": [
           "總結《財富的代數（暫譯）》主線：專注、時間、股權同節儉組成現代財富公式。",
