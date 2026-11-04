@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "開場同地圖",
       "subtitle": "用簡單帳戶桶同自動化，令普通人理財可執行。",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:00",
+      "audioDur": "2:37",
       "briefing": {
         "paragraphs": [
           "開場地圖：用簡單帳戶桶同自動化，令普通人理財可執行。作者Scott Pape。呢本帶讀唔抄原文，用粵語演繹框架。",
@@ -179,7 +179,7 @@ window.DUSHU_BOOK = {
       "title": "帳戶分桶",
       "subtitle": "錢要有工作崗位",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:49",
       "briefing": {
         "paragraphs": [
           "《赤腳投資人（暫譯）》「帳戶分桶」——錢要有工作崗位。重點：每個戶口一個使命，混亂先下降。",
@@ -348,7 +348,7 @@ window.DUSHU_BOOK = {
       "title": "爆破債",
       "subtitle": "高息優先清",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:46",
       "briefing": {
         "paragraphs": [
           "《赤腳投資人（暫譯）》「爆破債」——高息優先清。重點：先拆炸彈再談投資花樣。",
@@ -517,7 +517,7 @@ window.DUSHU_BOOK = {
       "title": "自動化日",
       "subtitle": "出糧日劇本",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:46",
       "briefing": {
         "paragraphs": [
           "《赤腳投資人（暫譯）》「自動化日」——出糧日劇本。重點：出糧日一次搞掂，成個月輕鬆。",
@@ -686,7 +686,7 @@ window.DUSHU_BOOK = {
       "title": "住屋路徑",
       "subtitle": "可負擔優先",
       "audio": "audio/ch04.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:43",
       "briefing": {
         "paragraphs": [
           "《赤腳投資人（暫譯）》「住屋路徑」——可負擔優先。重點：供到命都冇，唔叫成功。",
@@ -855,7 +855,7 @@ window.DUSHU_BOOK = {
       "title": "保險精簡",
       "subtitle": "保大唔保碎",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《赤腳投資人（暫譯）》「保險精簡」——保大唔保碎。重點：保險係保護，唔係投資產品堆。",
@@ -1024,7 +1024,7 @@ window.DUSHU_BOOK = {
       "title": "投資簡單",
       "subtitle": "長期寬基",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《赤腳投資人（暫譯）》「投資簡單」——長期寬基。重點：悶係優點。",
@@ -1193,7 +1193,7 @@ window.DUSHU_BOOK = {
       "title": "家庭會議",
       "subtitle": "伴侶同行",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《赤腳投資人（暫譯）》「家庭會議」——伴侶同行。重點：一個人祕密理財好易出事。",
@@ -1362,7 +1362,7 @@ window.DUSHU_BOOK = {
       "title": "子女金錢",
       "subtitle": "早教桶同工作",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《赤腳投資人（暫譯）》「子女金錢」——早教桶同工作。重點：細個學流程，大個少踩坑。",
@@ -1531,7 +1531,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同七日行動",
       "audio": "audio/ch09.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:35",
       "briefing": {
         "paragraphs": [
           "總結《赤腳投資人（暫譯）》主線：用簡單帳戶桶同自動化，令普通人理財可執行。",
