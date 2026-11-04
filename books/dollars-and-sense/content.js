@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "開場同地圖",
       "subtitle": "用行為經濟學拆解我哋點樣誤解錢。",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:00",
+      "audioDur": "2:33",
       "briefing": {
         "paragraphs": [
           "開場地圖：用行為經濟學拆解我哋點樣誤解錢。作者Dan Ariely / Jeff Kreisler。呢本帶讀唔抄原文，用粵語演繹框架。",
@@ -179,7 +179,7 @@ window.DUSHU_BOOK = {
       "title": "機會成本無視",
       "subtitle": "睇唔見放弃咗咩",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:49",
       "briefing": {
         "paragraphs": [
           "《金錢有意識（暫譯）》「機會成本無視」——睇唔見放棄咗咩。重點：買A等於放棄B，腦成日忘記。",
@@ -348,7 +348,7 @@ window.DUSHU_BOOK = {
       "title": "相對思維",
       "subtitle": "貴平靠對比",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:46",
       "briefing": {
         "paragraphs": [
           "《金錢有意識（暫譯）》「相對思維」——貴平靠對比。重點：商家用對比推你升級。",
@@ -517,7 +517,7 @@ window.DUSHU_BOOK = {
       "title": "自我控制工具",
       "subtitle": "預期自己會弱",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《金錢有意識（暫譯）》「自我控制工具」——預期自己會弱。重點：未來嘅你會懶，要而家攔截。",
@@ -686,7 +686,7 @@ window.DUSHU_BOOK = {
       "title": "情感定價",
       "subtitle": "痛感同抽象",
       "audio": "audio/ch04.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《金錢有意識（暫譯）》「情感定價」——痛感同抽象。重點：支付方式改變痛感同消費。",
@@ -855,7 +855,7 @@ window.DUSHU_BOOK = {
       "title": "免費誘惑",
       "subtitle": "零價錢魔力",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:41",
       "briefing": {
         "paragraphs": [
           "《金錢有意識（暫譯）》「免費誘惑」——零價格魔力。重點：免費可以好貴。",
@@ -1024,7 +1024,7 @@ window.DUSHU_BOOK = {
       "title": "社交金錢",
       "subtitle": "面子同公平",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:47",
       "briefing": {
         "paragraphs": [
           "《金錢有意識（暫譯）》「社交金錢」——面子同公平。重點：錢喺關係裡特別易尷尬出錯。",
@@ -1193,7 +1193,7 @@ window.DUSHU_BOOK = {
       "title": "投資行為",
       "subtitle": "噪音同故事",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:46",
       "briefing": {
         "paragraphs": [
           "《金錢有意識（暫譯）》「投資行為」——噪音同故事。重點：故事好聽唔等於期望回報高。",
@@ -1362,7 +1362,7 @@ window.DUSHU_BOOK = {
       "title": "設計環境",
       "subtitle": "令好決策更容易",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:46",
       "briefing": {
         "paragraphs": [
           "《金錢有意識（暫譯）》「設計環境」——令好決策更容易。重點：改環境比利己講道理有效。",
@@ -1531,7 +1531,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同七日行動",
       "audio": "audio/ch09.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:38",
       "briefing": {
         "paragraphs": [
           "總結《金錢有意識（暫譯）》主線：用行為經濟學拆解我哋點樣誤解錢。",
