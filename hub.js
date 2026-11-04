@@ -168,7 +168,7 @@
     {"href": "books/irresistible/", "title": "上癮", "author": "Adam Alter", "track": "習慣 · 思維 · 科普", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c2", "mark": "癮"},
     {"href": "books/anxious-generation/", "title": "焦慮的一代", "author": "Jonathan Haidt", "track": "習慣 · 思維 · 科普", "duration": "約 18 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "焦", "voice": "minimax"},
     {"href": "books/happiness-hypothesis/", "title": "幸福的假說", "author": "Jonathan Haidt", "track": "習慣 · 思維 · 科普", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c4", "mark": "幸"},
-    {"href": "books/authentic-happiness/", "title": "真實的幸福", "author": "Martin Seligman", "track": "習慣 · 思維 · 科普", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c5", "mark": "真"},
+    {"href": "books/authentic-happiness/", "title": "真實的幸福", "author": "Martin Seligman", "track": "習慣 · 思維 · 科普", "duration": "約 18 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "真", "voice": "minimax"},
     {"href": "books/thinking-in-bets/", "title": "高勝算決策", "author": "Annie Duke", "track": "習慣 · 思維 · 科普", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "賭"},
     {"href": "books/range/", "title": "範圍", "author": "David Epstein", "track": "習慣 · 思維 · 科普", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c1", "mark": "範"},
     {"href": "books/outliers/", "title": "異數", "author": "Malcolm Gladwell", "track": "習慣 · 思維 · 科普", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c2", "mark": "異"},

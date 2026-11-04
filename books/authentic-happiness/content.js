@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "開場同地圖",
       "subtitle": "幸福可建立喺正向情緒、投入同意義之上。",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:00",
+      "audioDur": "2:33",
       "briefing": {
         "paragraphs": [
           "開場地圖：幸福可建立喺正向情緒、投入同意義之上。作者Martin Seligman。呢本帶讀唔抄原文，用粵語演繹框架。",
@@ -179,7 +179,7 @@ window.DUSHU_BOOK = {
       "title": "快樂三途",
       "subtitle": "愉快、投入、意義",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:46",
       "briefing": {
         "paragraphs": [
           "《真實的幸福》「快樂三途」——愉快、投入、意義。重點：三條路權重因人而異。",
@@ -348,7 +348,7 @@ window.DUSHU_BOOK = {
       "title": "優勢詞彙",
       "subtitle": "用力量多過修缺陷",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《真實的幸福》「優勢詞彙」——用力量多過修缺陷。重點：每週用優勢做一件新事。",
@@ -517,7 +517,7 @@ window.DUSHU_BOOK = {
       "title": "感恩同善意",
       "subtitle": "可訓練正向",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《真實的幸福》「感恩同善意」——可訓練正向。重點：細練習有情緒效果。",
@@ -686,7 +686,7 @@ window.DUSHU_BOOK = {
       "title": "悲觀解釋",
       "subtitle": "永久全面人格化",
       "audio": "audio/ch04.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:41",
       "briefing": {
         "paragraphs": [
           "《真實的幸福》「悲觀解釋」——永久全面人格化。重點：解釋風格可被挑戰。",
@@ -855,7 +855,7 @@ window.DUSHU_BOOK = {
       "title": "工作應用",
       "subtitle": "把任務對準優勢",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:41",
       "briefing": {
         "paragraphs": [
           "《真實的幸福》「工作應用」——把任務對準優勢。重點：同一職位可以唔同做法。",
@@ -1024,7 +1024,7 @@ window.DUSHU_BOOK = {
       "title": "愛",
       "subtitle": "關係中嘅積極回應",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《真實的幸福》「愛」——關係中嘅積極回應。重點：回應方式決定關係質地。",
@@ -1193,7 +1193,7 @@ window.DUSHU_BOOK = {
       "title": "養育",
       "subtitle": "樂觀同自主",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:46",
       "briefing": {
         "paragraphs": [
           "《真實的幸福》「養育」——樂觀同自主。重點：教解釋風格同教成績一樣重要。",
@@ -1362,7 +1362,7 @@ window.DUSHU_BOOK = {
       "title": "意義專案",
       "subtitle": "為人服務嘅目標",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:40",
       "briefing": {
         "paragraphs": [
           "《真實的幸福》「意義專案」——為人服務嘅目標。重點：意義令愉快唔淺薄。",
@@ -1531,7 +1531,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同七日行動",
       "audio": "audio/ch09.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:38",
       "briefing": {
         "paragraphs": [
           "總結《真實的幸福》主線：幸福可建立喺正向情緒、投入同意義之上。",
