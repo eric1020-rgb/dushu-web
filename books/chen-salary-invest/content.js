@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "開場同地圖",
       "subtitle": "受薪族用配息同紀律，走出可複製之路。",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:00",
+      "audioDur": "2:34",
       "briefing": {
         "paragraphs": [
           "開場地圖：受薪族用配息同紀律，走出可複製之路。作者陳重銘。呢本帶讀唔抄原文，用粵語演繹框架。",
@@ -179,7 +179,7 @@ window.DUSHU_BOOK = {
       "title": "受薪起點",
       "subtitle": "接受起跑條件",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:49",
       "briefing": {
         "paragraphs": [
           "《我用死薪水輕鬆理財賺千萬》「受薪起點」——接受起跑條件。重點：死薪水唔係咒；系統先係。",
@@ -348,7 +348,7 @@ window.DUSHU_BOOK = {
       "title": "配息思維",
       "subtitle": "用現金流養生活",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:47",
       "briefing": {
         "paragraphs": [
           "《我用死薪水輕鬆理財賺千萬》「配息思維」——用現金流養生活。重點：配息係工具，唔係信仰。",
@@ -517,7 +517,7 @@ window.DUSHU_BOOK = {
       "title": "選股粗則",
       "subtitle": "懂公司先買",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:48",
       "briefing": {
         "paragraphs": [
           "《我用死薪水輕鬆理財賺千萬》「選股粗則」——懂公司先買。重點：唔懂就細注或不碰。",
@@ -686,7 +686,7 @@ window.DUSHU_BOOK = {
       "title": "部位管理",
       "subtitle": "唔梭哈",
       "audio": "audio/ch04.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《我用死薪水輕鬆理財賺千萬》「部位管理」——唔梭哈。重點：活得久比一次賭對重要。",
@@ -855,7 +855,7 @@ window.DUSHU_BOOK = {
       "title": "心理戰",
       "subtitle": "發薪同除息情緒",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《我用死薪水輕鬆理財賺千萬》「心理戰」——發薪同除息情緒。重點：情緒帳戶要管理。",
@@ -1024,7 +1024,7 @@ window.DUSHU_BOOK = {
       "title": "家庭溝通",
       "subtitle": "伴侶同行",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:47",
       "briefing": {
         "paragraphs": [
           "《我用死薪水輕鬆理財賺千萬》「家庭溝通」——伴侶同行。重點：一個人偷偷投資易出家庭風險。",
@@ -1193,7 +1193,7 @@ window.DUSHU_BOOK = {
       "title": "熊市劇本",
       "subtitle": "預先寫",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《我用死薪水輕鬆理財賺千萬》「熊市劇本」——預先寫。重點：劇本喺晴天寫。",
@@ -1362,7 +1362,7 @@ window.DUSHU_BOOK = {
       "title": "複利日常",
       "subtitle": "可重複動作",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《我用死薪水輕鬆理財賺千萬》「複利日常」——可重複動作。重點：投資服務生活，唔係相反。",
@@ -1531,7 +1531,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同七日行動",
       "audio": "audio/ch09.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:36",
       "briefing": {
         "paragraphs": [
           "總結《我用死薪水輕鬆理財賺千萬》主線：受薪族用配息同紀律，走出可複製之路。",
