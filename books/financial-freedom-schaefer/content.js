@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "開場同地圖",
       "subtitle": "用夢想、儲蓄、投資同心態，走向財務自由。",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:00",
+      "audioDur": "2:26",
       "briefing": {
         "paragraphs": [
           "開場地圖：用夢想、儲蓄、投資同心態，走向財務自由。作者Bodo Schäfer。呢本帶讀唔抄原文，用粵語演繹框架。",
@@ -179,7 +179,7 @@ window.DUSHU_BOOK = {
       "title": "定義財務自由",
       "subtitle": "被動收入覆蓋生活",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:52",
       "briefing": {
         "paragraphs": [
           "《財務自由之路（薛佛）》「定義財務自由」——被動收入覆蓋生活。重點：自由唔係無限有錢，而係工作變成選項。",
@@ -348,7 +348,7 @@ window.DUSHU_BOOK = {
       "title": "夢想同動機",
       "subtitle": "數字要有畫面",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《財務自由之路（薛佛）》「夢想同動機」——數字要有畫面。重點：冇為何，紀律好易斷。",
@@ -517,7 +517,7 @@ window.DUSHU_BOOK = {
       "title": "儲蓄機器",
       "subtitle": "自動化先於意志",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:47",
       "briefing": {
         "paragraphs": [
           "《財務自由之路（薛佛）》「儲蓄機器」——自動化先於意志。重點：系統幫你儲，意志只係後備。",
@@ -686,7 +686,7 @@ window.DUSHU_BOOK = {
       "title": "投資起步",
       "subtitle": "由簡單開始",
       "audio": "audio/ch04.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:48",
       "briefing": {
         "paragraphs": [
           "《財務自由之路（薛佛）》「投資起步」——由簡單開始。重點：先上車再優化，唔好永遠喺研究站。",
@@ -855,7 +855,7 @@ window.DUSHU_BOOK = {
       "title": "債務策略",
       "subtitle": "高息先清",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:43",
       "briefing": {
         "paragraphs": [
           "《財務自由之路（薛佛）》「債務策略」——高息先清。重點：清債係買回未來現金流。",
@@ -1024,7 +1024,7 @@ window.DUSHU_BOOK = {
       "title": "賺力升級",
       "subtitle": "你係最大資產",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《財務自由之路（薛佛）》「賺力升級」——你係最大資產。重點：提升時薪同可規模化能力。",
@@ -1193,7 +1193,7 @@ window.DUSHU_BOOK = {
       "title": "心態敵人",
       "subtitle": "恐懼同自我設限",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:47",
       "briefing": {
         "paragraphs": [
           "《財務自由之路（薛佛）》「心態敵人」——恐懼同自我設限。重點：自我設限比市場更早停住你。",
@@ -1362,7 +1362,7 @@ window.DUSHU_BOOK = {
       "title": "自由日程",
       "subtitle": "邊度開始九十日",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:42",
       "briefing": {
         "paragraphs": [
           "《財務自由之路（薛佛）》「自由日程」——邊度開始九十日。重點：九十日只做三件事做到穩。",
@@ -1531,7 +1531,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同七日行動",
       "audio": "audio/ch09.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:39",
       "briefing": {
         "paragraphs": [
           "總結《財務自由之路（薛佛）》主線：用夢想、儲蓄、投資同心態，走向財務自由。",
