@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "開場同地圖",
       "subtitle": "點樣花錢比賺幾多更能影響幸福。",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:00",
+      "audioDur": "2:22",
       "briefing": {
         "paragraphs": [
           "開場地圖：點樣花錢比賺幾多更能影響幸福。作者Elizabeth Dunn / Michael Norton。呢本帶讀唔抄原文，用粵語演繹框架。",
@@ -179,7 +179,7 @@ window.DUSHU_BOOK = {
       "title": "買體驗",
       "subtitle": "體驗多過物件",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:48",
       "briefing": {
         "paragraphs": [
           "《快樂金錢：花錢的幸福科學》「買體驗」——體驗多過物件。重點：體驗帶來更持久嘅滿足同社交談資。",
@@ -348,7 +348,7 @@ window.DUSHU_BOOK = {
       "title": "變當獎勵",
       "subtitle": "令消費變稀缺驚喜",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:51",
       "briefing": {
         "paragraphs": [
           "《快樂金錢：花錢的幸福科學》「變當獎勵」——令消費變稀缺驚喜。重點：太容易得到會減快樂；適度延遲升滋味。",
@@ -517,7 +517,7 @@ window.DUSHU_BOOK = {
       "title": "時間貴過物",
       "subtitle": "買返時間",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:49",
       "briefing": {
         "paragraphs": [
           "《快樂金錢：花錢的幸福科學》「時間貴過物」——買返時間。重點：用錢換時間，往往比再多一件物更幸福。",
@@ -686,7 +686,7 @@ window.DUSHU_BOOK = {
       "title": "超前享受",
       "subtitle": "期待本身係快樂",
       "audio": "audio/ch04.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:47",
       "briefing": {
         "paragraphs": [
           "《快樂金錢：花錢的幸福科學》「超前享受」——期待本身係快樂。重點：期待旅程有時同旅程一樣甜。",
@@ -855,7 +855,7 @@ window.DUSHU_BOOK = {
       "title": "為人花錢",
       "subtitle": "親社會消費",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《快樂金錢：花錢的幸福科學》「為人花錢」——親社會消費。重點：為人花嘅錢常比為己買物更開心。",
@@ -1024,7 +1024,7 @@ window.DUSHU_BOOK = {
       "title": "比較陷阱",
       "subtitle": "炫耀性消費衰減快",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:49",
       "briefing": {
         "paragraphs": [
           "《快樂金錢：花錢的幸福科學》「比較陷阱」——炫耀性消費衰減快。重點：適應會令新物快樂快速回落。",
@@ -1193,7 +1193,7 @@ window.DUSHU_BOOK = {
       "title": "小確幸設計",
       "subtitle": "頻率勝單次豪買",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:47",
       "briefing": {
         "paragraphs": [
           "《快樂金錢：花錢的幸福科學》「小確幸設計」——頻率勝單次豪買。重點：多次小正面體驗，往往勝一次豪買。",
@@ -1362,7 +1362,7 @@ window.DUSHU_BOOK = {
       "title": "個人實驗",
       "subtitle": "兩週消費日記",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《快樂金錢：花錢的幸福科學》「個人實驗」——兩週消費日記。重點：用自己數據找最有效快樂支出。",
@@ -1531,7 +1531,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同七日行動",
       "audio": "audio/ch09.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:38",
       "briefing": {
         "paragraphs": [
           "總結《快樂金錢：花錢的幸福科學》主線：點樣花錢比賺幾多更能影響幸福。",
