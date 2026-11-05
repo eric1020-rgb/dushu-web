@@ -191,7 +191,7 @@
     {"href": "books/originals/", "title": "離經叛道", "author": "Adam Grant", "track": "習慣 · 思維 · 科普", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c1", "mark": "原"},
     {"href": "books/option-b/", "title": "選擇B", "author": "Sheryl Sandberg / Adam Grant", "track": "習慣 · 思維 · 科普", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c2", "mark": "B"},
     {"href": "books/daring-greatly/", "title": "脆弱的力量", "author": "Brené Brown", "track": "習慣 · 思維 · 科普", "duration": "約 18 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "脆", "voice": "minimax"},
-    {"href": "books/gifts-of-imperfection/", "title": "不完美的禮物", "author": "Brené Brown", "track": "習慣 · 思維 · 科普", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c4", "mark": "缺"},
+    {"href": "books/gifts-of-imperfection/", "title": "不完美的禮物", "author": "Brené Brown", "track": "習慣 · 思維 · 科普", "duration": "約 18 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "缺", "voice": "minimax"},
     {"href": "books/rising-strong/", "title": "起來", "author": "Brené Brown", "track": "習慣 · 思維 · 科普", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c5", "mark": "起"},
     {"href": "books/atlas-of-the-heart/", "title": "心的地圖", "author": "Brené Brown", "track": "習慣 · 思維 · 科普", "duration": "約 18 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "圖", "voice": "minimax"},
     {"href": "books/deep-work/", "title": "深度工作", "author": "Cal Newport", "track": "習慣 · 思維 · 科普", "duration": "約 18 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "深", "voice": "minimax"},

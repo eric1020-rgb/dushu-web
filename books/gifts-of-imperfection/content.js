@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "開場同地圖",
       "subtitle": "全心生活：培養自我慈悲、真實同歸屬。",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:00",
+      "audioDur": "2:33",
       "briefing": {
         "paragraphs": [
           "開場地圖：全心生活：培養自我慈悲、真實同歸屬。作者Brené Brown。呢本帶讀唔抄原文，用粵語演繹框架。",
@@ -179,7 +179,7 @@ window.DUSHU_BOOK = {
       "title": "全心",
       "subtitle": "依附自己嘅價值",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《不完美的禮物》「全心」——依附自己嘅價值。重點：等完美先生活會永遠等。",
@@ -348,7 +348,7 @@ window.DUSHU_BOOK = {
       "title": "愛同歸屬",
       "subtitle": "先自我接納",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《不完美的禮物》「愛同歸屬」——先自我接納。重點：自己厭惡好難感到歸屬。",
@@ -517,7 +517,7 @@ window.DUSHU_BOOK = {
       "title": "完美主義",
       "subtitle": "羞恥盾牌",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《不完美的禮物》「完美主義」——羞恥盾牌。重點：完美主義唔係自我改進。",
@@ -686,7 +686,7 @@ window.DUSHU_BOOK = {
       "title": "情緒韌性",
       "subtitle": "允許感受",
       "audio": "audio/ch04.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:41",
       "briefing": {
         "paragraphs": [
           "《不完美的禮物》「情緒韌性」——允許感受。重點：麻木會連快樂一齊麻。",
@@ -855,7 +855,7 @@ window.DUSHU_BOOK = {
       "title": "直覺同信仰",
       "subtitle": "安靜智慧",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:40",
       "briefing": {
         "paragraphs": [
           "《不完美的禮物》「直覺同信仰」——安靜智慧。重點：忙碌會蓋過內在聲音。",
@@ -1024,7 +1024,7 @@ window.DUSHU_BOOK = {
       "title": "創造同玩",
       "subtitle": "非生產亦必要",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《不完美的禮物》「創造同玩」——非生產亦必要。重點：效率人生會乾。",
@@ -1193,7 +1193,7 @@ window.DUSHU_BOOK = {
       "title": "感恩休息",
       "subtitle": "足夠清單",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:43",
       "briefing": {
         "paragraphs": [
           "《不完美的禮物》「感恩休息」——足夠清單。重點：休息係道德責任亦係策略。",
@@ -1362,7 +1362,7 @@ window.DUSHU_BOOK = {
       "title": "指南針",
       "subtitle": "選兩三個價值",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:43",
       "briefing": {
         "paragraphs": [
           "《不完美的禮物》「指南針」——選兩三個價值。重點：價值唔寫會被世界改寫。",
@@ -1531,7 +1531,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同七日行動",
       "audio": "audio/ch09.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:36",
       "briefing": {
         "paragraphs": [
           "總結《不完美的禮物》主線：全心生活：培養自我慈悲、真實同歸屬。",
