@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "開場同地圖",
       "subtitle": "用古今智慧同現代研究，拆解幸福從何而來。",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:00",
+      "audioDur": "2:35",
       "briefing": {
         "paragraphs": [
           "開場地圖：用古今智慧同現代研究，拆解幸福從何而來。作者Jonathan Haidt。呢本帶讀唔抄原文，用粵語演繹框架。",
@@ -179,7 +179,7 @@ window.DUSHU_BOOK = {
       "title": "象與騎象人",
       "subtitle": "情緒大象同理性騎師",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:47",
       "briefing": {
         "paragraphs": [
           "《幸福的假說》「象與騎象人」——情緒大象同理性騎師。重點：只講道理馴唔住大象。",
@@ -348,7 +348,7 @@ window.DUSHU_BOOK = {
       "title": "改變公式",
       "subtitle": "冥想、認知、藥物各有位",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:46",
       "briefing": {
         "paragraphs": [
           "《幸福的假說》「改變公式」——冥想、認知、藥物各有位。重點：改變要多路徑。",
@@ -517,7 +517,7 @@ window.DUSHU_BOOK = {
       "title": "互惠同八卦",
       "subtitle": "社會動物邏輯",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:43",
       "briefing": {
         "paragraphs": [
           "《幸福的假說》「互惠同八卦」——社會動物邏輯。重點：道德直覺有演化根。",
@@ -686,7 +686,7 @@ window.DUSHU_BOOK = {
       "title": "幸福公式",
       "subtitle": "設定點＋條件＋自願活動",
       "audio": "audio/ch04.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《幸福的假說》「幸福公式」——設定點＋條件＋自願活動。重點：可控制部份要投放精力。",
@@ -855,7 +855,7 @@ window.DUSHU_BOOK = {
       "title": "愛同依附",
       "subtitle": "關係係主科",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:41",
       "briefing": {
         "paragraphs": [
           "《幸福的假說》「愛同依附」——關係係主科。重點：幸福研究一再指向關係。",
@@ -1024,7 +1024,7 @@ window.DUSHU_BOOK = {
       "title": "工作意義",
       "subtitle": "心流同目標",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《幸福的假說》「工作意義」——心流同目標。重點：工作可以係幸福來源。",
@@ -1193,7 +1193,7 @@ window.DUSHU_BOOK = {
       "title": "逆境益處",
       "subtitle": "創傷後成長可能",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《幸福的假說》「逆境益處」——創傷後成長可能。重點：唔美化苦，但苦可以轉化。",
@@ -1362,7 +1362,7 @@ window.DUSHU_BOOK = {
       "title": "實踐組合",
       "subtitle": "關係＋心流＋感恩",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:41",
       "briefing": {
         "paragraphs": [
           "《幸福的假說》「實踐組合」——關係＋心流＋感恩。重點：幸福係練習組合。",
@@ -1531,7 +1531,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同七日行動",
       "audio": "audio/ch09.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:37",
       "briefing": {
         "paragraphs": [
           "總結《幸福的假說》主線：用古今智慧同現代研究，拆解幸福從何而來。",
