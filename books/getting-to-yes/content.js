@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "開場同地圖",
       "subtitle": "原則談判：人同事分開、看利益、創選擇、用客觀標準。",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:00",
+      "audioDur": "2:26",
       "briefing": {
         "paragraphs": [
           "開場地圖：原則談判：人同事分開、看利益、創選擇、用客觀標準。作者Roger Fisher / William Ury。呢本帶讀唔抄原文，用粵語演繹框架。",
@@ -179,7 +179,7 @@ window.DUSHU_BOOK = {
       "title": "立場戰陷阱",
       "subtitle": "討價還價耗信任",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《談判力》「立場戰陷阱」——討價還價耗信任。重點：固守立場易雙輸。",
@@ -348,7 +348,7 @@ window.DUSHU_BOOK = {
       "title": "人同事分開",
       "subtitle": "硬對問題軟對人",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:43",
       "briefing": {
         "paragraphs": [
           "《談判力》「人同事分開」——硬對問題軟對人。重點：攻擊人會鎖死交易。",
@@ -517,7 +517,7 @@ window.DUSHU_BOOK = {
       "title": "利益大於立場",
       "subtitle": "點解你要呢個",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《談判力》「利益大於立場」——點解你要呢個。重點：利益地圖先有解。",
@@ -686,7 +686,7 @@ window.DUSHU_BOOK = {
       "title": "創造選擇",
       "subtitle": "先腦力再決定",
       "audio": "audio/ch04.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:43",
       "briefing": {
         "paragraphs": [
           "《談判力》「創造選擇」——先腦力再決定。重點：過早承諾殺創意。",
@@ -855,7 +855,7 @@ window.DUSHU_BOOK = {
       "title": "客觀標準",
       "subtitle": "用原則唔用意志",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:43",
       "briefing": {
         "paragraphs": [
           "《談判力》「客觀標準」——用原則唔用意志。重點：標準令面子可下。",
@@ -1024,7 +1024,7 @@ window.DUSHU_BOOK = {
       "title": "BATNA",
       "subtitle": "最佳替代方案",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《談判力》「BATNA」——最佳替代方案。重點：替代越強越唔使跪。",
@@ -1193,7 +1193,7 @@ window.DUSHU_BOOK = {
       "title": "談判柔術",
       "subtitle": "唔接招改問招",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:41",
       "briefing": {
         "paragraphs": [
           "《談判力》「談判柔術」——唔接招改問招。重點：借力打力。",
@@ -1362,7 +1362,7 @@ window.DUSHU_BOOK = {
       "title": "練習",
       "subtitle": "寫利益同 BATNA",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:41",
       "briefing": {
         "paragraphs": [
           "《談判力》「練習」——寫利益同 BATNA。重點：準備決定 Negotiating 質量。",
@@ -1531,7 +1531,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同七日行動",
       "audio": "audio/ch09.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:37",
       "briefing": {
         "paragraphs": [
           "總結《談判力》主線：原則談判：人同事分開、看利益、創選擇、用客觀標準。",

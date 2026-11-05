@@ -182,7 +182,7 @@
     {"href": "books/crucial-conversations/", "title": "關鍵對話", "author": "Kerry Patterson 等", "track": "習慣 · 思維 · 科普", "duration": "約 18 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "關", "voice": "minimax"},
     {"href": "books/difficult-conversations/", "title": "困難對話", "author": "Douglas Stone 等", "track": "習慣 · 思維 · 科普", "duration": "約 18 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "困", "voice": "minimax"},
     {"href": "books/never-split-difference/", "title": "永不妥協", "author": "Chris Voss", "track": "習慣 · 思維 · 科普", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "談"},
-    {"href": "books/getting-to-yes/", "title": "談判力", "author": "Roger Fisher / William Ury", "track": "習慣 · 思維 · 科普", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c1", "mark": "則"},
+    {"href": "books/getting-to-yes/", "title": "談判力", "author": "Roger Fisher / William Ury", "track": "習慣 · 思維 · 科普", "duration": "約 18 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "則", "voice": "minimax"},
     {"href": "books/start-with-why/", "title": "從為什麼開始", "author": "Simon Sinek", "track": "習慣 · 思維 · 科普", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c2", "mark": "為"},
     {"href": "books/leaders-eat-last/", "title": "領導者的養成", "author": "Simon Sinek", "track": "習慣 · 思維 · 科普", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c3", "mark": "領"},
     {"href": "books/drive/", "title": "動機", "author": "Daniel H. Pink", "track": "習慣 · 思維 · 科普", "duration": "約 18 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "機", "voice": "minimax"},
