@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "開場同地圖",
       "subtitle": "用極致儲蓄、賺力爆發同投資加速自由日。",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:00",
+      "audioDur": "2:35",
       "briefing": {
         "paragraphs": [
           "開場地圖：用極致儲蓄、賺力爆發同投資加速自由日。作者Grant Sabatier。呢本帶讀唔抄原文，用粵語演繹框架。",
@@ -179,7 +179,7 @@ window.DUSHU_BOOK = {
       "title": "自由日計算",
       "subtitle": "倒數你的數字",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《財務自由》「自由日計算」——倒數你的數字。重點：自由係方程式，唔係感覺。",
@@ -348,7 +348,7 @@ window.DUSHU_BOOK = {
       "title": "賺力優先",
       "subtitle": "早期加速器",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《財務自由》「賺力優先」——早期加速器。重點：存得再狠，賺力仍係油門。",
@@ -517,7 +517,7 @@ window.DUSHU_BOOK = {
       "title": "儲蓄極限挑戰",
       "subtitle": "重新定義需要",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:48",
       "briefing": {
         "paragraphs": [
           "《財務自由》「儲蓄極限挑戰」——重新定義需要。重點：試低開支，睇幸福係咪真跌。",
@@ -686,7 +686,7 @@ window.DUSHU_BOOK = {
       "title": "投資加速",
       "subtitle": "自動化投入",
       "audio": "audio/ch04.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:40",
       "briefing": {
         "paragraphs": [
           "《財務自由》「投資加速」——自動化投入。重點：錢一入來就部署。",
@@ -855,7 +855,7 @@ window.DUSHU_BOOK = {
       "title": "心理遊戲",
       "subtitle": "延遲滿足訓練",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《財務自由》「心理遊戲」——延遲滿足訓練。重點：自由之路好長，要設計獎勵。",
@@ -1024,7 +1024,7 @@ window.DUSHU_BOOK = {
       "title": "工作策略",
       "subtitle": "用工作當發射台",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《財務自由》「工作策略」——用工作當發射臺。重點：未自由前，工作仍然係資產。",
@@ -1193,7 +1193,7 @@ window.DUSHU_BOOK = {
       "title": "生活設計",
       "subtitle": "自由後做咩",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:41",
       "briefing": {
         "paragraphs": [
           "《財務自由》「生活設計」——自由後做咩。重點：提早自由要有第二劇本。",
@@ -1362,7 +1362,7 @@ window.DUSHU_BOOK = {
       "title": "風險提示",
       "subtitle": "激進有代價",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:41",
       "briefing": {
         "paragraphs": [
           "《財務自由》「風險提示」——激進有代價。重點：加速唔好燒冧你在乎嘅嘢。",
@@ -1531,7 +1531,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同七日行動",
       "audio": "audio/ch09.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:38",
       "briefing": {
         "paragraphs": [
           "總結《財務自由》主線：用極致儲蓄、賺力爆發同投資加速自由日。",
