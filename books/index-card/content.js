@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "開場同地圖",
       "subtitle": "真正有用嘅理財建議，可以寫滿一張索引卡。",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:00",
+      "audioDur": "2:23",
       "briefing": {
         "paragraphs": [
           "開場地圖：真正有用嘅理財建議，可以寫滿一張索引卡。作者Helaine Olen / Harold Pollack。呢本帶讀唔抄原文，用粵語演繹框架。",
@@ -179,7 +179,7 @@ window.DUSHU_BOOK = {
       "title": "簡單勝過複雜",
       "subtitle": "一張卡原則",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:49",
       "briefing": {
         "paragraphs": [
           "《理財索引卡（暫譯）》「簡單勝過複雜」——一張卡原則。重點：複雜往往服務賣方。",
@@ -348,7 +348,7 @@ window.DUSHU_BOOK = {
       "title": "盡量儲蓄",
       "subtitle": "儲蓄率王道",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《理財索引卡（暫譯）》「盡量儲蓄」——儲蓄率王道。重點：儲得夠，策略可以好普通。",
@@ -517,7 +517,7 @@ window.DUSHU_BOOK = {
       "title": "市場指數",
       "subtitle": "普通投資者主路",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《理財索引卡（暫譯）》「市場指數」——普通投資者主路。重點：大多數人唔使揀股人生。",
@@ -686,7 +686,7 @@ window.DUSHU_BOOK = {
       "title": "費用敏感",
       "subtitle": "每次付費都問",
       "audio": "audio/ch04.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:43",
       "briefing": {
         "paragraphs": [
           "《理財索引卡（暫譯）》「費用敏感」——每次付費都問。重點：費用係少數可控回報因子。",
@@ -855,7 +855,7 @@ window.DUSHU_BOOK = {
       "title": "房同車",
       "subtitle": "大項要清醒",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《理財索引卡（暫譯）》「房同車」——大項要清醒。重點：大項錯，咖啡慳唔返。",
@@ -1024,7 +1024,7 @@ window.DUSHU_BOOK = {
       "title": "保險適度",
       "subtitle": "保災難",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《理財索引卡（暫譯）》「保險適度」——保災難。重點：碎額保險常不值。",
@@ -1193,7 +1193,7 @@ window.DUSHU_BOOK = {
       "title": "信用同債",
       "subtitle": "高息敵對",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《理財索引卡（暫譯）》「信用同債」——高息敵對。重點：行為比技巧更前。",
@@ -1362,7 +1362,7 @@ window.DUSHU_BOOK = {
       "title": "寫低你嘅卡",
       "subtitle": "個人化九條",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:43",
       "briefing": {
         "paragraphs": [
           "《理財索引卡（暫譯）》「寫低你嘅卡」——個人化九條。重點：別人卡要改成你卡。",
@@ -1531,7 +1531,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同七日行動",
       "audio": "audio/ch09.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:38",
       "briefing": {
         "paragraphs": [
           "總結《理財索引卡（暫譯）》主線：真正有用嘅理財建議，可以寫滿一張索引卡。",

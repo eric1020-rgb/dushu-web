@@ -142,7 +142,7 @@
     {"href": "books/barefoot-investor/", "title": "赤腳投資人（暫譯）", "author": "Scott Pape", "track": "金錢習慣 · 心態", "duration": "約 18 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "赤", "voice": "minimax"},
     {"href": "books/money-master-game/", "title": "錢：掌握遊戲", "author": "Tony Robbins", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c1", "mark": "遊"},
     {"href": "books/unshakeable/", "title": "堅不可摧", "author": "Tony Robbins", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c2", "mark": "堅"},
-    {"href": "books/index-card/", "title": "理財索引卡（暫譯）", "author": "Helaine Olen / Harold Pollack", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c3", "mark": "卡"},
+    {"href": "books/index-card/", "title": "理財索引卡（暫譯）", "author": "Helaine Olen / Harold Pollack", "track": "金錢習慣 · 心態", "duration": "約 18 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "卡", "voice": "minimax"},
     {"href": "books/financial-freedom-sabatier/", "title": "財務自由", "author": "Grant Sabatier", "track": "金錢習慣 · 心態", "duration": "約 18 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "自", "voice": "minimax"},
     {"href": "books/set-for-life/", "title": "財務自由起步（暫譯）", "author": "Scott Trench", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c5", "mark": "起"},
     {"href": "books/millionaire-fastlane/", "title": "百萬富翁快車道", "author": "MJ DeMarco", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "快"},
