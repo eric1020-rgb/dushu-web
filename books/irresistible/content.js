@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "開場同地圖",
       "subtitle": "行為上癮點樣被設計出嚟，同點樣奪回控制。",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:00",
+      "audioDur": "2:33",
       "briefing": {
         "paragraphs": [
           "開場地圖：行為上癮點樣被設計出嚟，同點樣奪回控制。作者Adam Alter。呢本帶讀唔抄原文，用粵語演繹框架。",
@@ -179,7 +179,7 @@ window.DUSHU_BOOK = {
       "title": "行為上癮",
       "subtitle": "唔止物質",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:46",
       "briefing": {
         "paragraphs": [
           "《上癮》「行為上癮」——唔止物質。重點：遊戲同社交用同類機制。",
@@ -348,7 +348,7 @@ window.DUSHU_BOOK = {
       "title": "目標梯度",
       "subtitle": "就快到線",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:41",
       "briefing": {
         "paragraphs": [
           "《上癮》「目標梯度」——就快到線。重點：就差一點最難停。",
@@ -517,7 +517,7 @@ window.DUSHU_BOOK = {
       "title": "無限名單",
       "subtitle": "永遠有下一則",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《上癮》「無限名單」——永遠有下一則。重點：環境唔俾停止線索。",
@@ -686,7 +686,7 @@ window.DUSHU_BOOK = {
       "title": "工作上癮",
       "subtitle": "電郵同績效",
       "audio": "audio/ch04.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:41",
       "briefing": {
         "paragraphs": [
           "《上癮》「工作上癮」——電郵同績效。重點：被讚嘅上癮更難戒。",
@@ -855,7 +855,7 @@ window.DUSHU_BOOK = {
       "title": "兒童屏幕",
       "subtitle": "發展窗口",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:41",
       "briefing": {
         "paragraphs": [
           "《上癮》「兒童屏幕」——發展窗口。重點：大人規則要自己先守。",
@@ -1024,7 +1024,7 @@ window.DUSHU_BOOK = {
       "title": "戒斷設計",
       "subtitle": "加摩擦同替代",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:42",
       "briefing": {
         "paragraphs": [
           "《上癮》「戒斷設計」——加摩擦同替代。重點：只靠意志通常翻車。",
@@ -1193,7 +1193,7 @@ window.DUSHU_BOOK = {
       "title": "健康心流",
       "subtitle": "用好遊戲機制",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:42",
       "briefing": {
         "paragraphs": [
           "《上癮》「健康心流」——用好遊戲機制。重點：機制本身中性，用途在你。",
@@ -1362,7 +1362,7 @@ window.DUSHU_BOOK = {
       "title": "家庭協議",
       "subtitle": "共同規則",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:38",
       "briefing": {
         "paragraphs": [
           "《上癮》「家庭協議」——共同規則。重點：協議要寫低。",
@@ -1531,7 +1531,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同七日行動",
       "audio": "audio/ch09.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:35",
       "briefing": {
         "paragraphs": [
           "總結《上癮》主線：行為上癮點樣被設計出嚟，同點樣奪回控制。",
