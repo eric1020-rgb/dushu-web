@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "開場同地圖",
       "subtitle": "給予者長期勝出——前提係要識邊界，唔好變燃燒者。",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:00",
+      "audioDur": "2:25",
       "briefing": {
         "paragraphs": [
           "開場地圖：給予者長期勝出——前提係要識邊界，唔好變燃燒者。作者Adam Grant。呢本帶讀唔抄原文，用粵語演繹框架。",
@@ -179,7 +179,7 @@ window.DUSHU_BOOK = {
       "title": "三種互惠風格",
       "subtitle": "給予、索取、對等",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《給予者》「三種互惠風格」——給予、索取、對等。重點：風格影響長期回報。",
@@ -348,7 +348,7 @@ window.DUSHU_BOOK = {
       "title": "成功給予者",
       "subtitle": "他利又有界",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《給予者》「成功給予者」——他利又有界。重點：唔係有求必應。",
@@ -517,7 +517,7 @@ window.DUSHU_BOOK = {
       "title": "燃燒給予者",
       "subtitle": "被榨乾",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《給予者》「燃燒給予者」——被榨乾。重點：界線係持續給予嘅條件。",
@@ -686,7 +686,7 @@ window.DUSHU_BOOK = {
       "title": "索取者辨識",
       "subtitle": "光環同痕跡",
       "audio": "audio/ch04.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:42",
       "briefing": {
         "paragraphs": [
           "《給予者》「索取者辨識」——光環同痕跡。重點：觀察行為多過口號。",
@@ -855,7 +855,7 @@ window.DUSHU_BOOK = {
       "title": "對等者動力",
       "subtitle": "公平帳",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:40",
       "briefing": {
         "paragraphs": [
           "《給予者》「對等者動力」——公平帳。重點：文化可推向給予。",
@@ -1024,7 +1024,7 @@ window.DUSHU_BOOK = {
       "title": "職場策略",
       "subtitle": "五分鐘幫忙",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《給予者》「職場策略」——五分鐘幫忙。重點：小助人複合大網絡。",
@@ -1193,7 +1193,7 @@ window.DUSHU_BOOK = {
       "title": "談判同說服",
       "subtitle": "他利框架",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:42",
       "briefing": {
         "paragraphs": [
           "《給予者》「談判同說服」——他利框架。重點：給予敘事更易合作。",
@@ -1362,7 +1362,7 @@ window.DUSHU_BOOK = {
       "title": "個人規則",
       "subtitle": "助人政策",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:39",
       "briefing": {
         "paragraphs": [
           "《給予者》「個人規則」——助人政策。重點：政策保護善意。",
@@ -1531,7 +1531,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同七日行動",
       "audio": "audio/ch09.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:39",
       "briefing": {
         "paragraphs": [
           "總結《給予者》主線：給予者長期勝出——前提係要識邊界，唔好變燃燒者。",

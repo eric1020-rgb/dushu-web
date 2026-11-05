@@ -187,7 +187,7 @@
     {"href": "books/leaders-eat-last/", "title": "領導者的養成", "author": "Simon Sinek", "track": "習慣 · 思維 · 科普", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c3", "mark": "領"},
     {"href": "books/drive/", "title": "動機", "author": "Daniel H. Pink", "track": "習慣 · 思維 · 科普", "duration": "約 18 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "機", "voice": "minimax"},
     {"href": "books/quiet/", "title": "安靜", "author": "Susan Cain", "track": "習慣 · 思維 · 科普", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c5", "mark": "靜"},
-    {"href": "books/giving-tree-style-givers/", "title": "給予者", "author": "Adam Grant", "track": "習慣 · 思維 · 科普", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "予"},
+    {"href": "books/giving-tree-style-givers/", "title": "給予者", "author": "Adam Grant", "track": "習慣 · 思維 · 科普", "duration": "約 18 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "予", "voice": "minimax"},
     {"href": "books/originals/", "title": "離經叛道", "author": "Adam Grant", "track": "習慣 · 思維 · 科普", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c1", "mark": "原"},
     {"href": "books/option-b/", "title": "選擇B", "author": "Sheryl Sandberg / Adam Grant", "track": "習慣 · 思維 · 科普", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c2", "mark": "B"},
     {"href": "books/daring-greatly/", "title": "脆弱的力量", "author": "Brené Brown", "track": "習慣 · 思維 · 科普", "duration": "約 18 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "脆", "voice": "minimax"},
