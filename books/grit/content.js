@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "開場同地圖",
       "subtitle": "長期熱忱＋ persistence，往往預測成就多過單純天賦。",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:00",
+      "audioDur": "2:25",
       "briefing": {
         "paragraphs": [
           "開場地圖：長期熱忱＋ persistence，往往預測成就多過單純天賦。作者Angela Duckworth。呢本帶讀唔抄原文，用粵語演繹框架。",
@@ -179,7 +179,7 @@ window.DUSHU_BOOK = {
       "title": "恆毅定義",
       "subtitle": "興趣加堅持",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《恆毅力》「恆毅定義」——興趣加堅持。重點：三分鐘熱度唔係 grit。",
@@ -348,7 +348,7 @@ window.DUSHU_BOOK = {
       "title": "興趣培養",
       "subtitle": "先玩再深",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《恆毅力》「興趣培養」——先玩再深。重點：興趣可以培養，唔係純天降。",
@@ -517,7 +517,7 @@ window.DUSHU_BOOK = {
       "title": "練習質量",
       "subtitle": "有目的重複",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《恆毅力》「練習質量」——有目的重複。重點：死捱時數唔等於恆毅。",
@@ -686,7 +686,7 @@ window.DUSHU_BOOK = {
       "title": "目的感",
       "subtitle": "超越自己",
       "audio": "audio/ch04.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:39",
       "briefing": {
         "paragraphs": [
           "《恆毅力》「目的感」——超越自己。重點：目的令堅持更耐。",
@@ -855,7 +855,7 @@ window.DUSHU_BOOK = {
       "title": "希望",
       "subtitle": "我可以改善",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:39",
       "briefing": {
         "paragraphs": [
           "《恆毅力》「希望」——我可以改善。重點：希望係可學嘅解釋風格。",
@@ -1024,7 +1024,7 @@ window.DUSHU_BOOK = {
       "title": "教養同文化",
       "subtitle": "環境塑造 grit",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《恆毅力》「教養同文化」——環境塑造 grit。重點：嚴而暖比嚴而冷有效。",
@@ -1193,7 +1193,7 @@ window.DUSHU_BOOK = {
       "title": "何時放弃",
       "subtitle": "恆毅≠死撑錯事",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《恆毅力》「何時放棄」——恆毅≠死撐錯事。重點：識轉彎亦係智慧。",
@@ -1362,7 +1362,7 @@ window.DUSHU_BOOK = {
       "title": "個人分數",
       "subtitle": "興趣×練習×目的",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:41",
       "briefing": {
         "paragraphs": [
           "《恆毅力》「個人分數」——興趣×練習×目的。重點：揀一件事練到深。",
@@ -1531,7 +1531,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同七日行動",
       "audio": "audio/ch09.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:37",
       "briefing": {
         "paragraphs": [
           "總結《恆毅力》主線：長期熱忱＋ persistence，往往預測成就多過單純天賦。",
