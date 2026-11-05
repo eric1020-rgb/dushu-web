@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "開場同地圖",
       "subtitle": "人生短暫，接受有限，先會真正揀同在場。",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:00",
+      "audioDur": "2:36",
       "briefing": {
         "paragraphs": [
           "開場地圖：人生短暫，接受有限，先會真正揀同在場。作者Oliver Burkeman。呢本帶讀唔抄原文，用粵語演繹框架。",
@@ -179,7 +179,7 @@ window.DUSHU_BOOK = {
       "title": "時間有限",
       "subtitle": "四千年約八十歲",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:46",
       "briefing": {
         "paragraphs": [
           "《四千個禮拜》「時間有限」——四千年約八十歲。重點：效率解決唔到無限慾望。",
@@ -348,7 +348,7 @@ window.DUSHU_BOOK = {
       "title": "效率陷阱",
       "subtitle": "越快清單越長",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:46",
       "briefing": {
         "paragraphs": [
           "《四千個禮拜》「效率陷阱」——越快清單越長。重點：工具令你做更多非必要。",
@@ -517,7 +517,7 @@ window.DUSHU_BOOK = {
       "title": "接受限制",
       "subtitle": "先承認丟低",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:42",
       "briefing": {
         "paragraphs": [
           "《四千個禮拜》「接受限制」——先承認丟低。重點：接受先有清晰。",
@@ -686,7 +686,7 @@ window.DUSHU_BOOK = {
       "title": "注意力即人生",
       "subtitle": "你在場之處",
       "audio": "audio/ch04.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:42",
       "briefing": {
         "paragraphs": [
           "《四千個禮拜》「注意力即人生」——你在場之處。重點：生命＝你注意過嘅事。",
@@ -855,7 +855,7 @@ window.DUSHU_BOOK = {
       "title": "耐心同節奏",
       "subtitle": "反即時文化",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:41",
       "briefing": {
         "paragraphs": [
           "《四千個禮拜》「耐心同節奏」——反即時文化。重點：好東西常要時間。",
@@ -1024,7 +1024,7 @@ window.DUSHU_BOOK = {
       "title": "共同時間",
       "subtitle": "同步關係",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《四千個禮拜》「共同時間」——同步關係。重點：效率個人化會拆散連結。",
@@ -1193,7 +1193,7 @@ window.DUSHU_BOOK = {
       "title": "無意義忙碌",
       "subtitle": "宇宙角度謙卑",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:40",
       "briefing": {
         "paragraphs": [
           "《四千個禮拜》「無意義忙碌」——宇宙角度謙卑。重點：唔使偉大先值得。",
@@ -1362,7 +1362,7 @@ window.DUSHU_BOOK = {
       "title": "實踐",
       "subtitle": "三項必要＋餘裕",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:41",
       "briefing": {
         "paragraphs": [
           "《四千個禮拜》「實踐」——三項必要＋餘裕。重點：用日曆實踐有限。",
@@ -1531,7 +1531,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同七日行動",
       "audio": "audio/ch09.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:38",
       "briefing": {
         "paragraphs": [
           "總結《四千個禮拜》主線：人生短暫，接受有限，先會真正揀同在場。",
