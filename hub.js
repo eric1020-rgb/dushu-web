@@ -138,7 +138,7 @@
     {"href": "books/make-money-last/", "title": "退休金怎麼用才夠", "author": "Jane Bryant Quinn", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c2", "mark": "退"},
     {"href": "books/money-class/", "title": "金錢課", "author": "Suze Orman", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c3", "mark": "課"},
     {"href": "books/money-book-young/", "title": "年輕族群金錢書（暫譯）", "author": "Suze Orman", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c4", "mark": "青"},
-    {"href": "books/get-good-with-money/", "title": "把錢弄明白（暫譯）", "author": "Tiffany Aliche", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c5", "mark": "明"},
+    {"href": "books/get-good-with-money/", "title": "把錢弄明白（暫譯）", "author": "Tiffany Aliche", "track": "金錢習慣 · 心態", "duration": "約 18 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "明", "voice": "minimax"},
     {"href": "books/barefoot-investor/", "title": "赤腳投資人（暫譯）", "author": "Scott Pape", "track": "金錢習慣 · 心態", "duration": "約 18 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "赤", "voice": "minimax"},
     {"href": "books/money-master-game/", "title": "錢：掌握遊戲", "author": "Tony Robbins", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c1", "mark": "遊"},
     {"href": "books/unshakeable/", "title": "堅不可摧", "author": "Tony Robbins", "track": "金錢習慣 · 心態", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c2", "mark": "堅"},

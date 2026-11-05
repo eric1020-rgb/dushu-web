@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "開場同地圖",
       "subtitle": "十步財務整潔：由預算到投資到傳承。",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:00",
+      "audioDur": "2:37",
       "briefing": {
         "paragraphs": [
           "開場地圖：十步財務整潔：由預算到投資到傳承。作者Tiffany Aliche。呢本帶讀唔抄原文，用粵語演繹框架。",
@@ -179,7 +179,7 @@ window.DUSHU_BOOK = {
       "title": "財務整潔",
       "subtitle": "混亂先清理",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:46",
       "briefing": {
         "paragraphs": [
           "《把錢弄明白（暫譯）》「財務整潔」——混亂先清理。重點：先睇得清，先理得順。",
@@ -348,7 +348,7 @@ window.DUSHU_BOOK = {
       "title": "預算有溫度",
       "subtitle": "服務生活目標",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《把錢弄明白（暫譯）》「預算有溫度」——服務生活目標。重點：預算要反映你在乎咩。",
@@ -517,7 +517,7 @@ window.DUSHU_BOOK = {
       "title": "儲蓄階層",
       "subtitle": "緊急到目標",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《把錢弄明白（暫譯）》「儲蓄階層」——緊急到目標。重點：唔同目標唔同居。",
@@ -686,7 +686,7 @@ window.DUSHU_BOOK = {
       "title": "債務償還",
       "subtitle": "計劃可見",
       "audio": "audio/ch04.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:42",
       "briefing": {
         "paragraphs": [
           "《把錢弄明白（暫譯）》「債務償還」——計劃可見。重點：可見進度先頂得住。",
@@ -855,7 +855,7 @@ window.DUSHU_BOOK = {
       "title": "信用健康",
       "subtitle": "分數背後行為",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:43",
       "briefing": {
         "paragraphs": [
           "《把錢弄明白（暫譯）》「信用健康」——分數背後行為。重點：信用係行為鏡子。",
@@ -1024,7 +1024,7 @@ window.DUSHU_BOOK = {
       "title": "投資識字",
       "subtitle": "風險同目標配",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:47",
       "briefing": {
         "paragraphs": [
           "《把錢弄明白（暫譯）》「投資識字」——風險同目標配。重點：投資係工具箱，唔係賭場。",
@@ -1193,7 +1193,7 @@ window.DUSHU_BOOK = {
       "title": "保險同保護",
       "subtitle": "家庭防護網",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:46",
       "briefing": {
         "paragraphs": [
           "《把錢弄明白（暫譯）》「保險同保護」——家庭防護網。重點：保護計劃係愛嘅文件化。",
@@ -1362,7 +1362,7 @@ window.DUSHU_BOOK = {
       "title": "傳承同教學",
       "subtitle": "下一代金錢語言",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:41",
       "briefing": {
         "paragraphs": [
           "《把錢弄明白（暫譯）》「傳承同教學」——下一代金錢語言。重點：教比留更耐用。",
@@ -1531,7 +1531,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同七日行動",
       "audio": "audio/ch09.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:38",
       "briefing": {
         "paragraphs": [
           "總結《把錢弄明白（暫譯）》主線：十步財務整潔：由預算到投資到傳承。",
