@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "開場同地圖",
       "subtitle": "金錢流向跟住情緒；用感謝同信任改善同錢嘅關係。",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:00",
+      "audioDur": "2:27",
       "briefing": {
         "paragraphs": [
           "開場地圖：金錢流向跟住情緒；用感謝同信任改善同錢嘅關係。作者Ken Honda（本田健）。呢本帶讀唔抄原文，用粵語演繹框架。",
@@ -179,7 +179,7 @@ window.DUSHU_BOOK = {
       "title": "錢嘅情緒",
       "subtitle": "恐懼、愧疚、興奮",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:49",
       "briefing": {
         "paragraphs": [
           "《金錢療癒》「錢嘅情緒」——恐懼、愧疚、興奮。重點：每筆錢背後往往有情緒故事。",
@@ -348,7 +348,7 @@ window.DUSHU_BOOK = {
       "title": "感謝入帳",
       "subtitle": "接收時說謝謝",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:46",
       "briefing": {
         "paragraphs": [
           "《金錢療癒》「感謝入帳」——接收時說謝謝。重點：感謝令你更肯看清楚流向。",
@@ -517,7 +517,7 @@ window.DUSHU_BOOK = {
       "title": "快樂支出",
       "subtitle": "花錢也可以有能量",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:46",
       "briefing": {
         "paragraphs": [
           "《金錢療癒》「快樂支出」——花錢也可以有能量。重點：同價值對齊嘅支出會迴流能量。",
@@ -686,7 +686,7 @@ window.DUSHU_BOOK = {
       "title": "不快樂支出",
       "subtitle": "仇視、比較、止痛消費",
       "audio": "audio/ch04.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《金錢療癒》「不快樂支出」——仇視、比較、止痛消費。重點：為填補情緒嘅消費通常雙輸。",
@@ -855,7 +855,7 @@ window.DUSHU_BOOK = {
       "title": "信任流動",
       "subtitle": "相信會夠用嘅練習",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:47",
       "briefing": {
         "paragraphs": [
           "《金錢療癒》「信任流動」——相信會夠用嘅練習。重點：盲目樂觀唔係信任；有緩衝嘅信任先健康。",
@@ -1024,7 +1024,7 @@ window.DUSHU_BOOK = {
       "title": "童年金錢故事",
       "subtitle": "旧劇本重播",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:46",
       "briefing": {
         "paragraphs": [
           "《金錢療癒》「童年金錢故事」——舊劇本重播。重點：改寫舊句，先改而家行為。",
@@ -1193,7 +1193,7 @@ window.DUSHU_BOOK = {
       "title": "工作同報酬",
       "subtitle": "配得感",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《金錢療癒》「工作同報酬」——配得感。重點：覺得唔配，會不敢要求合理報酬。",
@@ -1362,7 +1362,7 @@ window.DUSHU_BOOK = {
       "title": "日常療癒練習",
       "subtitle": "收同支都覺察",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:43",
       "briefing": {
         "paragraphs": [
           "《金錢療癒》「日常療癒練習」——收同支都覺察。重點：細練習疊出新關係。",
@@ -1531,7 +1531,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同七日行動",
       "audio": "audio/ch09.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:40",
       "briefing": {
         "paragraphs": [
           "總結《金錢療癒》主線：金錢流向跟住情緒；用感謝同信任改善同錢嘅關係。",
