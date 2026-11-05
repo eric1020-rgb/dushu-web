@@ -178,7 +178,7 @@
     {"href": "books/nonviolent-communication/", "title": "非暴力溝通", "author": "Marshall B. Rosenberg", "track": "習慣 · 思維 · 科普", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "非"},
     {"href": "books/influence/", "title": "影響力", "author": "Robert B. Cialdini", "track": "習慣 · 思維 · 科普", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c1", "mark": "影"},
     {"href": "books/pre-suasion/", "title": "先發影響力", "author": "Robert B. Cialdini", "track": "習慣 · 思維 · 科普", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c2", "mark": "先"},
-    {"href": "books/how-to-win-friends/", "title": "人性的弱點", "author": "Dale Carnegie", "track": "習慣 · 思維 · 科普", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c3", "mark": "人"},
+    {"href": "books/how-to-win-friends/", "title": "人性的弱點", "author": "Dale Carnegie", "track": "習慣 · 思維 · 科普", "duration": "約 18 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "人", "voice": "minimax"},
     {"href": "books/crucial-conversations/", "title": "關鍵對話", "author": "Kerry Patterson 等", "track": "習慣 · 思維 · 科普", "duration": "約 18 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "關", "voice": "minimax"},
     {"href": "books/difficult-conversations/", "title": "困難對話", "author": "Douglas Stone 等", "track": "習慣 · 思維 · 科普", "duration": "約 18 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "困", "voice": "minimax"},
     {"href": "books/never-split-difference/", "title": "永不妥協", "author": "Chris Voss", "track": "習慣 · 思維 · 科普", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "談"},

@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "開場同地圖",
       "subtitle": "真誠關注他人、少批評、多鼓勵，令關係同影響力上升。",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:00",
+      "audioDur": "2:28",
       "briefing": {
         "paragraphs": [
           "開場地圖：真誠關注他人、少批評、多鼓勵，令關係同影響力上升。作者Dale Carnegie。呢本帶讀唔抄原文，用粵語演繹框架。",
@@ -179,7 +179,7 @@ window.DUSHU_BOOK = {
       "title": "唔好批評抱怨",
       "subtitle": "防衛一起就聽唔入",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:47",
       "briefing": {
         "paragraphs": [
           "《人性的弱點》「唔好批評抱怨」——防衛一起就聽唔入。重點：攻擊人格最易輸。",
@@ -348,7 +348,7 @@ window.DUSHU_BOOK = {
       "title": "真誠欣賞",
       "subtitle": "人需要被看見",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:42",
       "briefing": {
         "paragraphs": [
           "《人性的弱點》「真誠欣賞」——人需要被看見。重點：假讚會反噬。",
@@ -517,7 +517,7 @@ window.DUSHU_BOOK = {
       "title": "激起渴望",
       "subtitle": "由對方要啲咩出發",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:46",
       "briefing": {
         "paragraphs": [
           "《人性的弱點》「激起渴望」——由對方要啲咩出發。重點：只講自己要好難動人。",
@@ -686,7 +686,7 @@ window.DUSHU_BOOK = {
       "title": "對姓名同傾聽",
       "subtitle": "細節係尊重",
       "audio": "audio/ch04.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《人性的弱點》「對姓名同傾聽」——細節係尊重。重點：傾聽係最高級關注。",
@@ -855,7 +855,7 @@ window.DUSHU_BOOK = {
       "title": "令對方覺得重要",
       "subtitle": "尊重地位感受",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:42",
       "briefing": {
         "paragraphs": [
           "《人性的弱點》「令對方覺得重要」——尊重地位感受。重點：尊嚴係硬需求。",
@@ -1024,7 +1024,7 @@ window.DUSHU_BOOK = {
       "title": "避免爭贏",
       "subtitle": "贏辯論可能輸關係",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《人性的弱點》「避免爭贏」——贏辯論可能輸關係。重點：面子戰好貴。",
@@ -1193,7 +1193,7 @@ window.DUSHU_BOOK = {
       "title": "領導藝術",
       "subtitle": "提問代替命令",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《人性的弱點》「領導藝術」——提問代替命令。重點：人願意跟被尊重嘅人。",
@@ -1362,7 +1362,7 @@ window.DUSHU_BOOK = {
       "title": "今日一練",
       "subtitle": "三句具體欣賞",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:40",
       "briefing": {
         "paragraphs": [
           "《人性的弱點》「今日一練」——三句具體欣賞。重點：由今晚三句開始。",
@@ -1531,7 +1531,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同七日行動",
       "audio": "audio/ch09.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:38",
       "briefing": {
         "paragraphs": [
           "總結《人性的弱點》主線：真誠關注他人、少批評、多鼓勵，令關係同影響力上升。",
