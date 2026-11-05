@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "開場同地圖",
       "subtitle": "互惠、承諾、社交證明等原則點樣推動人說是。",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:00",
+      "audioDur": "2:33",
       "briefing": {
         "paragraphs": [
           "開場地圖：互惠、承諾、社交證明等原則點樣推動人說是。作者Robert B. Cialdini。呢本帶讀唔抄原文，用粵語演繹框架。",
@@ -179,7 +179,7 @@ window.DUSHU_BOOK = {
       "title": "互惠",
       "subtitle": "我俾你就欠",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:43",
       "briefing": {
         "paragraphs": [
           "《影響力》「互惠」——我俾你就欠。重點：識破先有選擇。",
@@ -348,7 +348,7 @@ window.DUSHU_BOOK = {
       "title": "承諾一致",
       "subtitle": "踩了一腳就難退",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:47",
       "briefing": {
         "paragraphs": [
           "《影響力》「承諾一致」——踩了一腳就難退。重點：可用喺自我約束，亦會被利用。",
@@ -517,7 +517,7 @@ window.DUSHU_BOOK = {
       "title": "社交證明",
       "subtitle": "別人做我就做",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:42",
       "briefing": {
         "paragraphs": [
           "《影響力》「社交證明」——別人做我就做。重點：不確定時最易跟。",
@@ -686,7 +686,7 @@ window.DUSHU_BOOK = {
       "title": "喜好",
       "subtitle": "喜歡先答應",
       "audio": "audio/ch04.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:42",
       "briefing": {
         "paragraphs": [
           "《影響力》「喜好」——喜歡先答應。重點：商業會製造假親密。",
@@ -855,7 +855,7 @@ window.DUSHU_BOOK = {
       "title": "權威",
       "subtitle": "符號取代內容",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:38",
       "briefing": {
         "paragraphs": [
           "《影響力》「權威」——符號取代內容。重點：問證據。",
@@ -1024,7 +1024,7 @@ window.DUSHU_BOOK = {
       "title": "稀缺",
       "subtitle": "就快冇就想要",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:42",
       "briefing": {
         "paragraphs": [
           "《影響力》「稀缺」——就快冇就想要。重點：稀缺推高衝動。",
@@ -1193,7 +1193,7 @@ window.DUSHU_BOOK = {
       "title": "防禦",
       "subtitle": "自動反應改手動",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:40",
       "briefing": {
         "paragraphs": [
           "《影響力》「防禦」——自動反應改手動。重點：關鍵係減速。",
@@ -1362,7 +1362,7 @@ window.DUSHU_BOOK = {
       "title": "正向使用",
       "subtitle": "倫理說服",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:41",
       "briefing": {
         "paragraphs": [
           "《影響力》「正向使用」——倫理說服。重點：原則可以用嚟幫人，唔係只操縱。",
@@ -1531,7 +1531,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同七日行動",
       "audio": "audio/ch09.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:34",
       "briefing": {
         "paragraphs": [
           "總結《影響力》主線：互惠、承諾、社交證明等原則點樣推動人說是。",
