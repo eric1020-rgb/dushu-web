@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "開場同地圖",
       "subtitle": "用卡片盒連結想法，令寫作同思考變成日常輸出。",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:00",
+      "audioDur": "2:26",
       "briefing": {
         "paragraphs": [
           "開場地圖：用卡片盒連結想法，令寫作同思考變成日常輸出。作者Sönke Ahrens。呢本帶讀唔抄原文，用粵語演繹框架。",
@@ -179,7 +179,7 @@ window.DUSHU_BOOK = {
       "title": "寫作即思考",
       "subtitle": "筆記唔係存檔",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《卡片盒筆記》「寫作即思考」——筆記唔係存檔。重點：抄書≠學習。",
@@ -348,7 +348,7 @@ window.DUSHU_BOOK = {
       "title": "三種筆記",
       "subtitle": "閃念、文獻、永久",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《卡片盒筆記》「三種筆記」——閃念、文獻、永久。重點：分級先唔亂。",
@@ -517,7 +517,7 @@ window.DUSHU_BOOK = {
       "title": "用自己嘅話",
       "subtitle": "理解測試",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:43",
       "briefing": {
         "paragraphs": [
           "《卡片盒筆記》「用自己嘅話」——理解測試。重點：寫得出先算學過。",
@@ -686,7 +686,7 @@ window.DUSHU_BOOK = {
       "title": "連結",
       "subtitle": "網狀知識",
       "audio": "audio/ch04.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:40",
       "briefing": {
         "paragraphs": [
           "《卡片盒筆記》「連結」——網狀知識。重點：價值喺連接。",
@@ -855,7 +855,7 @@ window.DUSHU_BOOK = {
       "title": "由興趣驅動",
       "subtitle": "項目自然生長",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:40",
       "briefing": {
         "paragraphs": [
           "《卡片盒筆記》「由興趣驅動」——項目自然生長。重點：主題會自己浮現。",
@@ -1024,7 +1024,7 @@ window.DUSHU_BOOK = {
       "title": "反收集癖",
       "subtitle": "少而精處理",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《卡片盒筆記》「反收集癖」——少而精處理。重點：囤筆記同囤書一樣。",
@@ -1193,7 +1193,7 @@ window.DUSHU_BOOK = {
       "title": "工具其次",
       "subtitle": "原則先於 App",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《卡片盒筆記》「工具其次」——原則先於 應用程式。重點：換 應用程式 解決唔到思維。",
@@ -1362,7 +1362,7 @@ window.DUSHU_BOOK = {
       "title": "七日起步",
       "subtitle": "每日三張永久卡",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:41",
       "briefing": {
         "paragraphs": [
           "《卡片盒筆記》「七日起步」——每日三張永久卡。重點：小流量養系統。",
@@ -1531,7 +1531,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同七日行動",
       "audio": "audio/ch09.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:40",
       "briefing": {
         "paragraphs": [
           "總結《卡片盒筆記》主線：用卡片盒連結想法，令寫作同思考變成日常輸出。",

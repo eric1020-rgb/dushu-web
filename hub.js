@@ -200,7 +200,7 @@
     {"href": "books/essentialism/", "title": "必要主義", "author": "Greg McKeown", "track": "習慣 · 思維 · 科普", "duration": "約 18 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "要", "voice": "minimax"},
     {"href": "books/effortless/", "title": "輕鬆的力量", "author": "Greg McKeown", "track": "習慣 · 思維 · 科普", "duration": "約 18 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "輕", "voice": "minimax"},
     {"href": "books/four-thousand-weeks/", "title": "四千個禮拜", "author": "Oliver Burkeman", "track": "習慣 · 思維 · 科普", "duration": "約 18 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "千", "voice": "minimax"},
-    {"href": "books/how-to-take-smart-notes/", "title": "卡片盒筆記", "author": "Sönke Ahrens", "track": "習慣 · 思維 · 科普", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c1", "mark": "卡"},
+    {"href": "books/how-to-take-smart-notes/", "title": "卡片盒筆記", "author": "Sönke Ahrens", "track": "習慣 · 思維 · 科普", "duration": "約 18 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "卡", "voice": "minimax"},
     {"href": "books/make-it-stick/", "title": "讓學習粘住", "author": "Brown / Roediger / McDaniel", "track": "習慣 · 思維 · 科普", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c2", "mark": "粘"},
     {"href": "books/ultralearning/", "title": "超速學習", "author": "Scott H. Young", "track": "習慣 · 思維 · 科普", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c3", "mark": "超"},
     {"href": "books/7-habits/", "title": "與成功有約", "author": "Stephen R. Covey", "track": "習慣 · 思維 · 科普", "duration": "約 18 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "七", "voice": "minimax"},
