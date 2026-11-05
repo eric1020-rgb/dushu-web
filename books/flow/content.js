@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "開場同地圖",
       "subtitle": "當挑戰同技能匹配，人會進入忘我高效嘅心流。",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:00",
+      "audioDur": "2:36",
       "briefing": {
         "paragraphs": [
           "開場地圖：當挑戰同技能匹配，人會進入忘我高效嘅心流。作者Mihaly Csikszentmihalyi。呢本帶讀唔抄原文，用粵語演繹框架。",
@@ -179,7 +179,7 @@ window.DUSHU_BOOK = {
       "title": "心流特徵",
       "subtitle": "忘時、清晰、控感",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:48",
       "briefing": {
         "paragraphs": [
           "《心流》「心流特徵」——忘時、清晰、控感。重點：心流係經驗品質，唔止效率。",
@@ -348,7 +348,7 @@ window.DUSHU_BOOK = {
       "title": "挑戰技能平衡",
       "subtitle": "太易悶太難慌",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《心流》「挑戰技能平衡」——太易悶太難慌。重點：設計任務難度係關鍵。",
@@ -517,7 +517,7 @@ window.DUSHU_BOOK = {
       "title": "工作心流",
       "subtitle": "把工變遊戲",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:43",
       "briefing": {
         "paragraphs": [
           "《心流》「工作心流」——把工變遊戲。重點：工作可以設計到更常入流。",
@@ -686,7 +686,7 @@ window.DUSHU_BOOK = {
       "title": "休閒質素",
       "subtitle": "唔係所有休息都恢復",
       "audio": "audio/ch04.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:42",
       "briefing": {
         "paragraphs": [
           "《心流》「休閒質素」——唔係所有休息都恢復。重點：低質休閒可能更攰。",
@@ -855,7 +855,7 @@ window.DUSHU_BOOK = {
       "title": "內在動機",
       "subtitle": "為活動本身",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:42",
       "briefing": {
         "paragraphs": [
           "《心流》「內在動機」——為活動本身。重點：外在獎勵有時會干擾。",
@@ -1024,7 +1024,7 @@ window.DUSHU_BOOK = {
       "title": "人生主題",
       "subtitle": "用目標串經驗",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:44",
       "briefing": {
         "paragraphs": [
           "《心流》「人生主題」——用目標串經驗。重點：心流片段要連成人生。",
@@ -1193,7 +1193,7 @@ window.DUSHU_BOOK = {
       "title": "注意力資本",
       "subtitle": "守護入口",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:41",
       "briefing": {
         "paragraphs": [
           "《心流》「注意力資本」——守護入口。重點：注意力散咗就冇流。",
@@ -1362,7 +1362,7 @@ window.DUSHU_BOOK = {
       "title": "設計一日",
       "subtitle": "兩個心流窗",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:39",
       "briefing": {
         "paragraphs": [
           "《心流》「設計一日」——兩個心流窗。重點：日曆先寫心流窗。",
@@ -1531,7 +1531,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同七日行動",
       "audio": "audio/ch09.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:37",
       "briefing": {
         "paragraphs": [
           "總結《心流》主線：當挑戰同技能匹配，人會進入忘我高效嘅心流。",

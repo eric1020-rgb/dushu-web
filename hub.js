@@ -161,7 +161,7 @@
     {"href": "books/peak-deliberate/", "title": "刻意練習", "author": "Anders Ericsson / Robert Pool", "track": "習慣 · 思維 · 科普", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c1", "mark": "刻"},
     {"href": "books/mindset/", "title": "心態致勝", "author": "Carol S. Dweck", "track": "習慣 · 思維 · 科普", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c2", "mark": "態"},
     {"href": "books/grit/", "title": "恆毅力", "author": "Angela Duckworth", "track": "習慣 · 思維 · 科普", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c3", "mark": "毅"},
-    {"href": "books/flow/", "title": "心流", "author": "Mihaly Csikszentmihalyi", "track": "習慣 · 思維 · 科普", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c4", "mark": "流"},
+    {"href": "books/flow/", "title": "心流", "author": "Mihaly Csikszentmihalyi", "track": "習慣 · 思維 · 科普", "duration": "約 18 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "流", "voice": "minimax"},
     {"href": "books/procrastination-equation/", "title": "拖延心理學", "author": "Piers Steel", "track": "習慣 · 思維 · 科普", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c5", "mark": "拖"},
     {"href": "books/stolen-focus/", "title": "分心時代", "author": "Johann Hari", "track": "習慣 · 思維 · 科普", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c-white", "mark": "分"},
     {"href": "books/lost-connections/", "title": "失去連結", "author": "Johann Hari", "track": "習慣 · 思維 · 科普", "duration": "約 28 分鐘", "chapters": "10 章", "coverClass": "c1", "mark": "連"},
