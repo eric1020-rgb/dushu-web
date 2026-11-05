@@ -10,7 +10,7 @@ window.DUSHU_BOOK = {
       "title": "開場同地圖",
       "subtitle": "創業者直言：擁有權、自律同對錢嘅飢渴。",
       "audio": "audio/ch00.mp3",
-      "audioDur": "3:00",
+      "audioDur": "2:33",
       "briefing": {
         "paragraphs": [
           "開場地圖：創業者直言：擁有權、自律同對錢嘅飢渴。作者Felix Dennis。呢本帶讀唔抄原文，用粵語演繹框架。",
@@ -179,7 +179,7 @@ window.DUSHU_BOOK = {
       "title": "擁有權",
       "subtitle": "真正嘅致富靠擁有",
       "audio": "audio/ch01.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:43",
       "briefing": {
         "paragraphs": [
           "《如何致富（暫譯）》「擁有權」——真正嘅致富靠擁有。重點：只賣時間好難暴富。",
@@ -348,7 +348,7 @@ window.DUSHU_BOOK = {
       "title": "想法廉價",
       "subtitle": "執行至貴",
       "audio": "audio/ch02.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《如何致富（暫譯）》「想法廉價」——執行至貴。重點：筆記本滿唔等於事業。",
@@ -517,7 +517,7 @@ window.DUSHU_BOOK = {
       "title": "自我解剖",
       "subtitle": "性格係唔係適合",
       "audio": "audio/ch03.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《如何致富（暫譯）》「自我解剖」——性格係唔係適合。重點：致富路徑要配性格。",
@@ -686,7 +686,7 @@ window.DUSHU_BOOK = {
       "title": "銷售現實",
       "subtitle": "一切要賣得出",
       "audio": "audio/ch04.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:45",
       "briefing": {
         "paragraphs": [
           "《如何致富（暫譯）》「銷售現實」——一切要賣得出。重點：藝術自嗨唔入帳。",
@@ -855,7 +855,7 @@ window.DUSHU_BOOK = {
       "title": "合夥同委托",
       "subtitle": "人係槓桿亦係風險",
       "audio": "audio/ch05.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:43",
       "briefing": {
         "paragraphs": [
           "《如何致富（暫譯）》「合夥同委託」——人係槓桿亦係風險。重點：錯人貴過錯策略。",
@@ -1024,7 +1024,7 @@ window.DUSHU_BOOK = {
       "title": "節儉矛盾",
       "subtitle": "私人慳、事業敢",
       "audio": "audio/ch06.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:46",
       "briefing": {
         "paragraphs": [
           "《如何致富（暫譯）》「節儉矛盾」——私人慳、事業敢。重點：生活闊綽會食事業資本。",
@@ -1193,7 +1193,7 @@ window.DUSHU_BOOK = {
       "title": "堅持同運氣",
       "subtitle": "兩者都要",
       "audio": "audio/ch07.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:42",
       "briefing": {
         "paragraphs": [
           "《如何致富（暫譯）》「堅持同運氣」——兩者都要。重點：運氣偏好仲喺場嘅人。",
@@ -1362,7 +1362,7 @@ window.DUSHU_BOOK = {
       "title": "富後課題",
       "subtitle": "保住同意義",
       "audio": "audio/ch08.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:41",
       "briefing": {
         "paragraphs": [
           "《如何致富（暫譯）》「富後課題」——保住同意義。重點：賺到同留住係兩件事。",
@@ -1531,7 +1531,7 @@ window.DUSHU_BOOK = {
       "title": "全書總結",
       "subtitle": "核心要點同七日行動",
       "audio": "audio/ch09.mp3",
-      "audioDur": "3:00",
+      "audioDur": "1:37",
       "briefing": {
         "paragraphs": [
           "總結《如何致富（暫譯）》主線：創業者直言：擁有權、自律同對錢嘅飢渴。",
